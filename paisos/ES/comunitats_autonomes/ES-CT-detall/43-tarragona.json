@@ -1,0 +1,2394 @@
+{
+  "tipus": "detall_provincial",
+  "codiINE": "43",
+  "comarques": {
+    "01": {"nom": "Alt Camp", "municipis": {
+        "430017": {
+            "nom": "Aiguamúrcia",
+            "coordenades": [41.329167, 1.358333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43815",
+            "codiINE": "43001",
+            "what3words": "///filled.count.soap"
+        },
+        "430056": {
+            "nom": "Alcover",
+            "coordenades": [41.263056, 1.168611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "L'Assumpció de Nostra Senyora"
+            },
+            "codiPostal": "43460",
+            "codiINE": "43005",
+            "what3words": "///winks.squeezed.wording"
+        },
+        "430108": {
+            "nom": "Alió",
+            "coordenades": [41.296111, 1.307778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Bartomeu"
+            },
+            "codiPostal": "43813",
+            "codiINE": "43010",
+            "what3words": "///helpful.pushed.stunt"
+        },
+        "430347": {
+            "nom": "Bràfim",
+            "coordenades": [41.268889, 1.341111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": "43812",
+            "codiINE": "43034",
+            "what3words": "///brings.shoppers.prowess"
+        },
+        "430363": {
+            "nom": "Cabra del Camp",
+            "coordenades": [41.395278, 1.276389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43811",
+            "codiINE": "43036",
+            "what3words": "///expect.travel.wonder"
+        },
+        "430593": {
+            "nom": "Figuerola del Camp",
+            "coordenades": [41.371389, 1.265],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": "43811",
+            "codiINE": "43059",
+            "what3words": "///future.present.past"
+        },
+        "430666": {
+            "nom": "els Garidells",
+            "coordenades": [41.2075, 1.2475],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": "43153",
+            "codiINE": "43066",
+            "what3words": "///wonder.full.world"
+        },
+        "430803": {
+            "nom": "La Masó",
+            "coordenades": [41.234444, 1.221111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa María Magdalena"
+            },
+            "codiPostal": "43143",
+            "codiINE": "43080",
+            "what3words": "///happy.little.trees"
+        },
+        "430831": {
+            "nom": "El Milà",
+            "coordenades": [41.247778, 1.206667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Úrsula"
+            },
+            "codiPostal": "43143",
+            "codiINE": "43083",
+            "what3words": "///bright.blue.sky"
+        },
+        "430897": {
+            "nom": "Montferri",
+            "coordenades": [41.265278, 1.365833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Bartomeu"
+            },
+            "codiPostal": "43812",
+            "codiINE": "43089",
+            "what3words": "///golden.sunrise.fields"
+        },
+        "430918": {
+            "nom": "Mont-ral",
+            "coordenades": [41.286944, 1.096944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere Ad Víncula"
+            },
+            "codiPostal": "43364",
+            "codiINE": "43091",
+            "what3words": "///mountain.top.views"
+        },
+        "430982": {
+            "nom": "Nulles",
+            "coordenades": [41.249444, 1.295278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": "43887",
+            "codiINE": "43098",
+            "what3words": "///vineyard.golden.grapes"
+        },
+        "431080": {
+            "nom": "El Pla de Santa Maria",
+            "coordenades": [41.3625, 1.291389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "L'Assumpció"
+            },
+            "codiPostal": "43810",
+            "codiINE": "43108",
+            "what3words": "///flat.plain.church"
+        },
+        "431135": {
+            "nom": "El Pont d'Armentera",
+            "coordenades": [41.383056, 1.362778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria Magdalena"
+            },
+            "codiPostal": "43817",
+            "codiINE": "43113",
+            "what3words": "///bridge.over.water"
+        },
+        "431191": {
+            "nom": "Puigpelat",
+            "coordenades": [41.280556, 1.298611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43812",
+            "codiINE": "43119",
+            "what3words": "///hill.bare.village"
+        },
+        "431205": {
+            "nom": "Querol",
+            "coordenades": [41.395278, 1.276389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa María"
+            },
+            "codiPostal": "43816",
+            "codiINE": "43120",
+            "what3words": "///stone.castle.valley"
+        },
+        "431248": {
+            "nom": "LA Riba",
+            "coordenades": [41.319722, 1.178889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Magdalena"
+            },
+            "codiPostal": "43450",
+            "codiINE": "43124",
+            "what3words": "///river.gorge.paper"
+        },
+        "431325": {
+            "nom": "Rodonyà",
+            "coordenades": [41.28, 1.399167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": "43812",
+            "codiINE": "43132",
+            "what3words": "///hill.valley.vine"
+        },
+        "431346": {
+            "nom": "El Rourell",
+            "coordenades": [41.223889, 1.218333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": "43142",
+            "codiINE": "43134",
+            "what3words": "///oak.tree.river"
+        },
+        "431606": {
+            "nom": "Vallmoll",
+            "coordenades": [41.245833, 1.249722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43144",
+            "codiINE": "43160",
+            "what3words": "///green.valley.church"
+        },
+        "431613": {
+            "nom": "Valls",
+            "coordenades": [41.288333, 1.250833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": "43800",
+            "codiINE": "43161",
+            "what3words": "///human.tower.city"
+        },
+        "431652": {
+            "nom": "Vilabella",
+            "coordenades": [41.284167, 1.266667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "43165",
+            "what3words": "///ancient.church.fields"
+        },
+        "431704": {
+            "nom": "Vila-rodona",
+            "coordenades": [41.312778, 1.359444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43814",
+            "codiINE": "43170",
+            "what3words": "///roman.columbarium.village"
+        }
+      }
+    },
+    "08": {"nom": "Baix Camp", "municipis": {
+        "430038": {
+            "nom": "l'Albiol",
+            "coordenades": [41.251944, 1.089722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": "43479",
+            "codiINE": "43003",
+            "what3words": "///mountain.view.church"
+        },
+        "430075": {
+            "nom": "l'Aleixar",
+            "coordenades": [41.201667, 1.045833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": "43381",
+            "codiINE": "43007",
+            "what3words": "///rural.charm.trails"
+        },
+        "430094": {
+            "nom": "Alforja",
+            "coordenades": [41.211389, 0.975556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": "43365",
+            "codiINE": "43009",
+            "what3words": "///historic.mining.village"
+        },
+        "430115": {
+            "nom": "Almoster",
+            "coordenades": [41.197778, 1.112778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": "43393",
+            "codiINE": "43011",
+            "what3words": "///hazelnut.harvest.festival"
+        },
+        "430154": {
+            "nom": "Arbolí",
+            "coordenades": [41.400833, 0.948889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Andreu"
+            },
+            "codiPostal": "43365",
+            "codiINE": "43015",
+            "what3words": "///rock.climbing.paradise"
+        },
+        "430173": {
+            "nom": "l'Argentera",
+            "coordenades": [41.139167, 0.910278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Bartomeu"
+            },
+            "codiPostal": "43773",
+            "codiINE": "43017",
+            "what3words": "///silver.mine.history"
+        },
+        "430311": {
+            "nom": "Les Borges del Camp",
+            "coordenades": [41.166667, 1.016667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "L'Assumpció"
+            },
+            "codiPostal": "43350",
+            "codiINE": "43031",
+            "what3words": "///hazelnut.capital.bell"
+        },
+        "430332": {
+            "nom": "Botarell",
+            "coordenades": [41.136111, 0.988889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Llorenç"
+            },
+            "codiPostal": "43772",
+            "codiINE": "43033",
+            "what3words": "///olive.tree.dance"
+        },
+        "430385": {
+            "nom": "Cambrils",
+            "coordenades": [41.113889, 1.1],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": "43850",
+            "codiINE": "43038",
+            "what3words": "///coastal.fishing.port"
+        },
+        "430398": {
+            "nom": "Capafonts",
+            "coordenades": [41.2975, 1.028333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43364",
+            "codiINE": "43039",
+            "what3words": "///fountain.head.mountains"
+        },
+        "430424": {
+            "nom": "Castellvell del Camp",
+            "coordenades": [41.18, 1.098611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Vicenç Màrtir"
+            },
+            "codiPostal": "43392",
+            "codiINE": "43042",
+            "what3words": "///old.castle.hill"
+        },
+        "430458": {
+            "nom": "Colldejou",
+            "coordenades": [41.099444, 0.8875],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tortosa",
+                "parroquia": "Sant Llorenç"
+            },
+            "codiPostal": "43310",
+            "codiINE": "43045",
+            "what3words": "///molas.valley.lizard"
+        },
+        "430537": {
+            "nom": "Duesaigües",
+            "coordenades": [41.1475, 0.931389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43773",
+            "codiINE": "43053",
+            "what3words": "///two.waters.bridges"
+        },
+        "430574": {
+            "nom": "La Febró",
+            "coordenades": [41.2775, 1.004722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Esteve"
+            },
+            "codiPostal": "43364",
+            "codiINE": "43057",
+            "what3words": "///hazelnut.cave.mountains"
+        },
+        "430810": {
+            "nom": "Maspujols",
+            "coordenades": [41.184167, 1.0475],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria Assumpta"
+            },
+            "codiPostal": "43382",
+            "codiINE": "43081",
+            "what3words": "///olive.oil.church"
+        },
+        "430884": {
+            "nom": "Montbrió del Camp",
+            "coordenades": [41.120833, 1.003611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere Apòstol"
+            },
+            "codiPostal": "43340",
+            "codiINE": "43088",
+            "what3words": "///thermal.spa.camp"
+        },
+        "430923": {
+            "nom": "Mont-roig del Camp",
+            "coordenades": [41.089167, 0.960556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": "43300",
+            "codiINE": "43092",
+            "what3words": "///red.rock.coast"
+        },
+        "431166": {
+            "nom": "Prades",
+            "coordenades": [41.5175, 0.988],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "43364",
+            "codiINE": "43116",
+            "what3words": "///golden.village.mountains"
+        },
+        "431188": {
+            "nom": "Pratdip",
+            "coordenades": [41.053056, 0.872222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tortosa",
+                "parroquia": "Nativitat de Maria"
+            },
+            "codiPostal": "43320",
+            "codiINE": "43118",
+            "what3words": "///wolf.fangs.castle"
+        },
+        "431233": {
+            "nom": "Reus",
+            "coordenades": [41.148889, 1.105278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere Apòstol"
+            },
+            "codiPostal": "43201-43206",
+            "codiINE": "43123",
+            "what3words": "///gaudi.city.hazelnuts"
+        },
+        "431270": {
+            "nom": "Riudecanyes",
+            "coordenades": [41.130556, 0.9625],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Mateu"
+            },
+            "codiPostal": "43773",
+            "codiINE": "43127",
+            "what3words": "///reservoir.castle.valley"
+        },
+        "431286": {
+            "nom": "Riudecols",
+            "coordenades": [41.168056, 0.976389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": "43390",
+            "codiINE": "43128",
+            "what3words": "///olive.oil.mountains"
+        },
+        "431299": {
+            "nom": "Riudoms",
+            "coordenades": [41.139167, 1.051944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Jaume Apòstol"
+            },
+            "codiPostal": "43330",
+            "codiINE": "43129",
+            "what3words": "///gaudi.birth.village"
+        },
+        "431457": {
+            "nom": "La Selva del Camp",
+            "coordenades": [41.214722, 1.139722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Andreu"
+            },
+            "codiPostal": "43470",
+            "codiINE": "43145",
+            "what3words": "///forest.castle.mills"
+        },
+        "431628": {
+            "nom": "Vandellòs i l'Hospitalet de l'Infant",
+            "coordenades": [41.033333, 0.85],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tortosa",
+                "parroquia": "Sant Andreu"
+            },
+            "codiPostal": "43891",
+            "codiINE": "43162",
+            "what3words": "///nuclear.coast.hospital"
+        },
+        "431671": {
+            "nom": "Vilanova d'Escornalbou",
+            "coordenades": [41.113611, 0.936667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": "43311",
+            "codiINE": "43167",
+            "what3words": "///new.village.castle"
+        },
+        "431690": {
+            "nom": "Vilaplana",
+            "coordenades": [41.229444, 1.034167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Nativitat de Nostra Senyora"
+            },
+            "codiPostal": "43380",
+            "codiINE": "43169",
+            "what3words": "///plateau.mountain.church"
+        },
+        "431785": {
+            "nom": "Vinyols i els Arcs",
+            "coordenades": [41.113611, 1.039444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Tarragona",
+                "parroquia": "Santa Caterina"
+            },
+            "codiPostal": "43391",
+            "codiINE": "43178",
+            "what3words": "///vineyards.arches.coast"
+        }
+      }
+    },
+    "09": {"nom": "Baix Ebre", "municipis": {
+        "430069": {
+          "nom": "Aldover",
+          "coordenades": [
+            40.881667,
+            0.501111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Parròquia La Nativitat de Maria"
+          },
+          "codiPostal": null,
+          "codiINE": "43006",
+          "what3words": null
+        },
+        "430081": {
+          "nom": "Alfara de Carles",
+          "coordenades": [
+            40.875556,
+            0.401389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Sant Agustí church"
+          },
+          "codiPostal": "43528",
+          "codiINE": "43008",
+          "what3words": null
+        },
+        "430136": {
+          "nom": "L'Ametlla de Mar",
+          "coordenades": [
+            40.883894,
+            0.802464
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "L’Ametlla de Mar"
+          },
+          "codiPostal": "43860",
+          "codiINE": "43013",
+          "what3words": null
+        },
+        "430252": {
+          "nom": "Benifallet",
+          "coordenades": [
+            40.975,
+            0.516667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Mare de Déu de l'Assumpsió"
+          },
+          "codiPostal": "43512",
+          "codiINE": "43025",
+          "what3words": "pretty.needed.chill"
+        },
+        "430521": {
+          "nom": "Xerta",
+          "coordenades": [
+            40.909444,
+            0.491667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Parròquia l’Assumpció de Maria"
+          },
+          "codiPostal": null,
+          "codiINE": "43052",
+          "what3words": null
+        },
+        "431021": {
+          "nom": "Paüls",
+          "coordenades": [
+            40.924167,
+            0.400278
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Parròquia La Nativitat de Maria"
+          },
+          "codiPostal": "43593",
+          "codiINE": "43102",
+          "what3words": null
+        },
+        "431042": {
+          "nom": "El Perelló",
+          "coordenades": [
+            40.876667,
+            0.713056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Parròquia l’Assumpció de Maria"
+          },
+          "codiPostal": "43519",
+          "codiINE": "43104",
+          "what3words": null
+        },
+        "431331": {
+          "nom": "Roquetes",
+          "coordenades": [
+            40.8225,
+            0.503889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Sant Antoni de Pàdua"
+          },
+          "codiPostal": "43520",
+          "codiINE": "43133",
+          "what3words": null
+        },
+        "431495": {
+          "nom": "Tivenys",
+          "coordenades": [
+            40.909444,
+            0.513333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "San Miguel Arcangel, San Benito y San Antonio Abad"
+          },
+          "codiPostal": null,
+          "codiINE": "43149",
+          "what3words": null
+        },
+        "431554": {
+          "nom": "Tortosa",
+          "coordenades": [
+            40.812778,
+            0.523333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Cathedral Basilica of Our Lady of Sorrow"
+          },
+          "codiPostal": null,
+          "codiINE": "43155",
+          "what3words": "clausura.ventosa.mandado"
+        },
+        "439018": {
+          "nom": "Deltebre",
+          "coordenades": [
+            40.71807,
+            0.73125
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "l’Assumpció (Jesús i Maria) and Sant Miquel (La Cava)"
+          },
+          "codiPostal": null,
+          "codiINE": "43901",
+          "what3words": null
+        },
+        "439039": {
+          "nom": "Camarles",
+          "coordenades": [
+            40.7709311,
+            0.6690034
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Sant Jaume and Sant Joan (Lligallos)"
+          },
+          "codiPostal": "43894",
+          "codiINE": "43903",
+          "what3words": null
+        },
+        "439044": {
+          "nom": "L'Aldea",
+          "coordenades": [
+            40.745556,
+            0.613333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "Sant Ramón and Sant Josep"
+          },
+          "codiPostal": "43896",
+          "codiINE": "43904",
+          "what3words": null
+        },
+        "439060": {
+          "nom": "L'Ampolla",
+          "coordenades": [
+            40.814167,
+            0.71
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Tortosa",
+            "parroquia": "L’Ampolla"
+          },
+          "codiPostal": "43895",
+          "codiINE": "43906",
+          "what3words": null
+        }
+      }
+    },
+    "12": {"nom": "Baix Penedés", "municipis": {
+        "430022": {
+          "nom": "Albinyana",
+          "coordenades": [
+            41.247778,
+            1.489167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Bartholomew"
+          },
+          "codiPostal": "43718",
+          "codiINE": "43002",
+          "what3words": null
+        },
+        "430167": {
+          "nom": "L'Arboç",
+          "coordenades": [
+            41.268889,
+            1.604444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "43720",
+          "codiINE": "43016",
+          "what3words": null
+        },
+        "430206": {
+          "nom": "Banyeres del Penedès",
+          "coordenades": [
+            41.279722,
+            1.583333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Santa Eulàlia and Santa Maria del Priorat"
+          },
+          "codiPostal": "43711",
+          "codiINE": "43020",
+          "what3words": null
+        },
+        "430249": {
+          "nom": "Bellvei",
+          "coordenades": [
+            41.241389,
+            1.576667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Santa Maria's Church"
+          },
+          "codiPostal": "43719",
+          "codiINE": "43024",
+          "what3words": null
+        },
+        "430287": {
+          "nom": "La Bisbal del Penedès",
+          "coordenades": [
+            41.282222,
+            1.488889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Mary"
+          },
+          "codiPostal": "43717",
+          "codiINE": "43028",
+          "what3words": null
+        },
+        "430304": {
+          "nom": "Bonastre",
+          "coordenades": [
+            41.220989,
+            1.439761
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Magdalena"
+          },
+          "codiPostal": "43884",
+          "codiINE": "43030",
+          "what3words": null
+        },
+        "430379": {
+          "nom": "Calafell",
+          "coordenades": [
+            41.1938386,
+            1.5664556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Holy Cross of Calafell and Church of the Assumption of Segur de Calafell"
+          },
+          "codiPostal": "43820",
+          "codiINE": "43037",
+          "what3words": null
+        },
+        "430516": {
+          "nom": "Cunit",
+          "coordenades": [
+            41.197558,
+            1.634533
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "43881",
+          "codiINE": "43051",
+          "what3words": null
+        },
+        "430748": {
+          "nom": "Llorenç del Penedès",
+          "coordenades": [
+            41.285833,
+            1.553333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Salvador"
+          },
+          "codiPostal": "43712",
+          "codiINE": "43074",
+          "what3words": null
+        },
+        "430799": {
+          "nom": "Masllorenç",
+          "coordenades": [
+            41.271111,
+            1.415556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "San Ramon de Penyafort"
+          },
+          "codiPostal": "43718",
+          "codiINE": "43079",
+          "what3words": null
+        },
+        "430901": {
+          "nom": "El Montmell",
+          "coordenades": [
+            41.315278,
+            1.453889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "New Church of Sant Miquel del Montmell, Old Church of Sant Miquel del Montmell, Church of Mare de Déu del Remei or Sant Marc's Hermitage"
+          },
+          "codiPostal": "43718",
+          "codiINE": "43090",
+          "what3words": null
+        },
+        "431378": {
+          "nom": "Sant Jaume dels Domenys",
+          "coordenades": [
+            41.299722,
+            1.559444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Parròquia de Sant Jaume"
+          },
+          "codiPostal": "43713",
+          "codiINE": "43137",
+          "what3words": null
+        },
+        "431401": {
+          "nom": "Santa Oliva",
+          "coordenades": [
+            41.25,
+            1.55
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "43710",
+          "codiINE": "43140",
+          "what3words": null
+        },
+        "431634": {
+          "nom": "El Vendrell",
+          "coordenades": [
+            41.2196699,
+            1.534307
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Salvador del Vendrell"
+          },
+          "codiPostal": null,
+          "codiINE": "43163",
+          "what3words": null
+        }
+      }
+    },
+    "16": {"nom": "Conca de Barberà", "municipis": {
+        "430213": {
+          "nom": "Barberà de la Conca",
+          "coordenades": [
+            41.411453,
+            1.227183
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Mary"
+          },
+          "codiPostal": "43422",
+          "codiINE": "43021",
+          "what3words": null
+        },
+        "430290": {
+          "nom": "Blancafort",
+          "coordenades": [
+            41.44,
+            1.1606
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Saint Magdalene"
+          },
+          "codiPostal": "43411",
+          "codiINE": "43029",
+          "what3words": null
+        },
+        "430461": {
+          "nom": "Conesa",
+          "coordenades": [
+            41.519189,
+            1.291389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Solsona",
+            "parroquia": "St Mary"
+          },
+          "codiPostal": "43427",
+          "codiINE": "43046",
+          "what3words": null
+        },
+        "430542": {
+          "nom": "L'Espluga de Francolí",
+          "coordenades": [
+            41.397,
+            1.1033
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Miquel or Old Church"
+          },
+          "codiPostal": "43440",
+          "codiINE": "43054",
+          "what3words": null
+        },
+        "430614": {
+          "nom": "Forès",
+          "coordenades": [
+            41.494,
+            1.238
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Miquel Arcàngel"
+          },
+          "codiPostal": "43425",
+          "codiINE": "43061",
+          "what3words": null
+        },
+        "430733": {
+          "nom": "Llorac",
+          "coordenades": [
+            41.558,
+            1.3083
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43427",
+          "codiINE": "43073",
+          "what3words": null
+        },
+        "430862": {
+          "nom": "Montblanc",
+          "coordenades": [
+            41.377222,
+            1.163889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Roman Catholic Archdiocese of Tarragona",
+            "parroquia": "Santa Maria de Montblanc"
+          },
+          "codiPostal": "43400",
+          "codiINE": "43086",
+          "what3words": null
+        },
+        "431016": {
+          "nom": "Passanant i Belltall",
+          "coordenades": [
+            41.533611,
+            1.198056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Jaume de Passanant"
+          },
+          "codiPostal": "43413",
+          "codiINE": "43101",
+          "what3words": null
+        },
+        "431055": {
+          "nom": "Les Piles",
+          "coordenades": [
+            41.503886,
+            1.342219
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "43428",
+          "codiINE": "43105",
+          "what3words": null
+        },
+        "431074": {
+          "nom": "Pira",
+          "coordenades": [
+            41.417,
+            1.2
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "San Salvador"
+          },
+          "codiPostal": "43423",
+          "codiINE": "43107",
+          "what3words": null
+        },
+        "431303": {
+          "nom": "Rocafort de Queralt",
+          "coordenades": [
+            41.479444,
+            1.283056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Salvador Church"
+          },
+          "codiPostal": "43426",
+          "codiINE": "43130",
+          "what3words": null
+        },
+        "431397": {
+          "nom": "Santa Coloma de Queralt",
+          "coordenades": [
+            41.533333,
+            1.383333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "43420",
+          "codiINE": "43139",
+          "what3words": null
+        },
+        "431418": {
+          "nom": "Pontils",
+          "coordenades": [
+            41.477175,
+            1.387972
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Nativity of the Virgin"
+          },
+          "codiPostal": "43421",
+          "codiINE": "43141",
+          "what3words": null
+        },
+        "431423": {
+          "nom": "Sarral",
+          "coordenades": [
+            41.445,
+            1.249
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Mary"
+          },
+          "codiPostal": "43424",
+          "codiINE": "43142",
+          "what3words": null
+        },
+        "431439": {
+          "nom": "Savallà del Comtat",
+          "coordenades": [
+            41.5382,
+            1.2842
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "San Pedro"
+          },
+          "codiPostal": "43427",
+          "codiINE": "43143",
+          "what3words": null
+        },
+        "431460": {
+          "nom": "Senan",
+          "coordenades": [
+            41.471944,
+            1.088333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Lleida",
+            "parroquia": "St. Senan"
+          },
+          "codiPostal": null,
+          "codiINE": "43146",
+          "what3words": null
+        },
+        "431476": {
+          "nom": "Solivella",
+          "coordenades": [
+            41.455992,
+            1.177642
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Asunción"
+          },
+          "codiPostal": "43412",
+          "codiINE": "43147",
+          "what3words": null
+        },
+        "431589": {
+          "nom": "Vallclara",
+          "coordenades": [
+            41.377092,
+            0.981525
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Assumption of Mary"
+          },
+          "codiPostal": "43439",
+          "codiINE": "43158",
+          "what3words": null
+        },
+        "431592": {
+          "nom": "Vallfogona de Riucorb",
+          "coordenades": [
+            41.563339,
+            1.257133
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Saint Mary Church"
+          },
+          "codiPostal": null,
+          "codiINE": "43159",
+          "what3words": null
+        },
+        "431687": {
+          "nom": "Vilanova de Prades",
+          "coordenades": [
+            41.35,
+            0.958611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Sant Salvador church and Sant Antoni de Pàdua shrine"
+          },
+          "codiPostal": null,
+          "codiINE": "43168",
+          "what3words": null
+        },
+        "431726": {
+          "nom": "Vilaverd",
+          "coordenades": [
+            41.336667,
+            1.178611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "St. Martin (Sant Martí)"
+          },
+          "codiPostal": "43490",
+          "codiINE": "43172",
+          "what3words": null
+        },
+        "431763": {
+          "nom": "Vimbodí i Poblet",
+          "coordenades": [
+            41.402222,
+            1.051111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Archdiocese of Tarragona",
+            "parroquia": "Monastery of Santa Maria de Poblet, Chapel of Mare de Déu dels Torrents, Church of the Transfiguration of the Lord"
+          },
+          "codiPostal": "43448",
+          "codiINE": "43176",
+          "what3words": null
+        }
+      }
+    },
+    "22": {"nom": "Montsià", "municipis": {
+        "430043": {
+          "nom": "Alcanar",
+          "coordenades": [40.544, 0.482],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "43530",
+          "codiINE": "43004",
+          "what3words": "///coast.olive.grove"
+        },
+        "430141": {
+          "nom": "Amposta",
+          "coordenades": [40.710556, 0.580833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "L'Assumpció de Maria"
+          },
+          "codiPostal": "43870",
+          "codiINE": "43014",
+          "what3words": "///river.bridge.delta"
+        },
+        "430445": {
+          "nom": "La Sénia",
+          "coordenades": [40.633561, 0.285299],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Bertomeu, apòstol"
+          },
+          "codiPostal": "43560",
+          "codiINE": "43044",
+          "what3words": "///pretty.needed.chill"
+        },
+        "430629": {
+          "nom": "Freginals",
+          "coordenades": [40.673056, 0.521389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Bertomeu, apòstol"
+          },
+          "codiPostal": "43558",
+          "codiINE": "43062",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430635": {
+          "nom": "La Galera",
+          "coordenades": [40.683333, 0.463611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "43515",
+          "codiINE": "43063",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430688": {
+          "nom": "Godall",
+          "coordenades": [40.656944, 0.470278],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Transfiguració de Jesús"
+          },
+          "codiPostal": "43516",
+          "codiINE": "43068",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430770": {
+          "nom": "Mas de Barberans",
+          "coordenades": [40.734722, 0.373333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Marc Evangelista"
+          },
+          "codiPostal": "43514",
+          "codiINE": "43077",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430786": {
+          "nom": "Masdenverge",
+          "coordenades": [40.716667, 0.533333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Mare de Déu del Roser"
+          },
+          "codiPostal": "43878",
+          "codiINE": "43078",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431362": {
+          "nom": "La Ràpita",
+          "coordenades": [40.6, 0.6],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Santíssima Trinitat"
+          },
+          "codiPostal": "43540",
+          "codiINE": "43136",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431384": {
+          "nom": "Santa Bàrbara",
+          "coordenades": [40.716944, 0.497778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Santa Bàrbara, màrtir"
+          },
+          "codiPostal": "43570",
+          "codiINE": "43138",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431567": {
+          "nom": "Ulldecona",
+          "coordenades": [40.598056, 0.448056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Lluc, evangelista"
+          },
+          "codiPostal": "43550",
+          "codiINE": "43156",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "439023": {
+          "nom": "Sant Jaume d'Enveja",
+          "coordenades": [40.705731, 0.717819],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Jaume, apòstol"
+          },
+          "codiPostal": "43877",
+          "codiINE": "43902",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        }
+      }
+    },
+    "29": {"nom": "Priorat", "municipis": {
+        "430234": {
+          "nom": "Bellmunt del Priorat",
+          "coordenades": [41.163831, 0.765461],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa Llúcia"
+          },
+          "codiPostal": "43738",
+          "codiINE": "43023",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430271": {
+          "nom": "La Bisbal de Montsant",
+          "coordenades": [41.280139, 0.723031],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Nativitat de María"
+          },
+          "codiPostal": "43372",
+          "codiINE": "43027",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430350": {
+          "nom": "Cabacés",
+          "coordenades": [41.247, 0.733],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Nativitat de María"
+          },
+          "codiPostal": "43373",
+          "codiINE": "43035",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430402": {
+          "nom": "Capçanes",
+          "coordenades": [41.100631, 0.781381],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Nativitat de María"
+          },
+          "codiPostal": "43776",
+          "codiINE": "43040",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430496": {
+          "nom": "Cornudella de Montsant",
+          "coordenades": [41.265694, 0.905039],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "43360",
+          "codiINE": "43049",
+          "what3words": "///rock.climb.peak"
+        },
+        "430555": {
+          "nom": "Falset",
+          "coordenades": [41.146189, 0.820081],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "43730",
+          "codiINE": "43055",
+          "what3words": "///grape.vine.hill"
+        },
+        "430580": {
+          "nom": "La Figuera",
+          "coordenades": [41.217778, 0.732222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "43736",
+          "codiINE": "43058",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430691": {
+          "nom": "Gratallops",
+          "coordenades": [41.195, 0.778056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "43737",
+          "codiINE": "43069",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430705": {
+          "nom": "Els Guiamets",
+          "coordenades": [41.103611, 0.753889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Lluís"
+          },
+          "codiPostal": "43777",
+          "codiINE": "43070",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430727": {
+          "nom": "El Lloar",
+          "coordenades": [41.187778, 0.751389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Miquel, arcàngel"
+          },
+          "codiPostal": "43737",
+          "codiINE": "43072",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430751": {
+          "nom": "Margalef",
+          "coordenades": [41.285278, 0.754167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "43371",
+          "codiINE": "43075",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430764": {
+          "nom": "Marçà",
+          "coordenades": [41.128611, 0.803611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "L'Assumpció de Maria"
+          },
+          "codiPostal": "43775",
+          "codiINE": "43076",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430825": {
+          "nom": "El Masroig",
+          "coordenades": [41.125981, 0.732219],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Bartomeu"
+          },
+          "codiPostal": "43736",
+          "codiINE": "43082",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430859": {
+          "nom": "El Molar",
+          "coordenades": [41.163519, 0.705972],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Roc i Sant Isidre"
+          },
+          "codiPostal": "43736",
+          "codiINE": "43085",
+          "what3words": "///format.molars.outlooks"
+        },
+        "430960": {
+          "nom": "La Morera de Montsant",
+          "coordenades": [41.264975, 0.841747],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Miquel, arcàngel"
+          },
+          "codiPostal": "43361",
+          "codiINE": "43096",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431129": {
+          "nom": "Poboleda",
+          "coordenades": [41.231, 0.856],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Pere apòstol"
+          },
+          "codiPostal": "43376",
+          "codiINE": "43112",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431140": {
+          "nom": "Porrera",
+          "coordenades": [41.183333, 0.85],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "43739",
+          "codiINE": "43114",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431153": {
+          "nom": "Pradell de la Teixeta",
+          "coordenades": [41.15658, 0.875609],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa María Magdalena"
+          },
+          "codiPostal": "43774",
+          "codiINE": "43115",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431515": {
+          "nom": "La Torre de Fontaubella",
+          "coordenades": [41.123364, 0.863822],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "43774",
+          "codiINE": "43151",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431541": {
+          "nom": "Torroja del Priorat",
+          "coordenades": [41.213499, 0.809967],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Miquel, arcàngel"
+          },
+          "codiPostal": "43737",
+          "codiINE": "43154",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431573": {
+          "nom": "Ulldemolins",
+          "coordenades": [41.323611, 0.8775],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Sant Jaume, apòstol"
+          },
+          "codiPostal": "43363",
+          "codiINE": "43157",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431732": {
+          "nom": "La Vilella Alta",
+          "coordenades": [41.225431, 0.780231],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Tarragona",
+            "parroquia": "Santa Llúcia"
+          },
+          "codiPostal": "43375",
+          "codiINE": "43173",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431747": {
+          "nom": "La Vilella Baixa",
+          "coordenades": [41.22077, 0.76262],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43374",
+          "codiINE": "43174",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        }
+      }
+    },
+    "30": {"nom": "Ribera d'Ebre", "municipis": {
+        "430192": {
+          "nom": "Ascó",
+          "coordenades": [41.183333, 0.566667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43791",
+          "codiINE": "43019",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430265": {
+          "nom": "Benissanet",
+          "coordenades": [41.058889, 0.633333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43747",
+          "codiINE": "43026",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430607": {
+          "nom": "Flix",
+          "coordenades": [41.234, 0.556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "L'Assumpció de Maria"
+          },
+          "codiPostal": "43750",
+          "codiINE": "43060",
+          "what3words": "///dam.power.plant"
+        },
+        "430653": {
+          "nom": "Garcia",
+          "coordenades": [41.138611, 0.651389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Nativitat de Maria"
+          },
+          "codiPostal": "43749",
+          "codiINE": "43065",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430672": {
+          "nom": "Ginestar",
+          "coordenades": [41.043611, 0.634722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "43748",
+          "codiINE": "43067",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430846": {
+          "nom": "Miravet",
+          "coordenades": [41.033333, 0.6],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "La Nativitat de Maria"
+          },
+          "codiPostal": "43747",
+          "codiINE": "43084",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430939": {
+          "nom": "Móra d'Ebre",
+          "coordenades": [41.093, 0.641158],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43740",
+          "codiINE": "43093",
+          "what3words": "///castle.bank.ferry"
+        },
+        "430944": {
+          "nom": "Móra la Nova",
+          "coordenades": [41.100278, 0.650833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Mare de Déu del Remei"
+          },
+          "codiPostal": "43770",
+          "codiINE": "43094",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "430995": {
+          "nom": "La Palma d'Ebre",
+          "coordenades": [41.284444, 0.666944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "L'Assumpció de Maria"
+          },
+          "codiPostal": "43370",
+          "codiINE": "43099",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431212": {
+          "nom": "Rasquera",
+          "coordenades": [41.003889, 0.599444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "43513",
+          "codiINE": "43121",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431251": {
+          "nom": "Riba-roja d'Ebre",
+          "coordenades": [41.2512192, 0.4870597],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Bartomeu"
+          },
+          "codiPostal": "43790",
+          "codiINE": "43125",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431508": {
+          "nom": "Tivissa",
+          "coordenades": [41.042299, 0.733081],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "43746",
+          "codiINE": "43150",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431520": {
+          "nom": "La Torre de l'Espanyol",
+          "coordenades": [41.191944, 0.626111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Sant Jaume el Major"
+          },
+          "codiPostal": "43792",
+          "codiINE": "43152",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        },
+        "431779": {
+          "nom": "Vinebre",
+          "coordenades": [41.183889, 0.5900],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Tortosa",
+            "parroquia": "Martiri de Sant Joan Baptista"
+          },
+          "codiPostal": "43792",
+          "codiINE": "43177",
+          "what3words": "PENDING_WHAT3WORDS_CONVERSION"
+        }
+      }
+    },
+    "36": {"nom": "Tarragonés", "municipis": {
+        "430120": {
+            "nom": "Altafulla",
+            "coordenades": [41.143333, 1.376944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Martí"
+            },
+            "codiPostal": "43893",
+            "codiINE": "43012",
+            "what3words": null
+        },
+        "430430": {
+            "nom": "El Catllar",
+            "coordenades": [41.1759037, 1.3270397],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Joan Baptista"
+            },
+            "codiPostal": "43764",
+            "codiINE": "43043",
+            "what3words": null
+        },
+        "430477": {
+            "nom": "Constantí",
+            "coordenades": [41.1535458, 1.212596],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Feliu"
+            },
+            "codiPostal": "43120",
+            "codiINE": "43047",
+            "what3words": null
+        },
+        "430509": {
+            "nom": "Creixell",
+            "coordenades": [41.1655007, 1.4359781],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Jaume Apòstol"
+            },
+            "codiPostal": "43839",
+            "codiINE": "43050",
+            "what3words": null
+        },
+        "430957": {
+            "nom": "El Morell",
+            "coordenades": [41.193611, 1.211667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Martí Bisbe"
+            },
+            "codiPostal": "43760",
+            "codiINE": "43095",
+            "what3words": null
+        },
+        "430976": {
+            "nom": "La Nou de Gaià",
+            "coordenades": [41.185278, 1.376111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa María Magdalena"
+            },
+            "codiPostal": "43763",
+            "codiINE": "43097",
+            "what3words": null
+        },
+        "431009": {
+            "nom": "Els Pallaresos",
+            "coordenades": [41.175556, 1.270556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Salvador"
+            },
+            "codiPostal": "43151",
+            "codiINE": "43100",
+            "what3words": null
+        },
+        "431037": {
+            "nom": "Perafort",
+            "coordenades": [41.190981, 1.255348],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Pere"
+            },
+            "codiPostal": "43152",
+            "codiINE": "43103",
+            "what3words": null
+        },
+        "431093": {
+            "nom": "La Pobla de Mafumet",
+            "coordenades": [41.188889, 1.211667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Joan Baptista"
+            },
+            "codiPostal": "43140",
+            "codiINE": "43109",
+            "what3words": null
+        },
+        "431114": {
+            "nom": "La Pobla de Montornès",
+            "coordenades": [41.18, 1.415833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa Maria"
+            },
+            "codiPostal": "43761",
+            "codiINE": "43111",
+            "what3words": null
+        },
+        "431227": {
+            "nom": "Renau",
+            "coordenades": [41.216667, 1.316667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa Lucía"
+            },
+            "codiPostal": "43886",
+            "codiINE": "43122",
+            "what3words": null
+        },
+        "431264": {
+            "nom": "La Riera de Gaià",
+            "coordenades": [41.164986, 1.361647],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa Margarita"
+            },
+            "codiPostal": "43762",
+            "codiINE": "43126",
+            "what3words": null
+        },
+        "431310": {
+            "nom": "Roda de Berà",
+            "coordenades": [41.187222, 1.455833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Bartomeu"
+            },
+            "codiPostal": "43883",
+            "codiINE": "43131",
+            "what3words": null
+        },
+        "431359": {
+            "nom": "Salomó",
+            "coordenades": [41.229722, 1.375],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa Maria"
+            },
+            "codiPostal": "43885",
+            "codiINE": "43135",
+            "what3words": null
+        },
+        "431444": {
+            "nom": "La Secuita",
+            "coordenades": [41.2037974, 1.2811647],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia del Sagrat Cor"
+            },
+            "codiPostal": "43765",
+            "codiINE": "43144",
+            "what3words": null
+        },
+        "431482": {
+            "nom": "Tarragona",
+            "coordenades": [41.1188827, 1.2444909],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Catedral de Santa Tecla"
+            },
+            "codiPostal": "43001",
+            "codiINE": "43148",
+            "what3words": null
+        },
+        "431536": {
+            "nom": "Torredembarra",
+            "coordenades": [41.145, 1.395556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Pere Apòstol"
+            },
+            "codiPostal": "43830",
+            "codiINE": "43153",
+            "what3words": null
+        },
+        "431649": {
+            "nom": "Vespella de Gaià",
+            "coordenades": [41.205278, 1.359444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Miquel"
+            },
+            "codiPostal": "43763",
+            "codiINE": "43164",
+            "what3words": null
+        },
+        "431665": {
+            "nom": "Vilallonga del Camp",
+            "coordenades": [41.208, 1.207],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Martí"
+            },
+            "codiPostal": "43141",
+            "codiINE": "43166",
+            "what3words": null
+        },
+        "431711": {
+            "nom": "Vila-seca",
+            "coordenades": [41.1089174, 1.1457729],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Esteve Protomàrtir"
+            },
+            "codiPostal": "43480",
+            "codiINE": "43171",
+            "what3words": null
+        },
+        "439057": {
+            "nom": "Salou",
+            "coordenades": [41.07168, 1.14983],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Santa María del Mar"
+            },
+            "codiPostal": "43840",
+            "codiINE": "43905",
+            "what3words": null
+        },
+        "439076": {
+            "nom": "La Canonja",
+            "coordenades": [41.1209005, 1.1803025],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tarragona",
+                "parroquia": "Parròquia de Sant Sebastià"
+            },
+            "codiPostal": "43110",
+            "codiINE": "43907",
+            "what3words": null
+        }
+      }
+    },
+    "37": {"nom": "Terra Alta", "municipis": {
+        "430189": {
+            "nom": "Arnes",
+            "coordenades": [40.912, 0.262],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Santa Magdalena"
+            },
+            "codiPostal": "43597",
+            "codiINE": "43018",
+            "what3words": null
+        },
+        "430228": {
+            "nom": "Batea",
+            "coordenades": [41.095833, 0.309444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Miquel Arcàngel"
+            },
+            "codiPostal": "43786",
+            "codiINE": "43022",
+            "what3words": null
+        },
+        "430326": {
+            "nom": "Bot",
+            "coordenades": [41.0, 0.383333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Josep"
+            },
+            "codiPostal": "43785",
+            "codiINE": "43032",
+            "what3words": null
+        },
+        "430419": {
+            "nom": "Caseres",
+            "coordenades": [41.033333, 0.25],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Santa Magdalena"
+            },
+            "codiPostal": "43787",
+            "codiINE": "43041",
+            "what3words": null
+        },
+        "430483": {
+            "nom": "Corbera d'Ebre",
+            "coordenades": [41.078611, 0.476667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Pere"
+            },
+            "codiPostal": "43784",
+            "codiINE": "43048",
+            "what3words": null
+        },
+        "430568": {
+            "nom": "La Fatarella",
+            "coordenades": [41.163889, 0.475],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Andreu"
+            },
+            "codiPostal": "43781",
+            "codiINE": "43056",
+            "what3words": null
+        },
+        "430640": {
+            "nom": "Gandesa",
+            "coordenades": [41.055278, 0.439722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de l'Assumpció de la Mare de Déu"
+            },
+            "codiPostal": "43780",
+            "codiINE": "43064",
+            "what3words": null
+        },
+        "430712": {
+            "nom": "Horta de Sant Joan",
+            "coordenades": [40.953889, 0.316944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Joan Baptista"
+            },
+            "codiPostal": "43596",
+            "codiINE": "43071",
+            "what3words": null
+        },
+        "431068": {
+            "nom": "El Pinell de Brai",
+            "coordenades": [41.017222, 0.515556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Llorenç"
+            },
+            "codiPostal": "43594",
+            "codiINE": "43106",
+            "what3words": null
+        },
+        "431107": {
+            "nom": "La Pobla de Massaluca",
+            "coordenades": [41.183056, 0.355],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Miquel"
+            },
+            "codiPostal": "43783",
+            "codiINE": "43110",
+            "what3words": null
+        },
+        "431172": {
+            "nom": "Prat de Comte",
+            "coordenades": [40.985, 0.407222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Bartomeu"
+            },
+            "codiPostal": "43595",
+            "codiINE": "43117",
+            "what3words": null
+        },
+        "431750": {
+            "nom": "Vilalba dels Arcs",
+            "coordenades": [41.122222, 0.410833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Tortosa",
+                "parroquia": "Parròquia de Sant Llorenç"
+            },
+            "codiPostal": "43782",
+            "codiINE": "43175",
+            "what3words": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ultimaActualitzacio": "2023-11-15",
+  "bisbats": {
+    "Barcelona": {
+      "tipus": "arquebisbat",
+      "municipis": ["08019", "08001", "08291"],
+      "provincies": ["08"]
+    },
+    "Tarragona": {
+      "tipus": "arquebisbat",
+      "municipis": ["43001", "43148"],
+      "provincies": ["43"]
+    }
+  }
+}

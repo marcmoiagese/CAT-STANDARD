@@ -1,0 +1,16 @@
+{
+  "indexAlfabetic": {
+    "A": {
+      "Abrera": {
+        "codi": "08001",
+        "ruta": "countries/ES/comunitats_autonomes/ES-CT-detall/08-barcelona.json"
+      }
+    },
+    "B": {
+      "Barcelona": {
+        "codi": "08019",
+        "ruta": "countries/ES/comunitats_autonomes/ES-CT-detall/08-barcelona.json"
+      }
+    }
+  }
+}

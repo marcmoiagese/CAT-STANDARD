@@ -1,0 +1,27 @@
+{
+  "tipus": "resum_regional",
+  "nomOficial": "Comunitat Autònoma de Catalunya",
+  "provincies": {
+    "08": {
+      "nom": "Barcelona",
+      "comarques": 13,
+      "arxiuDetall": "ES-CT-detall/08-barcelona.json"
+    },
+    "17": {
+      "nom": "Girona",
+      "comarques": 7,
+      "arxiuDetall": "ES-CT-detall/17-girona.json"
+    },
+    "25": {
+      "nom": "Lleida",
+      "comarques": 13,
+      "arxiuDetall": "ES-CT-detall/25-lleida.json"
+    },
+    "43": {
+      "nom": "Tarragona",
+      "comarques": 13,
+      "arxiuDetall": "ES-CT-detall/43-tarragona.json"
+    }
+  },
+  "bisbats": ["Barcelona", "Tarragona", "Girona", "Lleida", "Solsona", "Sant Feliu", "Terrassa", "Urgell"]
+}

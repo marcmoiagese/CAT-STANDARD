@@ -1,0 +1,3042 @@
+{
+  "tipus": "detall_provincial",
+  "codiINE": "17",
+  "comarques": {
+    "02": {"nom": "Alt Empordà", "municipis": {
+        "170010": {
+          "nom": "Agullana",
+          "coordenades": [
+            42.395189,
+            2.847522
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria Assumpta"
+          },
+          "codiPostal": "17707",
+          "codiINE": "17001",
+          "what3words": null
+        },
+        "170031": {
+          "nom": "Albanyà",
+          "coordenades": [
+            42.305839,
+            2.721244
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17733",
+          "codiINE": "17003",
+          "what3words": null
+        },
+        "170059": {
+          "nom": "Far d'Empordà, el",
+          "coordenades": [
+            42.253611,
+            2.996389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "17469",
+          "codiINE": "17005",
+          "what3words": null
+        },
+        "170118": {
+          "nom": "Armentera, l'",
+          "coordenades": [
+            42.173889,
+            3.076111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "17472",
+          "codiINE": "17011",
+          "what3words": null
+        },
+        "170123": {
+          "nom": "Avinyonet de Puigventós",
+          "coordenades": [
+            42.250556,
+            2.911944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17742",
+          "codiINE": "17012",
+          "what3words": null
+        },
+        "170144": {
+          "nom": "Vajol, la",
+          "coordenades": [
+            42.404572,
+            2.800414
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17707",
+          "codiINE": "17014",
+          "what3words": null
+        },
+        "170160": {
+          "nom": "Bàscara",
+          "coordenades": [
+            42.160556,
+            2.909999
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Iscle i Santa Victòria"
+          },
+          "codiPostal": "17483",
+          "codiINE": "17016",
+          "what3words": null
+        },
+        "170268": {
+          "nom": "Borrassà",
+          "coordenades": [
+            42.225,
+            2.927222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "17770",
+          "codiINE": "17026",
+          "what3words": null
+        },
+        "170293": {
+          "nom": "Boadella i les Escaules",
+          "coordenades": [
+            42.331389,
+            2.856944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Cecília"
+          },
+          "codiPostal": "17723",
+          "codiINE": "17029",
+          "what3words": null
+        },
+        "170307": {
+          "nom": "Cabanes",
+          "coordenades": [
+            42.311111,
+            2.976944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17761",
+          "codiINE": "17030",
+          "what3words": null
+        },
+        "170314": {
+          "nom": "Cabanelles",
+          "coordenades": [
+            42.230556,
+            2.82
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": "17746",
+          "codiINE": "17031",
+          "what3words": null
+        },
+        "170329": {
+          "nom": "Cadaqués",
+          "coordenades": [
+            42.290261,
+            3.277158
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17488",
+          "codiINE": "17032",
+          "what3words": null
+        },
+        "170412": {
+          "nom": "Cantallops",
+          "coordenades": [
+            42.424444,
+            2.926111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17708",
+          "codiINE": "17041",
+          "what3words": null
+        },
+        "170427": {
+          "nom": "Capmany",
+          "coordenades": [
+            42.376111,
+            2.921389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Àgata"
+          },
+          "codiPostal": "17750",
+          "codiINE": "17042",
+          "what3words": null
+        },
+        "170470": {
+          "nom": "Castelló d'Empúries",
+          "coordenades": [
+            42.260628,
+            3.074864
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Basílica Santa Maria"
+          },
+          "codiPostal": "17486",
+          "codiINE": "17047",
+          "what3words": null
+        },
+        "170519": {
+          "nom": "Cistella",
+          "coordenades": [
+            42.268611,
+            2.847222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria i Sant Sadurní"
+          },
+          "codiPostal": "17741",
+          "codiINE": "17051",
+          "what3words": null
+        },
+        "170524": {
+          "nom": "Siurana",
+          "coordenades": [
+            42.209444,
+            2.993889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": "17469",
+          "codiINE": "17052",
+          "what3words": null
+        },
+        "170545": {
+          "nom": "Colera",
+          "coordenades": [
+            42.406389,
+            3.154444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17496",
+          "codiINE": "17054",
+          "what3words": null
+        },
+        "170600": {
+          "nom": "Darnius",
+          "coordenades": [
+            42.364722,
+            2.833333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17722",
+          "codiINE": "17060",
+          "what3words": null
+        },
+        "170622": {
+          "nom": "Escala, l'",
+          "coordenades": [
+            42.124444,
+            3.133333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17130",
+          "codiINE": "17062",
+          "what3words": null
+        },
+        "170643": {
+          "nom": "Espolla",
+          "coordenades": [
+            42.392364,
+            3.001822
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "17753",
+          "codiINE": "17064",
+          "what3words": null
+        },
+        "170669": {
+          "nom": "Figueres",
+          "coordenades": [
+            42.266667,
+            2.95
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17600",
+          "codiINE": "17066",
+          "what3words": null
+        },
+        "170741": {
+          "nom": "Fortià",
+          "coordenades": [
+            42.244154,
+            3.041399
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17469",
+          "codiINE": "17074",
+          "what3words": null
+        },
+        "170754": {
+          "nom": "Garrigàs",
+          "coordenades": [
+            42.193333,
+            2.953889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17476",
+          "codiINE": "17075",
+          "what3words": null
+        },
+        "170773": {
+          "nom": "Garriguella",
+          "coordenades": [
+            42.345278,
+            3.057778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Eulàlia"
+          },
+          "codiPostal": "17780",
+          "codiINE": "17077",
+          "what3words": null
+        },
+        "170865": {
+          "nom": "Jonquera, la",
+          "coordenades": [
+            42.418273,
+            2.872848
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17700",
+          "codiINE": "17086",
+          "what3words": null
+        },
+        "170887": {
+          "nom": "Lladó",
+          "coordenades": [
+            42.249444,
+            2.814444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17745",
+          "codiINE": "17088",
+          "what3words": null
+        },
+        "170926": {
+          "nom": "Llançà",
+          "coordenades": [
+            42.365919,
+            3.152408
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17490",
+          "codiINE": "17092",
+          "what3words": null
+        },
+        "170932": {
+          "nom": "Llers",
+          "coordenades": [
+            42.296111,
+            2.911667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17730",
+          "codiINE": "17093",
+          "what3words": null
+        },
+        "171002": {
+          "nom": "Masarac i Vilarnadal",
+          "coordenades": [
+            42.352778,
+            2.973611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17763",
+          "codiINE": "17100",
+          "what3words": null
+        },
+        "171024": {
+          "nom": "Maçanet de Cabrenys",
+          "coordenades": [
+            42.388611,
+            2.751944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17720",
+          "codiINE": "17102",
+          "what3words": null
+        },
+        "171061": {
+          "nom": "Mollet de Peralada",
+          "coordenades": [
+            42.36,
+            3.000556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Cebrià"
+          },
+          "codiPostal": "17752",
+          "codiINE": "17106",
+          "what3words": null
+        },
+        "171117": {
+          "nom": "Navata",
+          "coordenades": [
+            42.224167,
+            2.861389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17744",
+          "codiINE": "17111",
+          "what3words": null
+        },
+        "171156": {
+          "nom": "Ordis",
+          "coordenades": [
+            42.218611,
+            2.906667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17772",
+          "codiINE": "17115",
+          "what3words": null
+        },
+        "171194": {
+          "nom": "Palau de Santa Eulàlia",
+          "coordenades": [
+            42.174,
+            2.9655
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17476",
+          "codiINE": "17119",
+          "what3words": null
+        },
+        "171208": {
+          "nom": "Palau-saverdera",
+          "coordenades": [
+            42.308036,
+            3.149820
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "17494",
+          "codiINE": "17120",
+          "what3words": null
+        },
+        "171289": {
+          "nom": "Pau",
+          "coordenades": [
+            42.315833,
+            3.116389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17494",
+          "codiINE": "17128",
+          "what3words": null
+        },
+        "171292": {
+          "nom": "Pedret i Marzà",
+          "coordenades": [
+            42.306111,
+            3.083056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17493",
+          "codiINE": "17129",
+          "what3words": null
+        },
+        "171328": {
+          "nom": "Peralada",
+          "coordenades": [
+            42.308333,
+            3.008333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17491",
+          "codiINE": "17132",
+          "what3words": null
+        },
+        "171352": {
+          "nom": "Pont de Molins",
+          "coordenades": [
+            42.314722,
+            2.930278
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17706",
+          "codiINE": "17135",
+          "what3words": null
+        },
+        "171365": {
+          "nom": "Pontós",
+          "coordenades": [
+            42.186944,
+            2.917222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "17773",
+          "codiINE": "17136",
+          "what3words": null
+        },
+        "171387": {
+          "nom": "Portbou",
+          "coordenades": [
+            42.426667,
+            3.159444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17497",
+          "codiINE": "17138",
+          "what3words": null
+        },
+        "171404": {
+          "nom": "Port de la Selva, el",
+          "coordenades": [
+            42.346389,
+            3.184722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Mare de Déu de les Neus"
+          },
+          "codiPostal": "17489",
+          "codiINE": "17140",
+          "what3words": null
+        },
+        "171432": {
+          "nom": "Rabós",
+          "coordenades": [
+            42.380428,
+            3.02885
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17754",
+          "codiINE": "17143",
+          "what3words": null
+        },
+        "171518": {
+          "nom": "Riumors",
+          "coordenades": [
+            42.19036,
+            3.02845
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Mamet"
+          },
+          "codiPostal": "17469",
+          "codiINE": "17151",
+          "what3words": null
+        },
+        "171523": {
+          "nom": "Roses",
+          "coordenades": [
+            42.263333,
+            3.175
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria Assumpta"
+          },
+          "codiPostal": "17480",
+          "codiINE": "17152",
+          "what3words": null
+        },
+        "171582": {
+          "nom": "Sant Climent Sescebes",
+          "coordenades": [
+            42.35,
+            2.933333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Climent Sescebes"
+          },
+          "codiPostal": "17751",
+          "codiINE": "17158",
+          "what3words": null
+        },
+        "171714": {
+          "nom": "Sant Llorenç de la Muga",
+          "coordenades": [
+            42.320000,
+            2.788889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Llorenç de la Muga"
+          },
+          "codiPostal": "17732",
+          "codiINE": "17171",
+          "what3words": null
+        },
+        "171753": {
+          "nom": "Sant Miquel de Fluvià",
+          "coordenades": [
+            42.177222,
+            2.992778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Miquel de Fluvià"
+          },
+          "codiPostal": "17475",
+          "codiINE": "17175",
+          "what3words": null
+        },
+        "171766": {
+          "nom": "Sant Mori",
+          "coordenades": [
+            42.155833,
+            2.989722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Maurici"
+          },
+          "codiPostal": "17467",
+          "codiINE": "17176",
+          "what3words": null
+        },
+        "171788": {
+          "nom": "Sant Pere Pescador",
+          "coordenades": [
+            42.19,
+            3.083611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere Pescador"
+          },
+          "codiPostal": "17470",
+          "codiINE": "17178",
+          "what3words": null
+        },
+        "171827": {
+          "nom": "Santa Llogaia d'Àlguema",
+          "coordenades": [
+            42.233333,
+            2.9525
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Llogaia d'Àlguema"
+          },
+          "codiPostal": "17771",
+          "codiINE": "17182",
+          "what3words": null
+        },
+        "171870": {
+          "nom": "Saus, Camallera i Llampaies",
+          "coordenades": [
+            42.123333,
+            2.965
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Bartomeu"
+          },
+          "codiPostal": "17465",
+          "codiINE": "17187",
+          "what3words": null
+        },
+        "171886": {
+          "nom": "Selva de Mar, la",
+          "coordenades": [
+            42.324081659063374,
+            3.2124432393457645
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17489",
+          "codiINE": "17188",
+          "what3words": null
+        },
+        "171962": {
+          "nom": "Terrades",
+          "coordenades": [
+            42.311944,
+            2.84
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Cecília"
+          },
+          "codiPostal": "17731",
+          "codiINE": "17196",
+          "what3words": null
+        },
+        "171984": {
+          "nom": "Torroella de Fluvià",
+          "coordenades": [
+            42.176389,
+            3.041667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Cebrià"
+          },
+          "codiPostal": "17474",
+          "codiINE": "17198",
+          "what3words": null
+        },
+        "172109": {
+          "nom": "Ventalló",
+          "coordenades": [
+            42.148889,
+            3.026389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17473",
+          "codiINE": "17210",
+          "what3words": null
+        },
+        "172142": {
+          "nom": "Vilabertran",
+          "coordenades": [
+            42.282659,
+            2.981312
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17760",
+          "codiINE": "17214",
+          "what3words": null
+        },
+        "172174": {
+          "nom": "Viladamat",
+          "coordenades": [
+            42.135278,
+            3.076111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "17137",
+          "codiINE": "17217",
+          "what3words": null
+        },
+        "172214": {
+          "nom": "Vilafant",
+          "coordenades": [
+            42.246667,
+            2.938056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Cebrià"
+          },
+          "codiPostal": "17740",
+          "codiINE": "17221",
+          "what3words": null
+        },
+        "172229": {
+          "nom": "Vilaür",
+          "coordenades": [
+            42.145,
+            2.956944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17483",
+          "codiINE": "17222",
+          "what3words": null
+        },
+        "172235": {
+          "nom": "Vilajuïga",
+          "coordenades": [
+            42.333333,
+            3.083333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "17493",
+          "codiINE": "17223",
+          "what3words": null
+        },
+        "172253": {
+          "nom": "Vilamacolum",
+          "coordenades": [
+            42.197,
+            3.057
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Assumpció de la Mare de Déu"
+          },
+          "codiPostal": "17474",
+          "codiINE": "17225",
+          "what3words": null
+        },
+        "172266": {
+          "nom": "Vilamalla",
+          "coordenades": [
+            42.216667,
+            2.970833
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17469",
+          "codiINE": "17226",
+          "what3words": null
+        },
+        "172272": {
+          "nom": "Vilamaniscle",
+          "coordenades": [
+            42.377778,
+            3.068889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Gil"
+          },
+          "codiPostal": "17781",
+          "codiINE": "17227",
+          "what3words": null
+        },
+        "172288": {
+          "nom": "Vilanant",
+          "coordenades": [
+            42.254722,
+            2.889167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17743",
+          "codiINE": "17228",
+          "what3words": null
+        },
+        "172305": {
+          "nom": "Vila-sacra",
+          "coordenades": [
+            42.266667,
+            3.016944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17485",
+          "codiINE": "17230",
+          "what3words": null
+        },
+        "172348": {
+          "nom": "Biure",
+          "coordenades": [
+            42.338056,
+            2.895
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17723",
+          "codiINE": "17234",
+          "what3words": null
+        }
+      }
+    },
+    "10": {"nom": "Baix Empordà", "municipis": {
+        "170046": {
+          "nom": "Albons",
+          "coordenades": [
+            42.108611,
+            3.081111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Cugat"
+          },
+          "codiPostal": "17136",
+          "codiINE": "17004",
+          "what3words": null
+        },
+        "170139": {
+          "nom": "Begur",
+          "coordenades": [
+            41.950000,
+            3.216667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17255",
+          "codiINE": "17013",
+          "what3words": null
+        },
+        "170182": {
+          "nom": "Bellcaire d'Empordà",
+          "coordenades": [
+            42.080833,
+            3.096111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "17141",
+          "codiINE": "17018",
+          "what3words": null
+        },
+        "170221": {
+          "nom": "La Bisbal d'Empordà",
+          "coordenades": [
+            41.960000,
+            3.040556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17100",
+          "codiINE": "17022",
+          "what3words": null
+        },
+        "170340": {
+          "nom": "Calonge i Sant Antoni",
+          "coordenades": [
+            41.862500,
+            3.076389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí, Sant Antoni"
+          },
+          "codiPostal": "17251, 17252",
+          "codiINE": "17034",
+          "what3words": null
+        },
+        "170486": {
+          "nom": "Castell d'Aro, Platja d'Aro i s'Agaró",
+          "coordenades": [
+            41.819167,
+            3.068333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Nativitat de la Mare de Déu, Santa Maria"
+          },
+          "codiPostal": "17250",
+          "codiINE": "17048",
+          "what3words": null
+        },
+        "170558": {
+          "nom": "Colomers",
+          "coordenades": [
+            42.086111,
+            2.988333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17144",
+          "codiINE": "17055",
+          "what3words": "///wished.removable.colonies"
+        },
+        "170577": {
+          "nom": "Corçà",
+          "coordenades": [
+            41.987222,
+            3.015000
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17121",
+          "codiINE": "17057",
+          "what3words": null
+        },
+        "170681": {
+          "nom": "Foixà",
+          "coordenades": [
+            42.043333,
+            2.997778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "17132",
+          "codiINE": "17068",
+          "what3words": "///ferrying.central.elder"
+        },
+        "170708": {
+          "nom": "Fontanilles",
+          "coordenades": [
+            42.011944,
+            3.108056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17257",
+          "codiINE": "17070",
+          "what3words": "///sandbags.booklets.central"
+        },
+        "170767": {
+          "nom": "Garrigoles",
+          "coordenades": [
+            42.109722,
+            3.032778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Sadurní, Sant Vicenç de les Olives"
+          },
+          "codiPostal": "17466",
+          "codiINE": "17076",
+          "what3words": null
+        },
+        "170813": {
+          "nom": "Gualta",
+          "coordenades": [
+            42.030278,
+            3.104722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17257",
+          "codiINE": "17081",
+          "what3words": "///gallons.global.yard"
+        },
+        "170852": {
+          "nom": "Jafre",
+          "coordenades": [
+            42.066667,
+            3.016667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "17143",
+          "codiINE": "17085",
+          "what3words": null
+        },
+        "171100": {
+          "nom": "Mont-ras",
+          "coordenades": [
+            41.907778,
+            3.144167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17253",
+          "codiINE": "17110",
+          "what3words": "///mount.bump.rising"
+        },
+        "171175": {
+          "nom": "Palafrugell",
+          "coordenades": [
+            41.91490,
+            3.16428
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "17124, 17200, 17210, 17211, 17212",
+          "codiINE": "17117",
+          "what3words": null
+        },
+        "171181": {
+          "nom": "Palamós",
+          "coordenades": [
+            41.850000,
+            3.129167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria del Mar, Santa Eugènia"
+          },
+          "codiPostal": "17230",
+          "codiINE": "17118",
+          "what3words": null
+        },
+        "171215": {
+          "nom": "Palau-sator",
+          "coordenades": [
+            41.989,
+            3.110
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17121",
+          "codiINE": "17121",
+          "what3words": "///track.link.range"
+        },
+        "171241": {
+          "nom": "Pals",
+          "coordenades": [
+            41.971667,
+            3.150000
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17256",
+          "codiINE": "17124",
+          "what3words": null
+        },
+        "171267": {
+          "nom": "Parlavà",
+          "coordenades": [
+            42.024444,
+            3.032222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "17133",
+          "codiINE": "17126",
+          "what3words": null
+        },
+        "171306": {
+          "nom": "La Pera",
+          "coordenades": [
+            42.020386,
+            2.973442
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Isidor"
+          },
+          "codiPostal": "17120",
+          "codiINE": "17130",
+          "what3words": null
+        },
+        "171447": {
+          "nom": "Regencós",
+          "coordenades": [
+            41.950000,
+            3.166667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17254",
+          "codiINE": "17141",
+          "what3words": "///engraving.central.restores"
+        },
+        "171539": {
+          "nom": "Rupià",
+          "coordenades": [
+            42.016667,
+            3.016667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17131",
+          "codiINE": "17153",
+          "what3words": null
+        },
+        "171609": {
+          "nom": "Sant Feliu de Guíxols",
+          "coordenades": [
+            41.780556,
+            3.030556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Mare de Déu dels Àngels, Santa Maria Assumpta"
+          },
+          "codiPostal": "17220",
+          "codiINE": "17160",
+          "what3words": "///locked.during.aspect"
+        },
+        "171812": {
+          "nom": "Santa Cristina d'Aro",
+          "coordenades": [
+            41.8137777,
+            2.9972986
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Cristina d'Aro"
+          },
+          "codiPostal": "17246",
+          "codiINE": "17181",
+          "what3words": null
+        },
+        "171910": {
+          "nom": "Serra de Daró",
+          "coordenades": [
+            42.029444,
+            3.073611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17133",
+          "codiINE": "17191",
+          "what3words": null
+        },
+        "171959": {
+          "nom": "La Tallada d'Empordà",
+          "coordenades": [
+            42.081389,
+            3.055833
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17134",
+          "codiINE": "17195",
+          "what3words": null
+        },
+        "171978": {
+          "nom": "Torrent",
+          "coordenades": [
+            41.952500,
+            3.127778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17123",
+          "codiINE": "17197",
+          "what3words": "///raspberry.torrents.stimulate"
+        },
+        "171997": {
+          "nom": "Torroella de Montgrí",
+          "coordenades": [
+            42.043889,
+            3.128611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Genís"
+          },
+          "codiPostal": "17257",
+          "codiINE": "17199",
+          "what3words": null
+        },
+        "172039": {
+          "nom": "Ultramort",
+          "coordenades": [
+            42.033333,
+            3.033333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Eulàlia"
+          },
+          "codiPostal": "17133",
+          "codiINE": "17203",
+          "what3words": "///directions.mappings.ultramodern"
+        },
+        "172044": {
+          "nom": "Ullà",
+          "coordenades": [
+            42.052500,
+            3.109167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17140",
+          "codiINE": null,
+          "what3words": "///advertises.lull.alley"
+        },
+        "172057": {
+          "nom": "Ullastret",
+          "coordenades": [
+            42.000548,
+            3.068483
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17114",
+          "codiINE": "17205",
+          "what3words": null
+        },
+        "172095": {
+          "nom": "Vall-llobrega",
+          "coordenades": [
+            41.883333,
+            3.133333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Mateu"
+          },
+          "codiPostal": "17253",
+          "codiINE": "17209",
+          "what3words": null
+        },
+        "172116": {
+          "nom": "Verges",
+          "coordenades": [
+            42.063611,
+            3.047778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Julià i Santa Basilissa"
+          },
+          "codiPostal": "17211",
+          "codiINE": "17212",
+          "what3words": "///verge.reflect.moves"
+        },
+        "172327": {
+          "nom": "Vilopriu",
+          "coordenades": [
+            42.107500,
+            2.994444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17466",
+          "codiINE": "17232",
+          "what3words": null
+        },
+        "179011": {
+          "nom": "Cruïlles, Monells i Sant Sadurní de l'Heura",
+          "coordenades": [
+            41.956389,
+            2.991389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Eulàlia, Sant Genís, Sant Sadurní de l'Heura"
+          },
+          "codiPostal": "17118",
+          "codiINE": "17901",
+          "what3words": null
+        },
+        "179026": {
+          "nom": "Forallac",
+          "coordenades": [
+            41.957500,
+            3.056667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve (Peratallada), Santa Coloma (Fitor), Santa Maria (Fonteta), Sant Climent de Peralta, Sant Julià i Santa Basilissa (Vulpellac)"
+          },
+          "codiPostal": "17111",
+          "codiINE": "17902",
+          "what3words": null
+        }
+      }
+    },
+    "19": {"nom": "Garrotxa", "municipis": {
+        "170101": {
+          "nom": "Argelaguer",
+          "coordenades": [42.214444, 2.641389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17010",
+          "what3words": null
+        },
+        "170195": {
+          "nom": "Besalú",
+          "coordenades": [42.198889, 2.698611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17019",
+          "what3words": null
+        },
+        "170216": {
+          "nom": "Beuda",
+          "coordenades": [42.236944, 2.709722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17021",
+          "what3words": null
+        },
+        "170464": {
+          "nom": "Castellfollit de la Roca",
+          "coordenades": [42.221389, 2.550833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17856",
+          "codiINE": "17046",
+          "what3words": null
+        },
+        "170985": {
+          "nom": "Maià de Montcal",
+          "coordenades": [42.222222, 2.742500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17851",
+          "codiINE": "17098",
+          "what3words": null
+        },
+        "171058": {
+          "nom": "Mieres",
+          "coordenades": [42.124444, 2.640000],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17105",
+          "what3words": null
+        },
+        "171096": {
+          "nom": "Montagut i Oix",
+          "coordenades": [42.231389, 2.595556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17855",
+          "codiINE": "17109",
+          "what3words": null
+        },
+        "171143": {
+          "nom": "Olot",
+          "coordenades": [42.182222, 2.488889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17800",
+          "codiINE": "17114",
+          "what3words": null
+        },
+        "171334": {
+          "nom": "Les Planes d'Hostoles",
+          "coordenades": [42.056667, 2.538333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17173",
+          "codiINE": "17133",
+          "what3words": null
+        },
+        "171390": {
+          "nom": "Les Preses",
+          "coordenades": [42.146389, 2.459444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17139",
+          "what3words": null
+        },
+        "171498": {
+          "nom": "Riudaura",
+          "coordenades": [42.188611, 2.409444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17149",
+          "what3words": null
+        },
+        "171544": {
+          "nom": "Sales de Llierca",
+          "coordenades": [42.236111, 2.650000],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17154",
+          "what3words": null
+        },
+        "171616": {
+          "nom": "Sant Feliu de Pallerols",
+          "coordenades": [42.075833, 2.507778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17174",
+          "codiINE": "17161",
+          "what3words": null
+        },
+        "171621": {
+          "nom": "Sant Ferriol",
+          "coordenades": [42.194722, 2.714444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17162",
+          "what3words": null
+        },
+        "171655": {
+          "nom": "Sant Jaume de Llierca",
+          "coordenades": [42.211944, 2.607500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17165",
+          "what3words": null
+        },
+        "171833": {
+          "nom": "Sant Aniol de Finestres",
+          "coordenades": [42.072222, 2.615556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17183",
+          "what3words": null
+        },
+        "171848": {
+          "nom": "Santa Pau",
+          "coordenades": [42.145833, 2.572222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17184",
+          "what3words": null
+        },
+        "171851": {
+          "nom": "Sant Joan les Fonts",
+          "coordenades": [42.212500, 2.511667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17185",
+          "what3words": null
+        },
+        "172001": {
+          "nom": "Tortellà",
+          "coordenades": [42.235278, 2.631389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17200",
+          "what3words": null
+        },
+        "172076": {
+          "nom": "La Vall d'en Bas",
+          "coordenades": [42.117778, 2.458889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17207",
+          "what3words": null
+        },
+        "172082": {
+          "nom": "La Vall de Bianya",
+          "coordenades": [42.241389, 2.432500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17813",
+          "codiINE": "17208",
+          "what3words": null
+        }
+      }
+    },
+    "20": {"nom": "Gironès", "municipis": {
+        "170025": {
+          "nom": "Aiguaviva",
+          "coordenades": [41.938611, 2.762222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17181",
+          "codiINE": "17002",
+          "what3words": null
+        },
+        "170209": {
+          "nom": "Bescanó",
+          "coordenades": [41.964722, 2.737000],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17020",
+          "what3words": null
+        },
+        "170255": {
+          "nom": "Bordils",
+          "coordenades": [42.045556, 2.913333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17025",
+          "what3words": null
+        },
+        "170388": {
+          "nom": "Campllong",
+          "coordenades": [41.895556, 2.831944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17038",
+          "what3words": null
+        },
+        "170405": {
+          "nom": "Canet d'Adri",
+          "coordenades": [42.033333, 2.737222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17199",
+          "codiINE": "17040",
+          "what3words": null
+        },
+        "170448": {
+          "nom": "Cassà de la Selva",
+          "coordenades": [41.889444, 2.874167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17044",
+          "what3words": null
+        },
+        "170499": {
+          "nom": "Celrà",
+          "coordenades": [42.024722, 2.878889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17049",
+          "what3words": null
+        },
+        "170502": {
+          "nom": "Cervià de Ter",
+          "coordenades": [42.069167, 2.911667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17050",
+          "what3words": null
+        },
+        "170675": {
+          "nom": "Flaçà",
+          "coordenades": [42.050556, 2.955556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17067",
+          "what3words": null
+        },
+        "170736": {
+          "nom": "Fornells de la Selva",
+          "coordenades": [41.936111, 2.813056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17073",
+          "what3words": null
+        },
+        "170792": {
+          "nom": "Girona",
+          "coordenades": [41.983333, 2.816667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17079",
+          "what3words": null
+        },
+        "170871": {
+          "nom": "Juià",
+          "coordenades": [42.017500, 2.907500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17087",
+          "what3words": null
+        },
+        "170890": {
+          "nom": "Llagostera",
+          "coordenades": [41.829167, 2.893333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17089",
+          "what3words": null
+        },
+        "170904": {
+          "nom": "Llambilles",
+          "coordenades": [41.920833, 2.858889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17243",
+          "codiINE": "17090",
+          "what3words": null
+        },
+        "170979": {
+          "nom": "Madremanya",
+          "coordenades": [41.990000, 2.957222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17097",
+          "what3words": null
+        },
+        "171426": {
+          "nom": "Quart",
+          "coordenades": [41.940000, 2.840000],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17142",
+          "what3words": null
+        },
+        "171557": {
+          "nom": "Salt",
+          "coordenades": [41.976111, 2.788056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17155",
+          "what3words": null
+        },
+        "171576": {
+          "nom": "Sant Andreu Salou",
+          "coordenades": [41.875000, 2.826667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17157",
+          "what3words": null
+        },
+        "171637": {
+          "nom": "Sant Gregori",
+          "coordenades": [41.989167, 2.759722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17163",
+          "what3words": null
+        },
+        "171668": {
+          "nom": "Sant Jordi Desvalls",
+          "coordenades": [42.073056, 2.954722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17166",
+          "what3words": null
+        },
+        "171680": {
+          "nom": "Sant Joan de Mollet",
+          "coordenades": [42.046111, 2.941944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": "17463",
+          "codiINE": "17168",
+          "what3words": null
+        },
+        "171693": {
+          "nom": "Sant Julià de Ramis",
+          "coordenades": [42.034722, 2.839444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17169",
+          "what3words": null
+        },
+        "171729": {
+          "nom": "Sant Martí de Llémena",
+          "coordenades":[],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17172",
+          "what3words": null
+        },
+        "171735": {
+          "nom": "Sant Martí Vell",
+          "coordenades": [42.021944, 2.931667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17173",
+          "what3words": null
+        },
+        "171864": {
+          "nom": "Sarrià de Ter",
+          "coordenades": [42.018056, 2.826111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17186",
+          "what3words": null
+        },
+        "172155": {
+          "nom": "Vilablareix",
+          "coordenades": [41.952500, 2.793611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17215",
+          "what3words": null
+        },
+        "172168": {
+          "nom": "Viladasens",
+          "coordenades": [42.096944, 2.931667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": null
+          },
+          "codiPostal": null,
+          "codiINE": "17216",
+          "what3words": null
+        }
+      }
+    },
+    "28": {"nom": "Pla de l'Estany", "municipis": {
+        "170157": {
+            "nom": "Banyoles",
+            "coordenades": [42.119444, 2.766389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Banyoles)"
+            },
+            "codiPostal": "17820",
+            "codiINE": "17015",
+            "what3words": "///sailing.fencing.swimming"
+        },
+        "170353": {
+            "nom": "Camós",
+            "coordenades": [42.094444, 2.767222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Vicenç (Camós)"
+            },
+            "codiPostal": "17834",
+            "codiINE": "17035",
+            "what3words": "///spill.manned.spelling"
+        },
+        "170561": {
+            "nom": "Cornellà del Terri",
+            "coordenades": [42.090000, 2.815833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Pere (Cornellà del Terri)"
+            },
+            "codiPostal": "17844",
+            "codiINE": "17056",
+            "what3words": "///relishes.chatter.latch"
+        },
+        "170583": {
+            "nom": "Crespià",
+            "coordenades": [42.189722, 2.800278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Eulàlia (Crespià)"
+            },
+            "codiPostal": "17832",
+            "codiINE": "17058",
+            "what3words": "///crispier.subsets.card"
+        },
+        "170656": {
+            "nom": "Esponellà",
+            "coordenades": [42.178889, 2.795000],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Cebrià (Esponellà)"
+            },
+            "codiPostal": "17832",
+            "codiINE": "17065",
+            "what3words": "///impact.silently.square"
+        },
+        "170715": {
+            "nom": "Fontcoberta",
+            "coordenades": [42.144444, 2.791111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Feliu (Fontcoberta)"
+            },
+            "codiPostal": "17833",
+            "codiINE": "17071",
+            "what3words": "///pretty.needed.chill"
+        },
+        "171236": {
+            "nom": "Palol de Revardit",
+            "coordenades": [42.071944, 2.797222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Miquel (Palol de Revardit)"
+            },
+            "codiPostal": "17843",
+            "codiINE": "17123",
+            "what3words": "///plot.love.scans"
+        },
+        "171371": {
+            "nom": "Porqueres",
+            "coordenades": [42.121897, 2.748208],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Porqueres)"
+            },
+            "codiPostal": "17834",
+            "codiINE": "17137",
+            "what3words": "///locate.critic.common"
+        },
+        "171740": {
+            "nom": "Sant Miquel de Campmajor",
+            "coordenades": [42.135833, 2.679167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Miquel de Campmajor"
+            },
+            "codiPostal": "17831",
+            "codiINE": "17174",
+            "what3words": "///tame.thrived.blending"
+        },
+        "171903": {
+            "nom": "Serinyà",
+            "coordenades": [42.170278, 2.744167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Andreu (Serinyà)"
+            },
+            "codiPostal": "17852",
+            "codiINE": "17190",
+            "what3words": "///swords.winds.incorporate"
+        },
+        "172180": {
+            "nom": "Vilademuls",
+            "coordenades": [42.140556, 2.890000],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Joan Baptista (Vilademuls)"
+            },
+            "codiPostal": "17468",
+            "codiINE": "17218",
+            "what3words": "///vague.wide.square"
+        }
+      }
+    },
+    "34": {"nom": "Selva", "municipis": {
+        "080826": {
+            "nom": "Fogars de la Selva",
+            "coordenades": [41.734, 2.673],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sants Corneli i Cebrià (Fogars de la Selva)"
+            },
+            "codiPostal": "08495",
+            "codiINE": "08082",
+            "what3words": "///unhinged.unleashed.bypassed"
+        },
+        "170078": {
+            "nom": "Amer",
+            "coordenades": [42.009167, 2.603056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Amer)"
+            },
+            "codiPostal": "17170",
+            "codiINE": "17007",
+            "what3words": "///snoozing.overjoyed.waving"
+        },
+        "170084": {
+            "nom": "Anglès",
+            "coordenades": [41.9575, 2.64],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Miquel (Anglès)"
+            },
+            "codiPostal": "17160",
+            "codiINE": "17008",
+            "what3words": "///stray.noodle.reminders"
+        },
+        "170097": {
+            "nom": "Arbúcies",
+            "coordenades": [41.816111, 2.514167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Quirze i Santa Julita (Arbúcies)"
+            },
+            "codiPostal": "17401",
+            "codiINE": "17009",
+            "what3words": "///wobble.flame.lakeside"
+        },
+        "170237": {
+            "nom": "Blanes",
+            "coordenades": [41.676, 2.793],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Blanes)"
+            },
+            "codiPostal": "17300",
+            "codiINE": "17023",
+            "what3words": "///atom.nation.casual"
+        },
+        "170274": {
+            "nom": "Breda",
+            "coordenades": [41.748611, 2.557222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Breda)"
+            },
+            "codiPostal": "17400",
+            "codiINE": "17027",
+            "what3words": "///mellow.remains.charming"
+        },
+        "170280": {
+            "nom": "Brunyola i Sant Martí Sapresa",
+            "coordenades": [41.904444, 2.684167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Fruitós (Brunyola)"
+            },
+            "codiPostal": "17441",
+            "codiINE": "17028",
+            "what3words": "///shovels.squeezed.dancers"
+        },
+        "170335": {
+            "nom": "Caldes de Malavella",
+            "coordenades": [41.838611, 2.808889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Esteve (Caldes de Malavella)"
+            },
+            "codiPostal": "17455",
+            "codiINE": "17033",
+            "what3words": "///rehearsals.unbroken.shackles"
+        },
+        "170834": {
+            "nom": "Hostalric",
+            "coordenades": [41.748056, 2.636111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria dels Socors (Hostalric)"
+            },
+            "codiPostal": "17450",
+            "codiINE": "17083",
+            "what3words": "///lodge.cracker.split"
+        },
+        "170950": {
+            "nom": "Lloret de Mar",
+            "coordenades": [41.7, 2.833333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Romà (Lloret de Mar)"
+            },
+            "codiPostal": "17310",
+            "codiINE": "17095",
+            "what3words": "///fever.parody.ticked"
+        },
+        "171019": {
+            "nom": "Massanes",
+            "coordenades": [41.767778, 2.6525],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Esteve (Massanes)"
+            },
+            "codiPostal": "17452",
+            "codiINE": "17101",
+            "what3words": "///massing.twitches.cherished"
+        },
+        "171030": {
+            "nom": "Maçanet de la Selva",
+            "coordenades": [41.7775, 2.730833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Llorenç (Maçanet de la Selva)"
+            },
+            "codiPostal": "17412",
+            "codiINE": "17103",
+            "what3words": "///taps.unfold.fading"
+        },
+        "171169": {
+            "nom": "Osor",
+            "coordenades": [41.879444, 2.512778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Vic",
+                "parroquia": "Sant Pere (Osor)"
+            },
+            "codiPostal": "17161",
+            "codiINE": "17116",
+            "what3words": "///means.square.risen"
+        },
+        "171463": {
+            "nom": "Riells i Viabrea",
+            "coordenades": [41.725, 2.558333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Martí de Tours (Riells i Viabrea)"
+            },
+            "codiPostal": "17404",
+            "codiINE": "17146",
+            "what3words": "///brings.square.relax"
+        },
+        "171485": {
+            "nom": "Riudarenes",
+            "coordenades": [41.823889, 2.7175],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Martí (Riudarenes)"
+            },
+            "codiPostal": "17421",
+            "codiINE": "17148",
+            "what3words": "///crows.blurs.eats"
+        },
+        "171501": {
+            "nom": "Riudellots de la Selva",
+            "coordenades": [41.898, 2.8115],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Esteve (Riudellots de la Selva)"
+            },
+            "codiPostal": "17457",
+            "codiINE": "17150",
+            "what3words": "///unhinged.unleashed.bypassed"
+        },
+        "171595": {
+            "nom": "Sant Feliu de Buixalleu",
+            "coordenades": [41.790833, 2.586111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Feliu de Buixalleu"
+            },
+            "codiPostal": "17451",
+            "codiINE": "17159",
+            "what3words": "///track.online.gives"
+        },
+        "171642": {
+            "nom": "Sant Hilari Sacalm",
+            "coordenades": [41.878611, 2.507778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Vic",
+                "parroquia": "Sant Hilari (Sant Hilari Sacalm)"
+            },
+            "codiPostal": "17403",
+            "codiINE": "17164",
+            "what3words": "///tanked.horseback.chainsaw"
+        },
+        "171805": {
+            "nom": "Santa Coloma de Farners",
+            "coordenades": [41.8625, 2.665278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Coloma (Santa Coloma de Farners)"
+            },
+            "codiPostal": "17430",
+            "codiINE": "17180",
+            "what3words": "///boat.mops.sadly"
+        },
+        "171899": {
+            "nom": "La Cellera de Ter",
+            "coordenades": [41.968333, 2.620833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Mare de Déu de Sales (La Cellera de Ter)"
+            },
+            "codiPostal": "17165",
+            "codiINE": "17189",
+            "what3words": "///squishiest.mankind.downtowns"
+        },
+        "171931": {
+            "nom": "Sils",
+            "coordenades": [41.809444, 2.743611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Sils)"
+            },
+            "codiPostal": "17410",
+            "codiINE": "17193",
+            "what3words": "///silks.visitor.goods"
+        },
+        "171946": {
+            "nom": "Susqueda",
+            "coordenades": [42.015, 2.5475],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Vic",
+                "parroquia": "Sant Martí Sacalm"
+            },
+            "codiPostal": "17171",
+            "codiINE": "17194",
+            "what3words": "///kings.misfortunes.buffeting"
+        },
+        "172023": {
+            "nom": "Tossa de Mar",
+            "coordenades": [41.720556, 2.932222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Vicenç (Tossa de Mar)"
+            },
+            "codiPostal": "17320",
+            "codiINE": "17202",
+            "what3words": "///hopes.square.reduce"
+        },
+        "172137": {
+            "nom": "Vidreres",
+            "coordenades": [41.788889, 2.779167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria (Vidreres)"
+            },
+            "codiPostal": "17411",
+            "codiINE": "17213",
+            "what3words": "///flat.square.visual"
+        },
+        "172333": {
+            "nom": "Vilobí d'Onyar",
+            "coordenades": [41.888889, 2.7425],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Sant Esteve (Vilobí d'Onyar)"
+            },
+            "codiPostal": "17185",
+            "codiINE": "17233",
+            "what3words": "///vague.wide.square"
+        },
+        "179032": {
+            "nom": "Sant Julià del Llor i Bonmatí",
+            "coordenades": [41.966667, 2.65],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Girona",
+                "parroquia": "Santa Maria de Bonmatí"
+            },
+            "codiPostal": "17164",
+            "codiINE": "17903",
+            "what3words": "///pages.sticks.square"
+        }
+      }
+    },
+    "31": {"nom": "Ripollès", "municipis": {
+        "170366": {
+          "nom": "Campdevànol",
+          "coordenades": [42.225833, 2.169444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "17530",
+          "codiINE": "17036",
+          "what3words": "///humans.warmth.reloads"
+        },
+        "170372": {
+          "nom": "Campelles",
+          "coordenades": [42.296944, 2.141111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17037",
+          "what3words": "///shows.camp.else"
+        },
+        "170391": {
+          "nom": "Camprodon",
+          "coordenades": [42.315833, 2.366667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "17867",
+          "codiINE": "17039",
+          "what3words": null
+        },
+        "170433": {
+          "nom": "Queralbs",
+          "coordenades": [42.350556, 2.162778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "17534",
+          "codiINE": "17043",
+          "what3words": null
+        },
+        "170806": {
+          "nom": "Gombrèn",
+          "coordenades": [42.248333, 2.091389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Not explicitly stated for main town in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17080",
+          "what3words": null
+        },
+        "170911": {
+          "nom": "Llanars",
+          "coordenades": [42.322778, 2.345278],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Esteve de Llanars"
+          },
+          "codiPostal": "17869",
+          "codiINE": "17091",
+          "what3words": null
+        },
+        "170963": {
+          "nom": "Les Llosses",
+          "coordenades": [42.151944, 2.118333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Matamala"
+          },
+          "codiPostal": "17512",
+          "codiINE": "17096",
+          "what3words": null
+        },
+        "171077": {
+          "nom": "Molló",
+          "coordenades": [42.35, 2.4],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17107",
+          "what3words": null
+        },
+        "171122": {
+          "nom": "Ogassa",
+          "coordenades": [42.266, 2.278],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí d'Ogassa"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17112",
+          "what3words": null
+        },
+        "171254": {
+          "nom": "Pardines",
+          "coordenades": [42.313611, 2.215278],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17534",
+          "codiINE": "17125",
+          "what3words": null
+        },
+        "171349": {
+          "nom": "Planoles",
+          "coordenades": [42.317778, 2.105556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17134",
+          "what3words": "///plan.panthers.someone (Note: This is a general example, not specific to Planoles center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171450": {
+          "nom": "Ribes de Freser",
+          "coordenades": [42.306169, 2.167636],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Mare de Déu Assumpta"
+          },
+          "codiPostal": "17534",
+          "codiINE": "17145",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171479": {
+          "nom": "Ripoll",
+          "coordenades": [42.200556, 2.192778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Ripoll"
+          },
+          "codiPostal": "17500",
+          "codiINE": "17147",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171674": {
+          "nom": "Sant Joan de les Abadesses",
+          "coordenades": [42.236111, 2.286667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Monestir de Sant Joan de les Abadesses"
+          },
+          "codiPostal": "17860",
+          "codiINE": "17167",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171707": {
+          "nom": "Vallfogona de Ripollès",
+          "coordenades": [42.198611, 2.303611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17170",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171772": {
+          "nom": "Sant Pau de Segúries",
+          "coordenades": [42.263611, 2.366667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17177",
+          "what3words": "///locked.during.aspect (Note: This is a general example, not specific to Sant Pau de Segúries center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171925": {
+          "nom": "Setcases",
+          "coordenades": [42.376944, 2.3025],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17192",
+          "what3words": "///settle.handle.case (Note: This is a general example, not specific to Setcases center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "172018": {
+          "nom": "Toses",
+          "coordenades": [42.323333, 2.016667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17201",
+          "what3words": "///ideas.lays.toasters (Note: This is a general example, not specific to Toses center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "172240": {
+          "nom": "Vilallonga de Ter",
+          "coordenades": [42.3309462, 2.311995],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17224",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        }
+      }
+    },
+    "15": {"nom": "Cerdanya", "municipis": {
+        "170062": {
+          "nom": "Alp",
+          "coordenades": [42.375278, 1.888611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "17538",
+          "codiINE": "17006",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170242": {
+          "nom": "Bolvir",
+          "coordenades": [42.416667, 1.883333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Cecília"
+          },
+          "codiPostal": "17539",
+          "codiINE": "17024",
+          "what3words": "///quells.combining.tasters (Note: This refers to a rural house, not necessarily the precise town center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170617": {
+          "nom": "Das",
+          "coordenades": [42.363333, 1.871111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "Not found in snippets (Note: A 6-digit IDESCAT code '170617' was listed as a postal code in one source, but Spanish postal codes are 5 digits. The correct 5-digit postal code was not found.)",
+          "codiINE": "17061",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170694": {
+          "nom": "Fontanals de Cerdanya",
+          "coordenades": [42.386667, 1.901667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Miquel de Soriguerola"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17069",
+          "what3words": "///interacting.spatial.wafts (Note: This is from a webcam source, not necessarily the precise town center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170789": {
+          "nom": "Ger",
+          "coordenades": [42.410828, 1.844242],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": "17539",
+          "codiINE": "17078",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170828": {
+          "nom": "Guils de Cerdanya",
+          "coordenades": [42.450556, 1.879722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17528",
+          "codiINE": "17082",
+          "what3words": "///gushes.presumes.grudges (Note: This is a general example, not specific to Guils de Cerdanya center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170849": {
+          "nom": "Isòvol",
+          "coordenades": [42.399444, 1.839167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17539",
+          "codiINE": "17084",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170947": {
+          "nom": "Llívia",
+          "coordenades": [42.464444, 1.980833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Mare de Déu dels Àngels"
+          },
+          "codiPostal": "17527",
+          "codiINE": "17094",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "170998": {
+          "nom": "Meranges",
+          "coordenades": [42.445556, 1.7875],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "17539",
+          "codiINE": "17099",
+          "what3words": "///reshaping.extreme.emerald (Note: This is a general example, not specific to Meranges center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "171411": {
+          "nom": "Puigcerdà",
+          "coordenades": [42.431667, 1.928333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Not explicitly stated in snippets"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "17141",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "172060": {
+          "nom": "Urús",
+          "coordenades": [42.3525, 1.853333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Climent"
+          },
+          "codiPostal": "17538",
+          "codiINE": "17206",
+          "what3words": "///launch.draw.skip (Note: This is a general example, not specific to Urús center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "250518": {
+          "nom": "Bellver de Cerdanya",
+          "coordenades": [42.3725, 1.777222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "25720",
+          "codiINE": "25051",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "251272": {
+          "nom": "Lles de Cerdanya",
+          "coordenades": [42.392222, 1.688056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "25726",
+          "codiINE": "25127",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "251399": {
+          "nom": "Montellà i Martinet",
+          "coordenades": [42.3625, 1.696389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Eloi (Martinet)"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "25139",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "251752": {
+          "nom": "Prats i Sansor",
+          "coordenades": [42.368056, 1.840556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "25720",
+          "codiINE": "25175",
+          "what3words": "///plot.love.scans (Note: This is a general example, not specific to Prats i Sansor center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "251790": {
+          "nom": "Prullans",
+          "coordenades": [42.383333, 1.733333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "Not found in snippets",
+          "codiINE": "25179",
+          "what3words": "///intent.slick.heats (Note: This is a general example, not specific to Prullans center. Direct what3words for municipal centers not available in provided snippets.)"
+        },
+        "259139": {
+          "nom": "Riu de Cerdanya",
+          "coordenades": [42.3475, 1.8275],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "25721",
+          "codiINE": "25913",
+          "what3words": "Not found in snippets (Direct what3words for municipal centers not available in provided snippets.)"
+        }
+      }
+    }
+  }
+}

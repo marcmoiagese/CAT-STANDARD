@@ -1,0 +1,4311 @@
+{
+  "tipus": "detall_provincial",
+  "codiINE": "08",
+  "comarques": {
+    "03": {"nom": "Alt Penedès", "municipis": {
+        "080137": {
+          "nom": "Avinyonet del Penedès",
+          "coordenades": [41.36066960062446, 1.7768830197942236],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {"bisbat": "Sant Feliu de Llobregat"},
+          "codiPostal": "08793",
+          "codiINE": "08013",
+          "what3words": "eclipsis.feix.agraïts"
+        },
+        "080272": {
+          "nom": "Les Cabanyes",
+          "coordenades": [41.371336965986835, 1.6893138150659548],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Valentí"
+          },
+          "codiPostal": "08794",
+          "codiINE": "08013",
+          "what3words": "enters.macarró.corrents"
+        },
+        "080581": {
+          "nom": "Castellet i la Gornal",
+          "coordenades": [41.25367788260936, 1.5924887737709303],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere de La Gornal, Sant Marçal, Sant Pere Apòstol"
+          },
+          "codiPostal": "08729",
+          "codiINE": "08058",
+          "what3words": "residus.travessat.ficció"
+        },
+        "080654": {
+          "nom": "Castellví de la Marca",
+          "coordenades": [41.33367300839004, 1.5929316458284521],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Sadurní, Santa María la Munia"
+          },
+          "codiPostal": "08732",
+          "codiINE": "08065",
+          "what3words": "runa.matinar.afirmades"
+        },
+        "080850": {
+          "nom": "Font-rubí",
+          "coordenades": [41.43391394765957, 1.591166921612361],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere i Sant Fèlix, Santa Maria de Bellver Guardiola"
+          },
+          "codiPostal": "08736",
+          "codiINE": "08085",
+          "what3words": "capgirat.plourà.feroç"
+        },
+        "080919": {
+          "nom": "Gelida",
+          "coordenades": [41.440901229837486, 1.865382952671755],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08790",
+          "codiINE": "08091",
+          "what3words": "lentilla.ventall.ensenyaré"
+        },
+        "080945": {
+          "nom": "la Granada",
+          "coordenades": [41.376446974394646, 1.7189141151749123],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "08792",
+          "codiINE": "08099",
+          "what3words": "punxaré.crit.lideratge"
+        },
+        "081228": {
+          "nom": "Mediona",
+          "coordenades": [41.477727613724824, 1.6114550343792222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Joan, Santa María de Mediona"
+          },
+          "codiPostal": "08773",
+          "codiINE": "08120",
+          "what3words": "espigó.fregides.secant"
+        },
+        "081458": {
+          "nom": "Olèrdola",
+          "coordenades": [41.31992168899569, 1.7222975400179144],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Jaume Moja, Sant Miquel, Sant Pere Sant Pere Molanta"
+          },
+          "codiPostal": "08734",
+          "codiINE": "08143",
+          "what3words": "arxivadors.honrat.deixats"
+        },
+        "081461": {
+          "nom": "Olesa de Bonesvalls",
+          "coordenades": [41.35011051229948, 1.848871613835719],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08797",
+          "codiINE": "08144",
+          "what3words": "alarmant.dematí.banquera"
+        },
+        "081542": {
+          "nom": "Pacs del Penedès",
+          "coordenades": [41.36192089479813, 1.669493453837121],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Genís"
+          },
+          "codiPostal": "08796",
+          "codiINE": "08152",
+          "what3words": "suggerides.blavosa.dinant"
+        },
+        "081640": {
+          "nom": "El Pla del Penedès",
+          "coordenades": [41.41786733833395, 1.7111797394817465],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa Magdalena"
+          },
+          "codiPostal": "08733",
+          "codiINE": "08164",
+          "what3words": "crepuscle.dedicant.flamant"
+        },
+        "081688": {
+          "nom": "Pontons",
+          "coordenades": [41.41411497900179, 1.5147469134935543],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa Magdalena"
+          },
+          "codiPostal": "08782",
+          "codiINE": "08170",
+          "what3words": "previsió.alzina.subscriure"
+        },
+        "081748": {
+          "nom": "Puigdàlber",
+          "coordenades": [41.403979075141194, 1.699794522962012],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08797",
+          "codiINE": "08171",
+          "what3words": "treballs.apreses.atletismes"
+        },
+        "082068": {
+          "nom": "Sant Cugat Sesgarrigues",
+          "coordenades": [41.363743762988264, 1.753745992169687],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Cugat"
+          },
+          "codiPostal": "08799",
+          "codiINE": "08210",
+          "what3words": "recurrents.passejar.lluites"
+        },
+        "082227": {
+          "nom": "Sant Llorenç d'Hortons",
+          "coordenades": [41.466632114302115, 1.823604699555937],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "08791",
+          "codiINE": "08221",
+          "what3words": "remolatxa.escalf.arbreda"
+        },
+        "082270": {
+          "nom": "Sant Martí Sarroca",
+          "coordenades": [41.38607367980284, 1.6116209200074403],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08731",
+          "codiINE": "08227",
+          "what3words": "ajupit.rimades.encesos"
+        },
+        "082325": {
+          "nom": "Sant Pere de Riudebitlles",
+          "coordenades": [41.451835799094106, 1.7034385740953912],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08775",
+          "codiINE": "08230",
+          "what3words": "cosides.polpes.recorreguts"
+        },
+        "082362": {
+          "nom": "Sant Quintí de Mediona",
+          "coordenades": [41.46378786151935, 1.663162088765399],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Quintí"
+          },
+          "codiPostal": "08777",
+          "codiINE": "08233",
+          "what3words": "convicció.escenari.panellets"
+        },
+        "082401": {
+          "nom": "Sant Sadurní d'Anoia",
+          "coordenades": [41.42579324574912, 1.7865128384736142],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Sadurní, Santa María Monistrol d'Anoia"
+          },
+          "codiPostal": "08770",
+          "codiINE": "08235",
+          "what3words": "refrescats.sublims.castanys"
+        },
+        "082495": {
+          "nom": "Santa Fe del Penedès",
+          "coordenades": [41.384381904226515, 1.7208373340849723],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa Fe"
+          },
+          "codiPostal": "08792",
+          "codiINE": "08243",
+          "what3words": "documentals.sopades.altiplà"
+        },
+        "082515": {
+          "nom": "Santa Margarida i els Monjos",
+          "coordenades": [41.31911391960337, 1.6595324550766155],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa Margarida del Penedès"
+          },
+          "codiPostal": "08730",
+          "codiINE": "08247",
+          "what3words": "calçot.semifinals.escenaris"
+        },
+        "082732": {
+          "nom": "Subirats",
+          "coordenades": [41.385020844437946, 1.796971837976611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Esteve Ordal, Sant Pau Sant Pau d'Ordal, Sant Pere Lavern, Sant Pere de Subirats"
+          },
+          "codiPostal": "08739",
+          "codiINE": "08275",
+          "what3words": "negant.veritats.seminaris"
+        },
+        "082877": {
+          "nom": "Torrelavit",
+          "coordenades": [41.446402580672945, 1.7300340894769264],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa María de Lavit i Sant Marçal de Terrassola"
+          },
+          "codiPostal": "08775",
+          "codiINE": "08283",
+          "what3words": "pinya.migdiades.assidus"
+        },
+        "082883": {
+          "nom": "Torrelles de Foix",
+          "coordenades": [41.387725047641204, 1.5716412617687199],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Genís, Santa María de Foix"
+          },
+          "codiPostal": "08793",
+          "codiINE": "08284",
+          "what3words": "relaxades.estiuejant.reacció"
+        },
+        "083041": {
+          "nom": "Vilobí del Penedès",
+          "coordenades": [41.388217351161195, 1.6652044937408659],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa María de Vallformosa"
+          },
+          "codiPostal": "08735",
+          "codiINE": "08307",
+          "what3words": "tartera.arxivats.navals"
+        },
+        "083054": {
+          "nom": "Vilafranca del Penedès",
+          "coordenades": [41.344135179963736, 1.6979420882460023],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "La Santíssima Trinitat, Santa Maria"
+          },
+          "codiPostal": "08720",
+          "codiINE": "08305",
+          "what3words": "calçot.cunyat.nebulós"
+        }
+      }
+    },
+    "07": {"nom": "Bages", "municipis": {
+        "080023": {
+          "nom": "Aguilar de Segarra",
+          "coordenades": [
+            41.741,
+            1.632
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08256",
+          "codiINE": "08002",
+          "what3words": "xiquet.sorollós.cloïssa"
+        },
+        "080109": {
+          "nom": "Artés",
+          "coordenades": [
+            41.796035629558666,
+            1.9566392582782346
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08271",
+          "codiINE": "08010",
+          "what3words": "quedada.partit.oficinistes"
+        },
+        "080121": {
+          "nom": "Avinyó",
+          "coordenades": [
+            41.860307443896154,
+            1.976441149669489
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08279",
+          "codiINE": "08012",
+          "what3words": "complaent.buida.rutinaris"
+        },
+        "080180": {
+          "nom": "Balsareny",
+          "coordenades": [
+            41.861879745549295,
+            1.859663860637863
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08660",
+          "codiINE": "08018",
+          "what3words": "actualitzat.descriure.tisores"
+        },
+        "080386": {
+          "nom": "Callús",
+          "coordenades": [
+            41.781166,
+            1.783944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Sadurní"
+          },
+          "codiPostal": "08262",
+          "codiINE": "08038",
+          "what3words": "claus.jardinet.exploradors"
+        },
+        "080478": {
+          "nom": "Cardona",
+          "coordenades": [
+            41.913611,
+            1.680556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Sant Miquel i Sant Vicenç"
+          },
+          "codiPostal": "08261",
+          "codiINE": "08047",
+          "what3words": "exageració.tardança.estius"
+        },
+        "080538": {
+          "nom": "Castellbell i el Vilar",
+          "coordenades": [
+            41.633889,
+            1.863889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria del Vilar"
+          },
+          "codiPostal": "08296",
+          "codiINE": "08053",
+          "what3words": "grapar.toves.pebrer"
+        },
+        "080594": {
+          "nom": "Castellfollit del Boix",
+          "coordenades": [
+            41.665833,
+            1.684722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08255",
+          "codiINE": "08059",
+          "what3words": "remeis.acaronar.ardents"
+        },
+        "080615": {
+          "nom": "Castellgalí",
+          "coordenades": [
+            41.675083,
+            1.843999
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "08297",
+          "codiINE": "08061",
+          "what3words": "avantatge.enginyar.florides"
+        },
+        "080620": {
+          "nom": "Castellnou de Bages",
+          "coordenades": [
+            41.835,
+            1.839444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08251",
+          "codiINE": "08062",
+          "what3words": "llotja.entregats.beneficis"
+        },
+        "080847": {
+          "nom": "Fonollosa",
+          "coordenades": [
+            41.763,
+            1.668
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Creu"
+          },
+          "codiPostal": "08259",
+          "codiINE": "08084",
+          "what3words": "senyors.dureses.núvol"
+        },
+        "080902": {
+          "nom": "Gaià",
+          "coordenades": [
+            41.916,
+            1.926
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08672",
+          "codiINE": "08090",
+          "what3words": "escriure.avets.xicotet"
+        },
+        "080983": {
+          "nom": "Sant Salvador de Guardiola",
+          "coordenades": [
+            41.68,
+            1.76639
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Salvador"
+          },
+          "codiPostal": "08253",
+          "codiINE": "08098",
+          "what3words": "frens.pronunciades.joventuts"
+        },
+        "081136": {
+          "nom": "Manresa",
+          "coordenades": [
+            41.729443,
+            1.827222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria (La Seu)"
+          },
+          "codiPostal": "08241",
+          "codiINE": "08113",
+          "what3words": "prats.ploure.passejat"
+        },
+        "081271": {
+          "nom": "Monistrol de Montserrat",
+          "coordenades": [
+            41.609833,
+            1.84275
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere Apòstol"
+          },
+          "codiPostal": "08691",
+          "codiINE": "08127",
+          "what3words": "comprimits.tatuant.casolans"
+        },
+        "081398": {
+          "nom": "Mura",
+          "coordenades": [
+            41.700722,
+            1.976972
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08279",
+          "codiINE": "08139",
+          "what3words": "illenca.portadors.gronxar"
+        },
+        "081402": {
+          "nom": "Navarcles",
+          "coordenades": [
+            41.751528,
+            1.903694
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08270",
+          "codiINE": "08140",
+          "what3words": "mantells.desitjat.comparades"
+        },
+        "081419": {
+          "nom": "Navàs",
+          "coordenades": [
+            41.9,
+            1.886389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Sagrada Família"
+          },
+          "codiPostal": "08670",
+          "codiINE": "08141",
+          "what3words": "igualats.aplicant.esternudar"
+        },
+        "081786": {
+          "nom": "Rajadell",
+          "coordenades": [
+            41.729167,
+            1.705556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Iscle i Santa Victòria"
+          },
+          "codiPostal": "08256",
+          "codiINE": "08178",
+          "what3words": "rierada.vaquera.desfer"
+        },
+        "081825": {
+          "nom": "El Pont de Vilomara i Rocafort",
+          "coordenades": [
+            41.702,
+            1.873
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Matadars"
+          },
+          "codiPostal": "08254",
+          "codiINE": "08182",
+          "what3words": "fundació.aferrat.descobriment"
+        },
+        "081918": {
+          "nom": "Sallent",
+          "coordenades": [
+            41.824167,
+            1.894556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08650",
+          "codiINE": "08191",
+          "what3words": "nutritiu.assegurat.afegides"
+        },
+        "081923": {
+          "nom": "Santpedor",
+          "coordenades": [
+            41.783111,
+            1.839472
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere d'Or"
+          },
+          "codiPostal": "08251",
+          "codiINE": "08192",
+          "what3words": "gomets.crustacis.mineres"
+        },
+        "082129": {
+          "nom": "Sant Feliu Sasserra",
+          "coordenades": [
+            41.946389,
+            2.023056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "08274",
+          "codiINE": "08212",
+          "what3words": "andana.cuidadors.remullar"
+        },
+        "082135": {
+          "nom": "Sant Fruitós de Bages",
+          "coordenades": [
+            41.752,
+            1.8745
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Fruitós"
+          },
+          "codiPostal": "08272",
+          "codiINE": "08213",
+          "what3words": "regenerat.idèntics.onejant"
+        },
+        "082188": {
+          "nom": "Sant Joan de Vilatorrada",
+          "coordenades": [
+            41.745667,
+            1.805389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08250",
+          "codiINE": "08218",
+          "what3words": "bufades.quants.tancaré"
+        },
+        "082299": {
+          "nom": "Sant Mateu de Bages",
+          "coordenades": [
+            41.797,
+            1.733
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Mateu"
+          },
+          "codiPostal": "08263",
+          "codiINE": "08229",
+          "what3words": "residus.crus.apreses"
+        },
+        "082423": {
+          "nom": "Marganell",
+          "coordenades": [
+            41.640472,
+            1.790139
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Esteve (antic temple parroquial de Santa Cecília)"
+          },
+          "codiPostal": "08298",
+          "codiINE": "08242",
+          "what3words": "comestibles.encerclat.autonomies"
+        },
+        "082628": {
+          "nom": "Sant Vicenç de Castellet",
+          "coordenades": [
+            41.667778,
+            1.863333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08295",
+          "codiINE": "08262",
+          "what3words": "adaptant.circs.psicòleg"
+        },
+        "082747": {
+          "nom": "Súria",
+          "coordenades": [
+            41.836111,
+            1.752778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "08260",
+          "codiINE": "08274",
+          "what3words": "anomenats.embolicar.eucaliptus"
+        },
+        "082779": {
+          "nom": "Talamanca",
+          "coordenades": [
+            41.736944,
+            1.9779
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08278",
+          "codiINE": "08277",
+          "what3words": "alegrades.contrabaix.síndries"
+        }
+      }
+    },
+    "11": {"nom": "Baix Llobregat", "municipis": {
+        "080018": {
+          "nom": "Abrera",
+          "coordenades": [41.516667, 1.916667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere d'Abrera"
+          },
+          "codiPostal": "08630",
+          "codiINE": "08001",
+          "what3words": "cercavila.millors.moix"
+        },
+        "080207": {
+          "nom": "Begues",
+          "coordenades": [41.33194, 1.92158],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Església de Sant Cristòfol"
+          },
+          "codiPostal": "08859",
+          "codiINE": "08020",
+          "what3words": "aplegar.llegums.repartint"
+        },
+        "080569": {
+          "nom": "Castelldefels",
+          "coordenades": [41.28, 1.976667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08860",
+          "codiINE": "08056",
+          "what3words": "circs.costures.atraparé"
+        },
+        "080667": {
+          "nom": "Castellví de Rosanes",
+          "coordenades": [41.450066, 1.900072],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "08769",
+          "codiINE": "08066",
+          "what3words": "incloure.equipatges.brouós"
+        },
+        "080689": {
+          "nom": "Cervelló",
+          "coordenades": [41.396111, 1.958889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Església de Santa Maria de Cervelló"
+          },
+          "codiPostal": "08758",
+          "codiINE": "08068",
+          "what3words": "dialogat.xutar.aturades"
+        },
+        "080692": {
+          "nom": "Collbató",
+          "coordenades": [41.57022, 1.82792],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Corneli"
+          },
+          "codiPostal": "08293",
+          "codiINE": "08069",
+          "what3words": "meravellat.medalles.pantalles"
+        },
+        "080728": {
+          "nom": "Corbera de Llobregat",
+          "coordenades": [41.416667, 1.933333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08757",
+          "codiINE": "08072",
+          "what3words": "tramvia.guitarristes.enllestit"
+        },
+        "080734": {
+          "nom": "Cornellà de Llobregat",
+          "coordenades": [41.355, 2.071111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Verge del Pilar"
+          },
+          "codiPostal": "08940",
+          "codiINE": "08073",
+          "what3words": "cuidats.malucs.atzar"
+        },
+        "080765": {
+          "nom": "Esparreguera",
+          "coordenades": [41.54081, 1.86841],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Eulàlia"
+          },
+          "codiPostal": "08292",
+          "codiINE": "080765",
+          "what3words": "fongs.ramells.parlades"
+        },
+        "080771": {
+          "nom": "Esplugues de Llobregat",
+          "coordenades": [41.376667, 2.085833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Maria Magdalena"
+          },
+          "codiPostal": "08950",
+          "codiINE": "08077",
+          "what3words": "ordenades.ocells.cigonyes"
+        },
+        "080898": {
+          "nom": "Gavà",
+          "coordenades": [41.307222, 2.003889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08850",
+          "codiINE": "08089",
+          "what3words": "ajupida.detalls.antigues"
+        },
+        "081141": {
+          "nom": "Martorell",
+          "coordenades": [41.479504, 1.923048],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Crist Salvador"
+          },
+          "codiPostal": "08760",
+          "codiINE": "08114",
+          "what3words": "residents.nombrosa.portadors"
+        },
+        "081234": {
+          "nom": "Molins de Rei",
+          "coordenades": [41.4276, 2.0391],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "08750",
+          "codiINE": "08123",
+          "what3words": "cuinera.plànols.espontani"
+        },
+        "081477": {
+          "nom": "Olesa de Montserrat",
+          "coordenades": [41.5449, 1.8938],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08640",
+          "codiINE": "08147",
+          "what3words": "eterns.aletes.perdiu"
+        },
+        "081574": {
+          "nom": "Pallejà",
+          "coordenades": [41.4269, 1.9878],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Eulàlia"
+          },
+          "codiPostal": "08780",
+          "codiINE": "08157",
+          "what3words": "pollet.enfilat.migdia"
+        },
+        "081580": {
+          "nom": "El Papiol",
+          "coordenades": [41.43931, 2.01295],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Església parroquial de Santa Eulàlia"
+          },
+          "codiPostal": "08754",
+          "codiINE": "08158",
+          "what3words": "peatge.oferir.sencera"
+        },
+        "081691": {
+          "nom": "El Prat de Llobregat",
+          "coordenades": [41.330833, 2.093056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere i Sant Pau"
+          },
+          "codiPostal": "08820",
+          "codiINE": "08169",
+          "what3words": "adorables.ficaré.jovenets"
+        },
+        "081960": {
+          "nom": "Sant Andreu de la Barca",
+          "coordenades": [41.447778, 1.976944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08740",
+          "codiINE": "08196",
+          "what3words": "receptes.moguts.labors"
+        },
+        "082009": {
+          "nom": "Sant Boi de Llobregat",
+          "coordenades": [41.347639, 2.040667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere Apòstol"
+          },
+          "codiPostal": "08830",
+          "codiINE": "08200",
+          "what3words": "joieria.risc.antenes"
+        },
+        "082042": {
+          "nom": "Sant Climent de Llobregat",
+          "coordenades": [41.338056, 1.998333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Climent"
+          },
+          "codiPostal": "08849",
+          "codiINE": "08204",
+          "what3words": "barretina.màniga.abraçats"
+        },
+        "082080": {
+          "nom": "Sant Esteve Sesrovires",
+          "coordenades": [41.495, 1.874444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08635",
+          "codiINE": "08208",
+          "what3words": "trencats.xafogós.presumides"
+        },
+        "082114": {
+          "nom": "Sant Feliu de Llobregat",
+          "coordenades": [41.380833, 2.045833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Catedral Sant Llorenç"
+          },
+          "codiPostal": "08980",
+          "codiINE": "08211",
+          "what3words": "llebre.governant.llibret"
+        },
+        "082172": {
+          "nom": "Sant Joan Despí",
+          "coordenades": [41.366667, 2.056944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "08970",
+          "codiINE": "08217",
+          "what3words": "banyats.amistoses.acers"
+        },
+        "082212": {
+          "nom": "Sant Just Desvern",
+          "coordenades": [41.383333, 2.075],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sants Just i Pastor"
+          },
+          "codiPostal": "08960",
+          "codiINE": "08221",
+          "what3words": "gegants.remenar.sorolls"
+        },
+        "082444": {
+          "nom": "Santa Coloma de Cervelló",
+          "coordenades": [41.368611, 2.0175],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": "08690",
+          "codiINE": "08244",
+          "what3words": "marítims.curós.bancs"
+        },
+        "082634": {
+          "nom": "Sant Vicenç dels Horts",
+          "coordenades": [41.393333, 2.009722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Vicenç Màrtir"
+          },
+          "codiPostal": "08620",
+          "codiINE": "08263",
+          "what3words": "xavals.totxos.cobert"
+        },
+        "082896": {
+          "nom": "Torrelles de Llobregat",
+          "coordenades": [41.356389, 1.981667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "08629",
+          "codiINE": "08289",
+          "what3words": "caixetes.viatjat.germanets"
+        },
+        "082956": {
+          "nom": "Vallirana",
+          "coordenades": [41.38692, 1.93173],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Sant Mateu"
+          },
+          "codiPostal": "08759",
+          "codiINE": "08295",
+          "what3words": "sucoses.besneta.estany"
+        },
+        "083015": {
+          "nom": "Viladecans",
+          "coordenades": [41.315833, 2.019444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Mare de Déu de Montserrat"
+          },
+          "codiPostal": "08840",
+          "codiINE": "08301",
+          "what3words": "marítims.menut.fomentat"
+        },
+        "089058": {
+          "nom": "La Palma de Cervelló",
+          "coordenades": [41.413056, 1.968611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08756",
+          "codiINE": "08905",
+          "what3words": "reflectir.ordinador.raspant"
+        }
+      }
+    },
+    "13": {"nom": "Barcelonès", "municipis": {
+        "080155": {
+          "nom": "Badalona",
+          "coordenades": [41.448889, 2.246111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Santa Maria de Badalona"
+          },
+          "codiPostal": "08910-08918",
+          "codiINE": "08015",
+          "what3words": "preferit.emoció.llibertat"
+        },
+        "080193": {
+          "nom": "Barcelona",
+          "coordenades": [41.383333, 2.183333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Catedral Basílica de Barcelona"
+          },
+          "codiPostal": "08001–08042",
+          "codiINE": "08019",
+          "what3words": "llagostí.arracada.beneficis"
+        },
+        "081017": {
+          "nom": "l'Hospitalet de Llobregat",
+          "coordenades": [41.35967, 2.10028],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diòcesi de Sant Feliú de Llobregat",
+            "parroquia": "Santa Eulàlia de Provençana"
+          },
+          "codiPostal": "08900–08909",
+          "codiINE": "08101",
+          "what3words": "signaré.genials.evidents"
+        },
+        "081944": {
+          "nom": "Sant Adrià de Besòs",
+          "coordenades": [41.430139, 2.217889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Església de Sant Adrià"
+          },
+          "codiPostal": "08930",
+          "codiINE": "08194",
+          "what3words": "ciutats.mullant.incloure"
+        },
+        "082457": {
+          "nom": "Santa Coloma de Gramenet",
+          "coordenades": [41.454, 2.211],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Santa Coloma (Església Major)"
+          },
+          "codiPostal": "08920-08924",
+          "codiINE": "08245",
+          "what3words": "acceptada.puntuals.caputxeta"
+        }
+      }
+    },
+    "14": {"nom": "Berguedà", "municipis": {
+        "080116": {
+          "nom": "Avià",
+          "coordenades": [42.07745382400651, 1.8211242010782211],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08610",
+          "codiINE": "08011",
+          "what3words": "lunars.benvinguda.liles"
+        },
+        "080168": {
+          "nom": "Bagà",
+          "coordenades": [42.25269519111056, 1.862775411235645],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Esteve de Bagà"
+          },
+          "codiPostal": "08695",
+          "codiINE": "08016",
+          "what3words": "recepcionista.enviades.arriscat"
+        },
+        "080229": {
+          "nom": "Berga",
+          "coordenades": [42.106389, 1.832778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Eulàlia de Berga"
+          },
+          "codiPostal": "08600",
+          "codiINE": "08022",
+          "what3words": "proposat.ajupida.assignar"
+        },
+        "080240": {
+          "nom": "Borredà",
+          "coordenades": [42.159722, 2.079167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Vic",
+            "parroquia": "Sant Joan de Borredà"
+          },
+          "codiPostal": "08619",
+          "codiINE": "08024",
+          "what3words": "ciclisme.emoticones.barreta"
+        },
+        "080459": {
+          "nom": "Capolat",
+          "coordenades": [42.083889, 1.761111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Martí de Capolat"
+          },
+          "codiPostal": "08619",
+          "codiINE": "08045",
+          "what3words": "llunyans.plegables.requerit"
+        },
+        "080497": {
+          "nom": "Casserres",
+          "coordenades": [42.033056, 1.895833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Vic",
+            "parroquia": "Santa Maria de Casserres"
+          },
+          "codiPostal": "08693",
+          "codiINE": "08049",
+          "what3words": "modelada.pintes.desfeta"
+        },
+        "080500": {
+          "nom": "Castellar del Riu",
+          "coordenades": [42.055, 1.733333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Vicenç de Castellar del Riu"
+          },
+          "codiPostal": "08618, 08619",
+          "codiINE": "08050",
+          "what3words": "marxar.tasques.exercides"
+        },
+        "080522": {
+          "nom": "Castellar de n'Hug",
+          "coordenades": [42.283333, 2.016667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria de Castellar de n'Hug"
+          },
+          "codiPostal": "08696",
+          "codiINE": "08052",
+          "what3words": "teòriques.exportada.opinats"
+        },
+        "080575": {
+          "nom": "Castell de l'Areny",
+          "coordenades": [42.208333, 2.05],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Ramon i Sant Vicenç"
+          },
+          "codiPostal": "08619",
+          "codiINE": "08057",
+          "what3words": "faraons.bram.herbari"
+        },
+        "080787": {
+          "nom": "L'Espunyola",
+          "coordenades": [42.0524392813759, 1.7709887760423124],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Climent"
+          },
+          "codiPostal": "08614",
+          "codiINE": "08078",
+          "what3words": "rodades.patinadora.corretja"
+        },
+        "080804": {
+          "nom": "Fígols",
+          "coordenades": [42.18084496526502, 1.836552799169181],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Cecília"
+          },
+          "codiPostal": "08698",
+          "codiINE": "08080",
+          "what3words": "sabates.donant.notada"
+        },
+        "080924": {
+          "nom": "Gironella",
+          "coordenades": [42.03367910493754, 1.8816984715073142],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Eulàlia de Gironella"
+          },
+          "codiPostal": "08680",
+          "codiINE": "08092",
+          "what3words": "ploguda.fràgils.barranc"
+        },
+        "080930": {
+          "nom": "Gisclareny",
+          "coordenades": [42.250738408259494, 1.7844446793132043],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Mare de Déu del Roser"
+          },
+          "codiPostal": "08695",
+          "codiINE": "08093",
+          "what3words": "bromejar.produïda.dividit"
+        },
+        "080996": {
+          "nom": "Guardiola de Berguedà",
+          "coordenades": [42.232622148052535, 1.879557814439233],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "08694",
+          "codiINE": "08099",
+          "what3words": "videojocs.llicència.aquoses"
+        },
+        "081304": {
+          "nom": "Montclar",
+          "coordenades": [42.018230037979976, 1.7649663234632251],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria de Montclar"
+          },
+          "codiPostal": "08619",
+          "codiINE": "08130",
+          "what3words": "conscient.gasolines.recuperades"
+        },
+        "081326": {
+          "nom": "Montmajor",
+          "coordenades": [42.017677244030686, 1.7353490112268222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "08612",
+          "codiINE": "08132",
+          "what3words": "nòrdica.horaris.rumiada"
+        },
+        "081424": {
+          "nom": "La Nou de Berguedà",
+          "coordenades": [42.16624159038376, 1.8837671581126119],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "La, Sant Martí"
+          },
+          "codiPostal": "08698",
+          "codiINE": "08142",
+          "what3words": "sentits.restats.pròleg"
+        },
+        "081445": {
+          "nom": "Olvan",
+          "coordenades": [42.05, 1.916667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08611",
+          "codiINE": "08144",
+          "what3words": "caldera.sorprendre.distint"
+        },
+        "081666": {
+          "nom": "La Pobla de Lillet",
+          "coordenades": [42.24469289501403, 1.9749611571280843],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08696",
+          "codiINE": "08166",
+          "what3words": "nuvolós.hereus.excavat"
+        },
+        "081751": {
+          "nom": "Puig-reig",
+          "coordenades": [41.97305128088716, 1.879019032954536],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria de Puig-reig"
+          },
+          "codiPostal": "08692",
+          "codiINE": "08175",
+          "what3words": "geòlegs.cosidora.atlètics"
+        },
+        "081770": {
+          "nom": "La Quar",
+          "coordenades": [42.08078604118247, 1.961557302373277],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Sadurní de la Quar"
+          },
+          "codiPostal": "08606",
+          "codiINE": "08177",
+          "what3words": "encerclant.personalitzar.exercir"
+        },
+        "081884": {
+          "nom": "Sagàs",
+          "coordenades": [42.050819791948136, 1.9616322445881815],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08517",
+          "codiINE": "08188",
+          "what3words": "menut.alicates.rebudes"
+        },
+        "081901": {
+          "nom": "Saldes",
+          "coordenades": [42.22849704093502, 1.7342688700496591],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08697",
+          "codiINE": "08190",
+          "what3words": "cabàs.abreviat.teixidor"
+        },
+        "082166": {
+          "nom": "Sant Jaume de Frontanyà",
+          "coordenades": [42.18725838841755, 2.0237373744692575],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "08607",
+          "codiINE": "08216",
+          "what3words": "clavar.conreada.exposats"
+        },
+        "082554": {
+          "nom": "Santa Maria de Merlès",
+          "coordenades": [42.00394286833985, 1.9767796583926724],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Assumpta"
+          },
+          "codiPostal": "08517",
+          "codiINE": "08255",
+          "what3words": "enèrgics.absorta.rierol"
+        },
+        "082687": {
+          "nom": "Cercs",
+          "coordenades": [42.14656917495719, 1.8611316258447126],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08698",
+          "codiINE": "08268",
+          "what3words": "balnearis.longituds.punxons"
+        },
+        "082938": {
+          "nom": "Vallcebre",
+          "coordenades": [42.20365362651951, 1.8179659654683051],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08699",
+          "codiINE": "08293",
+          "what3words": "duríssim.gavines.explorats"
+        },
+        "082994": {
+          "nom": "Vilada",
+          "coordenades": [42.13749298278181, 1.9322775504411902],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "08613",
+          "codiINE": "08299",
+          "what3words": "arrissades.passatger.arreglada"
+        },
+        "083089": {
+          "nom": "Viver i Serrateix",
+          "coordenades": [41.85, 1.766667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Stma. Trinitat"
+          },
+          "codiPostal": "08279",
+          "codiINE": "08308",
+          "what3words": "decorades.biòloga.cabuda"
+        },
+        "089030": {
+          "nom": "Sant Julià de Cerdanyola",
+          "coordenades": [42.223248067398, 1.8922926467524295],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "08694",
+          "codiINE": "08903",
+          "what3words": "graneres.colomar.invitacions"
+        },
+        "251001": {
+          "nom": "Gósol",
+          "coordenades": [42.23711364633947, 1.6598805707073057],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat d'Urgell",
+            "parroquia": "Santa Maria del Còll de Gósol"
+          },
+          "codiPostal": "25716",
+          "codiINE": "25100",
+          "what3words": "muntanyes.regirats.padrines"
+        }
+      }
+    },
+    "17": {"nom": "Garraf", "municipis": {
+        "080431": {
+          "nom": "Canyelles",
+          "coordenades": [41.2858273, 1.7222743],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Parròquia de Santa Magdalena de Canyelles"
+          },
+          "codiPostal": "08811",
+          "codiINE": "08043",
+          "what3words": "cannily.clauses.badge"
+        },
+        "080749": {
+          "nom": "Cubelles",
+          "coordenades": [41.209999, 1.673611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Temple parroquial de Santa Maria"
+          },
+          "codiPostal": "08880",
+          "codiINE": "08074",
+          "what3words": null
+        },
+        "081483": {
+          "nom": "Olivella",
+          "coordenades": [41.310278, 1.810833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Parròquia Sant Pere i Sant Fèlix"
+          },
+          "codiPostal": "08818",
+          "codiINE": "08148",
+          "what3words": "inviting.olive.model"
+        },
+        "082310": {
+          "nom": "Sant Pere de Ribes",
+          "coordenades": [41.259167, 1.773056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu",
+            "parroquia": "Parròquia de Sant Pere"
+          },
+          "codiPostal": "08810",
+          "codiINE": "08231",
+          "what3words": null
+        },
+        "082704": {
+          "nom": "Sitges",
+          "coordenades": [41.237, 1.823],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arquebisbat de Barcelona",
+            "parroquia": "Parròquia de Sant Bartomeu i Santa Tecla"
+          },
+          "codiPostal": "08870",
+          "codiINE": "08270",
+          "what3words": null
+        },
+        "083073": {
+          "nom": "Vilanova i la Geltrú",
+          "coordenades": [41.224167, 1.725833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Sant Feliu de Llobregat",
+            "parroquia": "Parròquia de Santa Maria de la Geltrú"
+          },
+          "codiPostal": "08800",
+          "codiINE": "08307",
+          "what3words": null
+        }
+      }
+    },
+    "21": {"nom": "Maresme", "municipis": {
+        "080039": {
+          "nom": "Alella",
+          "coordenades": [41.493611, 2.295194],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "08328",
+          "codiINE": "08003",
+          "what3words": "///recursos.regalar.paso"
+        },
+        "080060": {
+          "nom": "Arenys de Mar",
+          "coordenades": [41.571944, 2.55],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria Assumpta"
+          },
+          "codiPostal": "08350",
+          "codiINE": "08006",
+          "what3words": "///marina.salto.cuadrado"
+        },
+        "080076": {
+          "nom": "Arenys de Munt",
+          "coordenades": [41.616667, 2.55],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí de Tours"
+          },
+          "codiPostal": "08358",
+          "codiINE": "08007",
+          "what3words": "///moons.treat.mile"
+        },
+        "080095": {
+          "nom": "Argentona",
+          "coordenades": [41.55, 2.4],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "08310",
+          "codiINE": "08009",
+          "what3words": "///those.consoles.holidays"
+        },
+        "080291": {
+          "nom": "Cabrera de Mar",
+          "coordenades": [41.5275, 2.395556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "08349",
+          "codiINE": "08029",
+          "what3words": "///centuries.cabbies.wicked"
+        },
+        "080305": {
+          "nom": "Cabrils",
+          "coordenades": [41.52625, 2.367778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Santa Creu"
+          },
+          "codiPostal": "08348",
+          "codiINE": "08030",
+          "what3words": "///formation.puzzle.cabbies"
+        },
+        "080327": {
+          "nom": "Caldes d'Estrac",
+          "coordenades": [41.571944, 2.528611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08393",
+          "codiINE": "08032",
+          "what3words": "///yours.search.third"
+        },
+        "080351": {
+          "nom": "Calella",
+          "coordenades": [41.608333, 2.646667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria i Sant Nicolau"
+          },
+          "codiPostal": "08370",
+          "codiINE": "08035",
+          "what3words": "///uniones.carreras.susto"
+        },
+        "080403": {
+          "nom": "Canet de Mar",
+          "coordenades": [41.583333, 2.583333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Pere i Sant Pau"
+          },
+          "codiPostal": "08360",
+          "codiINE": "08040",
+          "what3words": "///jumps.spells.blame"
+        },
+        "080752": {
+          "nom": "Dosrius",
+          "coordenades": [41.594, 2.406],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08318",
+          "codiINE": "08075",
+          "what3words": "///wedge.agents.many"
+        },
+        "081108": {
+          "nom": "Malgrat de Mar",
+          "coordenades": [41.65, 2.75],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Nicolau"
+          },
+          "codiPostal": "08380",
+          "codiINE": "08110",
+          "what3words": "///rocoso.dibujado.saludo"
+        },
+        "081189": {
+          "nom": "Masnou, el",
+          "coordenades": [41.481667, 2.317778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08320",
+          "codiINE": "08118",
+          "what3words": "///fuerza.lago.cielo"
+        },
+        "081213": {
+          "nom": "Mataró",
+          "coordenades": [41.533333, 2.45],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08301",
+          "codiINE": "08121",
+          "what3words": "///lashes.candlelit.earned"
+        },
+        "081265": {
+          "nom": "Montgat",
+          "coordenades": [41.469, 2.2805],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08390",
+          "codiINE": "08126",
+          "what3words": "///estate.homes.enter"
+        },
+        "081537": {
+          "nom": "Òrrius",
+          "coordenades": [41.5575, 2.355833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08317",
+          "codiINE": "08153",
+          "what3words": "///abril.coche.llave"
+        },
+        "081555": {
+          "nom": "Palafolls",
+          "coordenades": [41.669167, 2.750556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08389",
+          "codiINE": "08155",
+          "what3words": "///lists.hurry.branch"
+        },
+        "081635": {
+          "nom": "Pineda de Mar",
+          "coordenades": [41.625, 2.691667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08397",
+          "codiINE": "08163",
+          "what3words": "///later.state.dispensed"
+        },
+        "081727": {
+          "nom": "Premià de Mar",
+          "coordenades": [41.49206, 2.36524],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "08330",
+          "codiINE": "08172",
+          "what3words": "///cuerdas.bancos.nieve"
+        },
+        "081939": {
+          "nom": "Sant Iscle de Vallalta",
+          "coordenades": [41.625, 2.57],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Iscle i Santa Victòria"
+          },
+          "codiPostal": "08358",
+          "codiINE": "08193",
+          "what3words": "///later.state.dispensed"
+        },
+        "081976": {
+          "nom": "Sant Andreu de Llavaneres",
+          "coordenades": [41.573333, 2.482778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08392",
+          "codiINE": "08197",
+          "what3words": "///aside.tape.table"
+        },
+        "082037": {
+          "nom": "Sant Cebrià de Vallalta",
+          "coordenades": [41.616667, 2.601111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Cebrià"
+          },
+          "codiPostal": "08396",
+          "codiINE": "08203",
+          "what3words": "///cielos.salto.grano"
+        },
+        "082140": {
+          "nom": "Vilassar de Dalt",
+          "coordenades": [41.518889, 2.360556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Genís"
+          },
+          "codiPostal": "08339",
+          "codiINE": "08214",
+          "what3words": "///yours.search.third"
+        },
+        "082191": {
+          "nom": "Vilassar de Mar",
+          "coordenades": [41.50507, 2.39227],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08340",
+          "codiINE": "08219",
+          "what3words": "///fuerza.lago.cielo"
+        },
+        "082303": {
+          "nom": "Premià de Dalt",
+          "coordenades": [41.508056, 2.345833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08338",
+          "codiINE": "08230",
+          "what3words": "///cuerdas.bancos.nieve"
+        },
+        "082359": {
+          "nom": "Sant Pol de Mar",
+          "coordenades": [41.603333, 2.624444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "08395",
+          "codiINE": "08235",
+          "what3words": "///uniones.carreras.susto"
+        },
+        "082613": {
+          "nom": "Santa Susanna",
+          "coordenades": [41.636944, 2.708056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Susanna"
+          },
+          "codiPostal": "08398",
+          "codiINE": "08261",
+          "what3words": "///aside.tape.table"
+        },
+        "082649": {
+          "nom": "Sant Vicenç de Montalt",
+          "coordenades": [41.57385, 2.50857],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08394",
+          "codiINE": "08264",
+          "what3words": "///aside.tape.table"
+        },
+        "082819": {
+          "nom": "Teià",
+          "coordenades": [41.49966, 2.3198],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08329",
+          "codiINE": "08281",
+          "what3words": "///pretty.needed.chill"
+        },
+        "082824": {
+          "nom": "Tiana",
+          "coordenades": [41.48682065521735, 2.2664924234941966],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Arzobispado de Barcelona",
+            "parroquia": "Sant Cebrià"
+          },
+          "codiPostal": "08391",
+          "codiINE": "08282",
+          "what3words": "///rocoso.dibujado.saludo"
+        },
+        "082845": {
+          "nom": "Tordera",
+          "coordenades": [41.700833, 2.72],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08490",
+          "codiINE": "08284",
+          "what3words": "///lists.hurry.branch"
+        }
+      }
+    },
+    "42": {"nom": "Moianès", "municipis": {
+        "080348": {
+          "nom": "Calders",
+          "coordenades": null,
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Sant Pere de Vilacecavalls, Sant Vicenç"
+          },
+          "codiPostal": "08275",
+          "codiINE": "080348",
+          "what3words": "///urban.quench.each"
+        },
+        "080556": {
+          "nom": "Castellcir",
+          "coordenades": [
+            41.761944,
+            2.149722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Parròquia de Castellcir / Sant Andreu de Castellcir"
+          },
+          "codiPostal": "08183",
+          "codiINE": "080556",
+          "what3words": null
+        },
+        "080641": {
+          "nom": "Castellterçol",
+          "coordenades": [
+            41.751944,
+            2.1225
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Sant Fruitós de Castellterçol"
+          },
+          "codiPostal": "08183",
+          "codiINE": "080641",
+          "what3words": null
+        },
+        "080706": {
+          "nom": "Collsuspina",
+          "coordenades": [
+            41.826944,
+            2.176111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Santa Maria de Collsuspina / Mare de Déu dels Socors"
+          },
+          "codiPostal": "08178",
+          "codiINE": "080706",
+          "what3words": "///urban.slam.across"
+        },
+        "080790": {
+          "nom": "Estany, l'",
+          "coordenades": [
+            41.868333,
+            2.113333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Santa Maria de l'Estany (administratively linked to Santa Maria de Moià)"
+          },
+          "codiPostal": "08148",
+          "codiINE": "080790",
+          "what3words": null
+        },
+        "080958": {
+          "nom": "Granera",
+          "coordenades": [
+            41.730556,
+            2.059444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Sant Martí de Granera (agregada a Sant Andreu de Castellcir)"
+          },
+          "codiPostal": null,
+          "codiINE": "080958",
+          "what3words": "///widens.flowchart.granaries"
+        },
+        "081287": {
+          "nom": "Monistrol de Calders",
+          "coordenades": [
+            41.760556,
+            2.013889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Sant Feliu (part of the Moianès archpriesthood)"
+          },
+          "codiPostal": "08275",
+          "codiINE": "081287",
+          "what3words": null
+        },
+        "081385": {
+          "nom": "Moià",
+          "coordenades": [
+            41.813056,
+            2.097222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Santa Maria de Moià / Mare de Déu de la Misericòrdia"
+          },
+          "codiPostal": "08180",
+          "codiINE": "081385",
+          "what3words": "///urban.natively.mobile"
+        },
+        "082397": {
+          "nom": "Sant Quirze Safaja",
+          "coordenades": [
+            41.730278,
+            2.154444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Sant Quirze i Santa Julita de Safaja"
+          },
+          "codiPostal": "08189",
+          "codiINE": "082397",
+          "what3words": null
+        },
+        "082589": {
+          "nom": "Santa Maria d'Oló",
+          "coordenades": [
+            41.875,
+            2.036111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Diocese of Vic",
+            "parroquia": "Santa Maria d'Oló (also Sant Joan d'Oló)"
+          },
+          "codiPostal": "08273",
+          "codiINE": "082589",
+          "what3words": null
+        }
+      }
+    },
+    "06": {"nom": "Anoia", "municipis": {
+        "080082": {
+          "nom": "Argençola",
+          "coordenades": [
+            41.599722,
+            1.445833
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Llorenç, Santa María de Clariana, Santa María del Camí"
+          },
+          "codiPostal": "08717",
+          "codiINE": "080082",
+          "what3words": "///track.online.gives"
+        },
+        "080214": {
+          "nom": "Bellprat",
+          "coordenades": [
+            41.518889,
+            1.435278
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Salvador"
+          },
+          "codiPostal": "43421",
+          "codiINE": "080214",
+          "what3words": "///clip.apples.leap"
+        },
+        "080253": {
+          "nom": "Bruc, el",
+          "coordenades": [
+            41.576667,
+            1.783333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pau de la Guardia, Santa María"
+          },
+          "codiPostal": "08294",
+          "codiINE": "08025",
+          "what3words": "///dads.king.bump"
+        },
+        "080288": {
+          "nom": "Cabrera d'Anoia",
+          "coordenades": [
+            41.479444,
+            1.704722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Salvador de Cabrera d'Anoia"
+          },
+          "codiPostal": "08718",
+          "codiINE": "080288",
+          "what3words": "///safe.energy.prone"
+        },
+        "080312": {
+          "nom": "Calaf",
+          "coordenades": [
+            41.735,
+            1.51389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Jaume"
+          },
+          "codiPostal": "08280",
+          "codiINE": "08031",
+          "what3words": "///track.online.gives"
+        },
+        "080364": {
+          "nom": "Calonge de Segarra",
+          "coordenades": [
+            41.765833,
+            1.4825
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de l’Arç, Sant Pere de Mirambell, Santa Fe"
+          },
+          "codiPostal": "08281",
+          "codiINE": "08036",
+          "what3words": "///track.online.gives"
+        },
+        "080446": {
+          "nom": "Capellades",
+          "coordenades": [
+            41.531944,
+            1.686667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Miquel, Santa María"
+          },
+          "codiPostal": "08786",
+          "codiINE": "08044",
+          "what3words": "///safe.energy.prone"
+        },
+        "080484": {
+          "nom": "Carme",
+          "coordenades": [
+            41.531389,
+            1.621111
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08787",
+          "codiINE": "08048",
+          "what3words": "///track.online.gives"
+        },
+        "080608": {
+          "nom": "Castellfollit de Riubregós",
+          "coordenades": [
+            41.777778,
+            1.439444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Solsona",
+            "parroquia": "Nostra Senyora del Roser"
+          },
+          "codiPostal": null,
+          "codiINE": "080608",
+          "what3words": "///track.online.gives"
+        },
+        "080636": {
+          "nom": "Castellolí",
+          "coordenades": [
+            41.6,
+            1.7
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08719",
+          "codiINE": "08063",
+          "what3words": "///safe.energy.prone"
+        },
+        "080713": {
+          "nom": "Copons",
+          "coordenades": [
+            41.638333,
+            1.519444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08281",
+          "codiINE": "08071",
+          "what3words": "///track.online.gives"
+        },
+        "081022": {
+          "nom": "Igualada",
+          "coordenades": [
+            41.58426,
+            1.61656
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sagrada Familia, Santa María, Soledat"
+          },
+          "codiPostal": "08700",
+          "codiINE": "08102",
+          "what3words": "///safe.energy.prone"
+        },
+        "081038": {
+          "nom": "Jorba",
+          "coordenades": [
+            41.603611,
+            1.548889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08719",
+          "codiINE": "08103",
+          "what3words": "///track.online.gives"
+        },
+        "081043": {
+          "nom": "Llacuna, la",
+          "coordenades": [
+            41.474167,
+            1.534167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere de Vilademàger"
+          },
+          "codiPostal": "08779",
+          "codiINE": "08104",
+          "what3words": "///track.online.gives"
+        },
+        "081192": {
+          "nom": "Masquefa",
+          "coordenades": [
+            41.503611,
+            1.813611
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere Apòstol"
+          },
+          "codiPostal": "08783",
+          "codiINE": "08119",
+          "what3words": "///safe.energy.prone"
+        },
+        "081332": {
+          "nom": "Montmaneu",
+          "coordenades": [
+            41.627222,
+            1.417222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08717",
+          "codiINE": null,
+          "what3words": "///plot.love.scans"
+        },
+        "081430": {
+          "nom": "Òdena",
+          "coordenades": [
+            41.608056,
+            1.641944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere Apòstol"
+          },
+          "codiPostal": "08711",
+          "codiINE": "08143",
+          "what3words": "///headless.possibly.luring"
+        },
+        "081521": {
+          "nom": "Orpí",
+          "coordenades": [
+            41.530833,
+            1.608056
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Miquel d'Orpí"
+          },
+          "codiPostal": "08787",
+          "codiINE": "08152",
+          "what3words": "///track.online.gives"
+        },
+        "081614": {
+          "nom": "Piera",
+          "coordenades": [
+            41.522222,
+            1.749444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08784",
+          "codiINE": "08161",
+          "what3words": "///safe.energy.prone"
+        },
+        "081629": {
+          "nom": "Hostalets de Pierola, els",
+          "coordenades": [
+            41.535556,
+            1.771944
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08781",
+          "codiINE": "08162",
+          "what3words": "///safe.energy.prone"
+        },
+        "081653": {
+          "nom": "Pobla de Claramunt, la",
+          "coordenades": [
+            41.554444,
+            1.679722
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": null,
+          "codiINE": "08165",
+          "what3words": "///safe.energy.prone"
+        },
+        "081705": {
+          "nom": "Prats de Rei, els",
+          "coordenades": [
+            41.7075,
+            1.542222
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa María"
+          },
+          "codiPostal": "08281",
+          "codiINE": "08170",
+          "what3words": "///track.online.gives"
+        },
+        "081764": {
+          "nom": "Pujalt",
+          "coordenades": [
+            41.718333,
+            1.421667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Andreu, Sant Jaume de la Guàrdia-Pilosa, Sant Vicenç de Conill"
+          },
+          "codiPostal": "08282",
+          "codiINE": "08176",
+          "what3words": "///track.online.gives"
+        },
+        "081859": {
+          "nom": "Rubió",
+          "coordenades": [
+            41.646389,
+            1.571389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Maçana, Santa María"
+          },
+          "codiPostal": "08719",
+          "codiINE": "08185",
+          "what3words": "///track.online.gives"
+        },
+        "081897": {
+          "nom": "Sant Pere Sallavinera",
+          "coordenades": [
+            41.738333,
+            1.575556
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere Sallavinera, Sant Pere de Boixadors, Sant Pere de Seguers"
+          },
+          "codiPostal": "08281",
+          "codiINE": "08189",
+          "what3words": "///track.online.gives"
+        },
+        "082264": {
+          "nom": "Sant Martí de Tous",
+          "coordenades": [
+            41.55906921,
+            1.52639287
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Tous"
+          },
+          "codiPostal": "08712",
+          "codiINE": "08226",
+          "what3words": "///track.online.gives"
+        },
+        "082286": {
+          "nom": "Sant Martí Sesgueioles",
+          "coordenades": [
+            41.703056,
+            1.490278
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí Sesgueioles"
+          },
+          "codiPostal": "08282",
+          "codiINE": "08228",
+          "what3words": "///track.online.gives"
+        },
+        "082508": {
+          "nom": "Santa Margarida de Montbui",
+          "coordenades": [
+            41.575556,
+            1.609167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Margarida de Montbui"
+          },
+          "codiPostal": "08710",
+          "codiINE": "08250",
+          "what3words": "///track.online.gives"
+        },
+        "082573": {
+          "nom": "Santa Maria de Miralles",
+          "coordenades": [
+            41.519722,
+            1.527778
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08787",
+          "codiINE": "08257",
+          "what3words": "///track.online.gives"
+        },
+        "082861": {
+          "nom": "Torre de Claramunt, la",
+          "coordenades": [
+            41.535278,
+            1.660833
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "08789",
+          "codiINE": "08286",
+          "what3words": "///safe.energy.prone"
+        },
+        "082922": {
+          "nom": "Vallbona d'Anoia",
+          "coordenades": [
+            41.520833,
+            1.708889
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Bartomeu"
+          },
+          "codiPostal": "08785",
+          "codiINE": "08292",
+          "what3words": "///safe.energy.prone"
+        },
+        "082975": {
+          "nom": "Veciana",
+          "coordenades": [
+            41.658333,
+            1.489444
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Salvador de Miralles, Santa María, Santa María de Segur-Astor"
+          },
+          "codiPostal": "08289",
+          "codiINE": "082975",
+          "what3words": "///track.online.gives"
+        },
+        "083020": {
+          "nom": "Vilanova del Camí",
+          "coordenades": [
+            41.566667,
+            1.633333
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Hilari"
+          },
+          "codiPostal": "08788",
+          "codiINE": "08302",
+          "what3words": "///safe.energy.prone"
+        }
+      }
+    },
+    "24": {"nom": "Osona", "municipis": {
+        "080174": {
+          "nom": "Balenyà",
+          "coordenades": [41.816, 2.236],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Feliu de Balenyà"
+          },
+          "codiPostal": "08550",
+          "codiINE": "08017",
+          "what3words": "///central.yards.ballots"
+        },
+        "080266": {
+          "nom": "Brull, el",
+          "coordenades": [41.818, 2.306],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí del Brull"
+          },
+          "codiPostal": "08559",
+          "codiINE": "08026",
+          "what3words": null
+        },
+        "080370": {
+          "nom": "Calldetenes",
+          "coordenades": [41.95, 2.2833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Calldetenes"
+          },
+          "codiPostal": "08506",
+          "codiINE": "08037",
+          "what3words": null
+        },
+        "080673": {
+          "nom": "Centelles",
+          "coordenades": [41.797, 2.222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Coloma de Centelles"
+          },
+          "codiPostal": "08560",
+          "codiINE": "08067",
+          "what3words": "///units.central.hence"
+        },
+        "080832": {
+          "nom": "Folgueroles",
+          "coordenades": [41.988, 2.256],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Folgueroles"
+          },
+          "codiPostal": "08519",
+          "codiINE": "08083",
+          "what3words": null
+        },
+        "081000": {
+          "nom": "Gurb",
+          "coordenades": [41.931, 2.253],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Andreu de Gurb"
+          },
+          "codiPostal": "08503",
+          "codiINE": "08100",
+          "what3words": null
+        },
+        "081115": {
+          "nom": "Malla",
+          "coordenades": [41.95, 2.2],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Vicenç de Malla"
+          },
+          "codiPostal": "08519",
+          "codiINE": "08111",
+          "what3words": null
+        },
+        "081120": {
+          "nom": "Manlleu",
+          "coordenades": [42.000, 2.283],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Nostra Senyora de Gràcia de Manlleu"
+          },
+          "codiPostal": "08560",
+          "codiINE": "08112",
+          "what3words": null
+        },
+        "081167": {
+          "nom": "Masies de Roda, les",
+          "coordenades": [41.990, 2.306],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de Roda"
+          },
+          "codiPostal": "08510",
+          "codiINE": "08116",
+          "what3words": null
+        },
+        "081173": {
+          "nom": "Masies de Voltregà, les",
+          "coordenades": [42.026, 2.234],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Esteve de les Masies de Voltregà"
+          },
+          "codiPostal": "08508",
+          "codiINE": "08117",
+          "what3words": null
+        },
+        "081290": {
+          "nom": "Muntanyola",
+          "coordenades": [41.880, 2.179],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Iscle i Santa Victòria de Muntanyola"
+          },
+          "codiPostal": "08529",
+          "codiINE": "08129",
+          "what3words": "///locate.tins.pausing"
+        },
+        "081311": {
+          "nom": "Montesquiu",
+          "coordenades": [42.237, 2.353],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Quirze de Montesquiu"
+          },
+          "codiPostal": "08585",
+          "codiINE": "08131",
+          "what3words": "///elated.momentous.slot"
+        },
+        "081509": {
+          "nom": "Orís",
+          "coordenades": [42.060, 2.240],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Genís d'Orís / Sant Marcel de Saderra"
+          },
+          "codiPostal": "08573",
+          "codiINE": "08150",
+          "what3words": null
+        },
+        "081831": {
+          "nom": "Roda de Ter",
+          "coordenades": [41.983, 2.309],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de Roda de Ter"
+          },
+          "codiPostal": "08510",
+          "codiINE": "08183",
+          "what3words": null
+        },
+        "081957": {
+          "nom": "Sant Agustí de Lluçanès",
+          "coordenades": [42.087, 2.128],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Agustí de Lluçanès"
+          },
+          "codiPostal": "08586",
+          "codiINE": "08195",
+          "what3words": "///launch.draw.skip"
+        },
+        "081995": {
+          "nom": "Sant Bartomeu del Grau",
+          "coordenades": [41.985, 2.172],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Bartomeu del Grau"
+          },
+          "codiPostal": "08503",
+          "codiINE": "08199",
+          "what3words": null
+        },
+        "082016": {
+          "nom": "Sant Boi de Lluçanès",
+          "coordenades": [42.065, 2.152],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Boi de Lluçanès"
+          },
+          "codiPostal": "08589",
+          "codiINE": "08201",
+          "what3words": null
+        },
+        "082153": {
+          "nom": "Sant Hipòlit de Voltregà",
+          "coordenades": [42.017, 2.238],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Hipòlit de Voltregà"
+          },
+          "codiPostal": "08512",
+          "codiINE": "08215",
+          "what3words": null
+        },
+        "082205": {
+          "nom": "Sant Julià de Vilatorta",
+          "coordenades": [41.921, 2.321],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Julià de Vilatorta"
+          },
+          "codiPostal": "08504",
+          "codiINE": "08220",
+          "what3words": null
+        },
+        "082248": {
+          "nom": "Sant Martí de Centelles",
+          "coordenades": [41.765, 2.204],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Centelles"
+          },
+          "codiPostal": "08592",
+          "codiINE": "08224",
+          "what3words": null
+        },
+        "082331": {
+          "nom": "Sant Pere de Torelló",
+          "coordenades": [42.076, 2.293],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de Torelló"
+          },
+          "codiPostal": "08570",
+          "codiINE": "08233",
+          "what3words": null
+        },
+        "082378": {
+          "nom": "Sant Quirze de Besora",
+          "coordenades": [42.103, 2.219],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Quirze i Santa Julita de Besora"
+          },
+          "codiPostal": "08580",
+          "codiINE": "08237",
+          "what3words": null
+        },
+        "082418": {
+          "nom": "Sant Sadurní d'Osormort",
+          "coordenades": [41.892, 2.357],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Sadurní d'Osormort"
+          },
+          "codiPostal": "08519",
+          "codiINE": "08241",
+          "what3words": null
+        },
+        "082439": {
+          "nom": "Santa Cecília de Voltregà",
+          "coordenades": [41.992, 2.222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Cecília de Voltregà"
+          },
+          "codiPostal": "08509",
+          "codiINE": "08243",
+          "what3words": null
+        },
+        "082460": {
+          "nom": "Santa Eugènia de Berga",
+          "coordenades": [41.911, 2.280],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Eugènia de Berga"
+          },
+          "codiPostal": "08507",
+          "codiINE": "08246",
+          "what3words": null
+        },
+        "082476": {
+          "nom": "Santa Eulàlia de Riuprimer",
+          "coordenades": [41.909, 2.185],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Eulàlia de Riuprimer"
+          },
+          "codiPostal": "08505",
+          "codiINE": "08247",
+          "what3words": null
+        },
+        "082536": {
+          "nom": "Santa Maria de Besora",
+          "coordenades": [42.129, 2.258],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Besora"
+          },
+          "codiPostal": "08589",
+          "codiINE": "08253",
+          "what3words": null
+        },
+        "082541": {
+          "nom": "Esquirol, l'",
+          "coordenades": [42.037, 2.369],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Corcó (L'Esquirol)"
+          },
+          "codiPostal": "08511",
+          "codiINE": "08254",
+          "what3words": null
+        },
+        "082652": {
+          "nom": "Sant Vicenç de Torelló",
+          "coordenades": [42.062, 2.272],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Vicenç de Torelló"
+          },
+          "codiPostal": "08571",
+          "codiINE": "08265",
+          "what3words": null
+        },
+        "082690": {
+          "nom": "Seva",
+          "coordenades": [41.840, 2.285],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Santa Maria de Seva"
+          },
+          "codiPostal": "08553",
+          "codiINE": "08269",
+          "what3words": null
+        },
+        "082726": {
+          "nom": "Sora",
+          "coordenades": [42.114, 2.160],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de Sora"
+          },
+          "codiPostal": "08588",
+          "codiINE": "08272",
+          "what3words": null
+        },
+        "082750": {
+          "nom": "Tavèrnoles",
+          "coordenades": [41.953, 2.327],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Esteve de Tavèrnoles"
+          },
+          "codiPostal": "08519",
+          "codiINE": "08275",
+          "what3words": null
+        },
+        "082785": {
+          "nom": "Taradell",
+          "coordenades": [41.867, 2.283],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Genís de Taradell"
+          },
+          "codiPostal": "08552",
+          "codiINE": "08278",
+          "what3words": null
+        },
+        "082802": {
+          "nom": "Tavertet",
+          "coordenades": [41.997, 2.419],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Cristòfol de Tavertet"
+          },
+          "codiPostal": "08511",
+          "codiINE": "08280",
+          "what3words": null
+        },
+        "082830": {
+          "nom": "Tona",
+          "coordenades": [41.850, 2.233],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Andreu de Tona"
+          },
+          "codiPostal": "08551",
+          "codiINE": "08283",
+          "what3words": null
+        },
+        "082858": {
+          "nom": "Torelló",
+          "coordenades": [42.047, 2.260],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Feliu de Torelló / Mare de Déu de Montserrat de Torelló"
+          },
+          "codiPostal": "08570",
+          "codiINE": "08285",
+          "what3words": null
+        },
+        "082981": {
+          "nom": "Vic",
+          "coordenades": [41.933, 2.250],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere Apòstol (Catedral de Vic)"
+          },
+          "codiPostal": "08500",
+          "codiINE": "08298",
+          "what3words": null
+        },
+        "083036": {
+          "nom": "Vilanova de Sau",
+          "coordenades": [41.950, 2.417],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Romà de Sau"
+          },
+          "codiPostal": "08519",
+          "codiINE": "08303",
+          "what3words": null
+        },
+        "089019": {
+          "nom": "Rupit i Pruit",
+          "coordenades": [42.025, 2.467],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Andreu de Pruit"
+          },
+          "codiPostal": "08569",
+          "codiINE": "08901",
+          "what3words": null
+        },
+        "170638": {
+          "nom": "Espinelves",
+          "coordenades": [41.871, 2.418],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Vicenç d'Espinelves"
+          },
+          "codiPostal": "17406",
+          "codiINE": "17063",
+          "what3words": null
+        },
+        "172121": {
+          "nom": "Vidrà",
+          "coordenades": [42.117, 2.317],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Hilari de Vidrà"
+          },
+          "codiPostal": "17515",
+          "codiINE": "17212",
+          "what3words": null
+        },
+        "172207": {
+          "nom": "Viladrau",
+          "coordenades": [41.849, 2.383],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Viladrau"
+          },
+          "codiPostal": "17406",
+          "codiINE": "17220",
+          "what3words": "///villas.spell.outbursts"
+        }
+      }
+    },
+    "34": {"nom": "Selva", "municipis": {
+        "080826": {
+          "nom": "Fogars de la Selva",
+          "coordenades": [41.728056, 2.681111],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sants Corneli i Cebrià"
+          },
+          "codiPostal": "08495",
+          "codiINE": "08082",
+          "what3words": null
+        },
+        "170078": {
+          "nom": "Amer",
+          "coordenades": [42.0104174, 2.6028036],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17170",
+          "codiINE": "17007",
+          "what3words": null
+        },
+        "170084": {
+          "nom": "Anglès",
+          "coordenades": [41.9560498, 2.6354212],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17160",
+          "codiINE": "17008",
+          "what3words": "///angles.apples.clouds"
+        },
+        "170097": {
+          "nom": "Arbúcies",
+          "coordenades": [41.8165773, 2.511129],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Quirze i Santa Julita"
+          },
+          "codiPostal": "17401",
+          "codiINE": "17009",
+          "what3words": null
+        },
+        "170237": {
+          "nom": "Blanes",
+          "coordenades": [41.676, 2.793],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17300",
+          "codiINE": "17023",
+          "what3words": "///fitter.increases.ulterior"
+        },
+        "170274": {
+          "nom": "Breda",
+          "coordenades": [41.7497057, 2.5569436],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17400",
+          "codiINE": "17027",
+          "what3words": "///pretty.needed.chill"
+        },
+        "170280": {
+          "nom": "Brunyola i Sant Martí Sapresa",
+          "coordenades": [41.904444, 2.684167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí Sapresa"
+          },
+          "codiPostal": "17441",
+          "codiINE": "17028",
+          "what3words": null
+        },
+        "170335": {
+          "nom": "Caldes de Malavella",
+          "coordenades": [41.838747, 2.808894],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17455",
+          "codiINE": "17033",
+          "what3words": "///along.bells.things"
+        },
+        "170834": {
+          "nom": "Hostalric",
+          "coordenades": [41.75, 2.633333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria dels Socors"
+          },
+          "codiPostal": "17450",
+          "codiINE": "17083",
+          "what3words": "///indicative.overdrive.hostels"
+        },
+        "170950": {
+          "nom": "Lloret de Mar",
+          "coordenades": [41.69872, 2.84749],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Romà"
+          },
+          "codiPostal": "17310",
+          "codiINE": "17095",
+          "what3words": null
+        },
+        "171019": {
+          "nom": "Massanes",
+          "coordenades": [41.767778, 2.6525],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17452",
+          "codiINE": "17101",
+          "what3words": "///working.masses.resort"
+        },
+        "171030": {
+          "nom": "Maçanet de la Selva",
+          "coordenades": [41.779444, 2.733333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "17412",
+          "codiINE": "17103",
+          "what3words": null
+        },
+        "171169": {
+          "nom": "Osor",
+          "coordenades": [41.9475, 2.556944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Vic",
+            "parroquia": "Sant Pere d'Osor"
+          },
+          "codiPostal": "17160",
+          "codiINE": "17116",
+          "what3words": null
+        },
+        "171463": {
+          "nom": "Riells i Viabrea",
+          "coordenades": [41.725, 2.558194],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí de Riells"
+          },
+          "codiPostal": "17404",
+          "codiINE": "17146",
+          "what3words": "///home.highways.going"
+        },
+        "171485": {
+          "nom": "Riudarenes",
+          "coordenades": [41.823889, 2.7175],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Martí de Riudarenes"
+          },
+          "codiPostal": "17451",
+          "codiINE": "17148",
+          "what3words": null
+        },
+        "171501": {
+          "nom": "Riudellots de la Selva",
+          "coordenades": [41.899839, 2.774519],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17457",
+          "codiINE": "17150",
+          "what3words": null
+        },
+        "171595": {
+          "nom": "Sant Feliu de Buixalleu",
+          "coordenades": [41.79093, 2.586137],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Feliu de Buixalleu"
+          },
+          "codiPostal": "17451",
+          "codiINE": "17159",
+          "what3words": null
+        },
+        "171642": {
+          "nom": "Sant Hilari Sacalm",
+          "coordenades": [41.879444, 2.512778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Vic",
+            "parroquia": "Sant Hilari de Poitiers"
+          },
+          "codiPostal": "17403",
+          "codiINE": "17164",
+          "what3words": null
+        },
+        "171805": {
+          "nom": "Santa Coloma de Farners",
+          "coordenades": [41.862403, 2.665361],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Coloma de Farners"
+          },
+          "codiPostal": "17430",
+          "codiINE": "17180",
+          "what3words": null
+        },
+        "171899": {
+          "nom": "Cellera de Ter, la",
+          "coordenades": [41.968333, 2.620833],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Mare de Déu de Sales"
+          },
+          "codiPostal": "17165",
+          "codiINE": "17189",
+          "what3words": null
+        },
+        "171931": {
+          "nom": "Sils",
+          "coordenades": [41.8, 2.75],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17410",
+          "codiINE": "17193",
+          "what3words": "///silt.measurement.tricky"
+        },
+        "171946": {
+          "nom": "Susqueda",
+          "coordenades": [41.979167, 2.527222],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Vic",
+            "parroquia": "Sant Martí Sacalm"
+          },
+          "codiPostal": "17171",
+          "codiINE": "17194",
+          "what3words": "///quells.combining.tasters"
+        },
+        "172023": {
+          "nom": "Tossa de Mar",
+          "coordenades": [41.720556, 2.931944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "17320",
+          "codiINE": "17202",
+          "what3words": null
+        },
+        "172137": {
+          "nom": "Vidreres",
+          "coordenades": [41.788883, 2.779272],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17411",
+          "codiINE": "17213",
+          "what3words": null
+        },
+        "172333": {
+          "nom": "Vilobí d'Onyar",
+          "coordenades": [41.888889, 2.7425],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17185",
+          "codiINE": "17233",
+          "what3words": null
+        },
+        "179032": {
+          "nom": "Sant Julià del Llor i Bonmatí",
+          "coordenades": [41.969189, 2.651911],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Girona",
+            "parroquia": "Santa Maria de Bonmatí / Sant Julià del Llor"
+          },
+          "codiPostal": "17164",
+          "codiINE": "17903",
+          "what3words": null
+        }
+      }
+    },
+    "40": {"nom": "Vallès Occidental", "municipis": {
+        "080517": {
+          "nom": "Castellar del Vallès",
+          "coordenades": [
+            41.6167,
+            2.0667
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08211",
+          "codiINE": "08051",
+          "what3words": null
+        },
+        "080543": {
+          "nom": "Castellbisbal",
+          "coordenades": [
+            41.476,
+            1.983
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Sant Feliu de Llobregat",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08755",
+          "codiINE": "08054",
+          "what3words": "///circulation.later.chart"
+        },
+        "080879": {
+          "nom": "Gallifa",
+          "coordenades": [
+            41.6941,
+            2.1156
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere i Sant Feliu"
+          },
+          "codiPostal": "08213",
+          "codiINE": "08087",
+          "what3words": "///gullible.terminates.speeders"
+        },
+        "081206": {
+          "nom": "Matadepera",
+          "coordenades": [
+            41.60862,
+            2.13532
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "08230",
+          "codiINE": "08120",
+          "what3words": null
+        },
+        "081252": {
+          "nom": "Montcada i Reixac",
+          "coordenades": [
+            41.4872,
+            2.1878
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Engràcia"
+          },
+          "codiPostal": "08110",
+          "codiINE": "08125",
+          "what3words": null
+        },
+        "081568": {
+          "nom": "Palau-solità i Plegamans",
+          "coordenades": [
+            41.5800,
+            2.1811
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Maria de Palau-solità"
+          },
+          "codiPostal": "08184",
+          "codiINE": "08156",
+          "what3words": null
+        },
+        "081672": {
+          "nom": "Polinyà",
+          "coordenades": [
+            41.558,
+            2.158
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Salvador"
+          },
+          "codiPostal": "08213",
+          "codiINE": "08167",
+          "what3words": "///venue.polite.cities"
+        },
+        "081799": {
+          "nom": "Rellinars",
+          "coordenades": [
+            41.6375,
+            1.9108
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere i Sant Feliu"
+          },
+          "codiPostal": "08299",
+          "codiINE": "08179",
+          "what3words": "///bars.relishing.strategy"
+        },
+        "081803": {
+          "nom": "Ripollet",
+          "coordenades": [
+            41.497,
+            2.154
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08291",
+          "codiINE": "08180",
+          "what3words": "///plot.love.scans"
+        },
+        "081846": {
+          "nom": "Rubí",
+          "coordenades": [
+            41.4864,
+            2.0314
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08101, 08191",
+          "codiINE": "08184",
+          "what3words": "///work.office.ruby"
+        },
+        "081878": {
+          "nom": "Sabadell",
+          "coordenades": [
+            41.5486,
+            2.1075
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Fèlix"
+          },
+          "codiPostal": "08192, 08201, 08202, 08203, 08204, 08205, 08206, 08207, 08208, 08805",
+          "codiINE": "08187",
+          "what3words": null
+        },
+        "082055": {
+          "nom": "Sant Cugat del Vallès",
+          "coordenades": [
+            41.46977,
+            2.07836
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Pere d'Octavià"
+          },
+          "codiPostal": "08172, 08173, 08174, 08195",
+          "codiINE": "08205",
+          "what3words": null
+        },
+        "082233": {
+          "nom": "Sant Llorenç Savall",
+          "coordenades": [
+            41.6794,
+            2.0578
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "08212",
+          "codiINE": "08223",
+          "what3words": null
+        },
+        "082384": {
+          "nom": "Sant Quirze del Vallès",
+          "coordenades": [
+            41.5347,
+            2.0822
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Quirze i Santa Julita"
+          },
+          "codiPostal": "08192",
+          "codiINE": "08238",
+          "what3words": null
+        },
+        "082520": {
+          "nom": "Barberà del Vallès",
+          "coordenades": [
+            41.51366,
+            2.12566
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08210, 08214",
+          "codiINE": "08252",
+          "what3words": null
+        },
+        "082606": {
+          "nom": "Santa Perpètua de Mogoda",
+          "coordenades": [
+            41.53460,
+            2.18368
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Perpètua"
+          },
+          "codiPostal": "08130",
+          "codiINE": "08260",
+          "what3words": null
+        },
+        "082665": {
+          "nom": "Cerdanyola del Vallès",
+          "coordenades": [
+            41.4919,
+            2.1389
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08290",
+          "codiINE": "08266",
+          "what3words": null
+        },
+        "082671": {
+          "nom": "Sentmenat",
+          "coordenades": [
+            41.6092,
+            2.1369
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Menna"
+          },
+          "codiPostal": "08181",
+          "codiINE": "08267",
+          "what3words": "///surging.central.sends"
+        },
+        "082798": {
+          "nom": "Terrassa",
+          "coordenades": [
+            41.56298,
+            2.01004
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08221, 08222, 08223, 08224, 08225, 08226, 08227, 08228",
+          "codiINE": "08279",
+          "what3words": null
+        },
+        "082900": {
+          "nom": "Ullastrell",
+          "coordenades": [
+            41.5333,
+            1.9500
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08231",
+          "codiINE": "08290",
+          "what3words": "///universal.tweaked.slyly"
+        },
+        "082917": {
+          "nom": "Vacarisses",
+          "coordenades": [
+            41.6000,
+            1.9167
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08233",
+          "codiINE": "08291",
+          "what3words": "///berated.central.qualify"
+        },
+        "083008": {
+          "nom": "Viladecavalls",
+          "coordenades": [
+            41.5578,
+            1.9558
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Martí de Sorbet"
+          },
+          "codiPostal": "08232",
+          "codiINE": "08300",
+          "what3words": null
+        },
+        "089045": {
+          "nom": "Badia del Vallès",
+          "coordenades": [
+            41.5106,
+            2.1169
+          ],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Mare de Déu de la Mercè"
+          },
+          "codiPostal": "08214",
+          "codiINE": "08904",
+          "what3words": null
+        }
+      }
+    },
+    "41": {"nom": "Vallès Oriental", "municipis": {
+        "080057": {
+          "nom": "L'Ametlla del Vallès",
+          "coordenades": [41.6667, 2.2500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Genís"
+          },
+          "codiPostal": "08480",
+          "codiINE": "08005",
+          "what3words": "///vines.throne.flown"
+        },
+        "080142": {
+          "nom": "Aiguafreda",
+          "coordenades": [41.7760, 2.2610],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08591",
+          "codiINE": "08002",
+          "what3words": "///snoring.lanky.lures"
+        },
+        "080235": {
+          "nom": "Bigues i Riells del Fai",
+          "coordenades": [41.6700, 2.2100],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Pere de Bigues"
+          },
+          "codiPostal": "08415",
+          "codiINE": "08263",
+          "what3words": "///shining.clasp.flames"
+        },
+        "080333": {
+          "nom": "Caldes de Montbui",
+          "coordenades": [41.6360, 2.1640],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08140",
+          "codiINE": "08033",
+          "what3words": "///pavement.glowing.tummy"
+        },
+        "080399": {
+          "nom": "Campins",
+          "coordenades": [41.7000, 2.4700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08472",
+          "codiINE": "08040",
+          "what3words": "///refilled.earphones.thrones"
+        },
+        "080410": {
+          "nom": "Canovelles",
+          "coordenades": [41.6100, 2.2900],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Fèlix"
+          },
+          "codiPostal": "08420",
+          "codiINE": "08041",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "080425": {
+          "nom": "Cànoves i Samalús",
+          "coordenades": [41.6700, 2.3700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Muç de Cànoves"
+          },
+          "codiPostal": "08440",
+          "codiINE": "08042",
+          "what3words": "///regard.breathed.shuts"
+        },
+        "080462": {
+          "nom": "Cardedeu",
+          "coordenades": [41.6500, 2.3500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Corneli"
+          },
+          "codiPostal": "08440",
+          "codiINE": "08046",
+          "what3words": "///prayers.crushed.chuckle"
+        },
+        "080811": {
+          "nom": "Fogars de Montclús",
+          "coordenades": [41.7400, 2.4800],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve de la Costa"
+          },
+          "codiPostal": "08479",
+          "codiINE": "08081",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "080863": {
+          "nom": "Les Franqueses del Vallès",
+          "coordenades": [41.6200, 2.2600],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Eulàlia de Corró d'Avall"
+          },
+          "codiPostal": "08520",
+          "codiINE": "08086",
+          "what3words": "///thrones.flown.vines"
+        },
+        "080885": {
+          "nom": "La Garriga",
+          "coordenades": [41.6900, 2.2800],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08530",
+          "codiINE": "08088",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "080961": {
+          "nom": "Granollers",
+          "coordenades": [41.6060, 2.2880],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08400",
+          "codiINE": "08096",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "080977": {
+          "nom": "Gualba",
+          "coordenades": [41.7000, 2.4800],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Daniel"
+          },
+          "codiPostal": "08474",
+          "codiINE": "08097",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081056": {
+          "nom": "La Llagosta",
+          "coordenades": [41.5300, 2.1900],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Fèlix"
+          },
+          "codiPostal": "08120",
+          "codiINE": "08105",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081069": {
+          "nom": "Llinars del Vallès",
+          "coordenades": [41.6500, 2.4100],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Joan"
+          },
+          "codiPostal": "08450",
+          "codiINE": "08106",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081075": {
+          "nom": "Lliçà d'Amunt",
+          "coordenades": [41.6300, 2.2300],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "08186",
+          "codiINE": "08107",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081081": {
+          "nom": "Lliçà de Vall",
+          "coordenades": [41.5900, 2.2500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "08185",
+          "codiINE": "08108",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081154": {
+          "nom": "Martorelles",
+          "coordenades": [41.5500, 2.2500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Fost de Campsentelles"
+          },
+          "codiPostal": "08107",
+          "codiINE": "08115",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081249": {
+          "nom": "Mollet del Vallès",
+          "coordenades": [41.5400, 2.2100],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08100",
+          "codiINE": "08124",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081347": {
+          "nom": "Figaró-Montmany",
+          "coordenades": [41.7600, 2.2500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Pere de Figaró"
+          },
+          "codiPostal": "08590",
+          "codiINE": "08080",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081350": {
+          "nom": "Montmeló",
+          "coordenades": [41.5600, 2.2400],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Mateu"
+          },
+          "codiPostal": "08160",
+          "codiINE": "08135",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081363": {
+          "nom": "Montornès del Vallès",
+          "coordenades": [41.5600, 2.2700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Sadurní"
+          },
+          "codiPostal": "08170",
+          "codiINE": "08136",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081379": {
+          "nom": "Montseny",
+          "coordenades": [41.7700, 2.3900],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Julià"
+          },
+          "codiPostal": "08469",
+          "codiINE": "08137",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081593": {
+          "nom": "Parets del Vallès",
+          "coordenades": [41.5800, 2.2400],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08150",
+          "codiINE": "08159",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081810": {
+          "nom": "La Roca del Vallès",
+          "coordenades": [41.6000, 2.3700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Sadurní"
+          },
+          "codiPostal": "08430",
+          "codiINE": "08181",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "081982": {
+          "nom": "Sant Antoni de Vilamajor",
+          "coordenades": [41.6700, 2.4200],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Antoni Abat"
+          },
+          "codiPostal": "08459",
+          "codiINE": "08198",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082021": {
+          "nom": "Sant Celoni",
+          "coordenades": [41.7000, 2.4500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "08470",
+          "codiINE": "08202",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082074": {
+          "nom": "Sant Esteve de Palautordera",
+          "coordenades": [41.6800, 2.4300],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "08461",
+          "codiINE": "08207",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082093": {
+          "nom": "Sant Fost de Campsentelles",
+          "coordenades": [41.5300, 2.2600],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Fost"
+          },
+          "codiPostal": "08105",
+          "codiINE": "08209",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082107": {
+          "nom": "Sant Feliu de Codines",
+          "coordenades": [41.6900, 2.1500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Feliu"
+          },
+          "codiPostal": "08182",
+          "codiINE": "08210",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082346": {
+          "nom": "Sant Pere de Vilamajor",
+          "coordenades": [41.6900, 2.4000],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "08458",
+          "codiINE": "08234",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082482": {
+          "nom": "Santa Eulàlia de Ronçana",
+          "coordenades": [41.6400, 2.2200],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Eulàlia"
+          },
+          "codiPostal": "08187",
+          "codiINE": "08248",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082567": {
+          "nom": "Santa Maria de Martorelles",
+          "coordenades": [41.5400, 2.2700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08106",
+          "codiINE": "08256",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082592": {
+          "nom": "Santa Maria de Palautordera",
+          "coordenades": [41.6700, 2.4500],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "08460",
+          "codiINE": "08259",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082763": {
+          "nom": "Tagamanent",
+          "coordenades": [41.7700, 2.2400],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Vic",
+            "parroquia": "Sant Martí de Tagamanent"
+          },
+          "codiPostal": "08590",
+          "codiINE": "08276",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082943": {
+          "nom": "Vallgorguina",
+          "coordenades": [41.6500, 2.4900],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": "08471",
+          "codiINE": "08294",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "082969": {
+          "nom": "Vallromanes",
+          "coordenades": [41.5500, 2.3300],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "08188",
+          "codiINE": "08296",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "083067": {
+          "nom": "Vilalba Sasserra",
+          "coordenades": [41.6500, 2.4700],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Girona",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "08459",
+          "codiINE": "08306",
+          "what3words": "///rehearsed.shame.hugs"
+        },
+        "089024": {
+          "nom": "Vilanova del Vallès",
+          "coordenades": [41.5600, 2.3600],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Terrassa",
+            "parroquia": "Sant Cristòfol"
+          },
+          "codiPostal": "08410",
+          "codiINE": "08902",
+          "what3words": "///rehearsed.shame.hugs"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2938 @@
+{
+  "tipus": "detall_provincial",
+  "codiINE": "25",
+  "comarques": {
+    "05": {"nom": "Alta Ribagorça", "municipis": {
+        "250432": {
+          "nom": "La Vall de Boí",
+          "coordenades": [42.524400, 0.825580],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Feliu, Sant Joan Baptista, Santa Maria, La Nativitat, Santa Eulàlia de Mèrida, Sant Climent"
+          },
+          "codiPostal": "25528, 25526, 25527, 25552, 25553",
+          "codiINE": "25043",
+          "what3words": null
+        },
+        "251734": {
+          "nom": "El Pont de Suert",
+          "coordenades": [42.406111, 0.739444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Maria del Pont de Suert"
+          },
+          "codiPostal": "25520",
+          "codiINE": "25173",
+          "what3words": null
+        },
+        "252458": {
+          "nom": "Vilaller",
+          "coordenades": [42.483333, 0.716667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Lleida",
+            "parroquia": "Saint Clement"
+          },
+          "codiPostal": "25552",
+          "codiINE": "25245",
+          "what3words": null
+        }
+      }
+    },
+    "04": {"nom": "Alt Urgell", "municipis": {
+        "250058": {
+          "nom": "Alàs i Cerc",
+          "coordenades": [42.352222, 1.507778],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "25718, 25715, 25717",
+          "codiINE": "25005",
+          "what3words": null
+        },
+        "250306": {
+          "nom": "Pont de Bar, el",
+          "coordenades": [42.371944, 1.606389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "25723",
+          "codiINE": "25030",
+          "what3words": "///track.online.gives"
+        },
+        "250328": {
+          "nom": "Arsèguel",
+          "coordenades": [42.350172, 1.582822],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": null,
+          "codiINE": "25032",
+          "what3words": null
+        },
+        "250447": {
+          "nom": "Bassella",
+          "coordenades": [42.006944, 1.295556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "25289, 25792",
+          "codiINE": "25044",
+          "what3words": "///yours.frame.values"
+        },
+        "250616": {
+          "nom": "Cabó",
+          "coordenades": [42.240, 1.249],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": null,
+          "codiINE": "25061",
+          "what3words": "///cabo.condenadas.brando"
+        },
+        "250714": {
+          "nom": "Cava",
+          "coordenades": [42.327, 1.586],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Ansovell"
+          },
+          "codiPostal": "25722",
+          "codiINE": "25071",
+          "what3words": "///headless.possibly.luring"
+        },
+        "250772": {
+          "nom": "Coll de Nargó",
+          "coordenades": [42.173333, 1.316667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Climent"
+          },
+          "codiPostal": "25793",
+          "codiINE": "25077",
+          "what3words": "///encourage.eager.nature"
+        },
+        "250886": {
+          "nom": "Estamariu",
+          "coordenades": [42.375278, 1.523889],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Vicenç"
+          },
+          "codiPostal": "25719",
+          "codiINE": "25088",
+          "what3words": null
+        },
+        "251403": {
+          "nom": "Montferrer i Castellbò",
+          "coordenades": [42.343, 1.429],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve (Aravell), Santa Maria (Castellbò), Sant Vicenç (Montferrer), Sant Serni (Sallent), Santa Cecília (Vilanova de Banat), Santa Coloma (Vilamitjana del Cantó)"
+          },
+          "codiPostal": "25711, 25712, 25714, 25795",
+          "codiINE": "25140",
+          "what3words": null
+        },
+        "251497": {
+          "nom": "Oliana",
+          "coordenades": [42.066667, 1.316667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Andreu"
+          },
+          "codiPostal": null,
+          "codiINE": "25149",
+          "what3words": null
+        },
+        "251556": {
+          "nom": "Organyà",
+          "coordenades": [42.212778, 1.329444],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "25794",
+          "codiINE": "25155",
+          "what3words": "///branch.grab.organ"
+        },
+        "251654": {
+          "nom": "Peramola",
+          "coordenades": [42.07092, 1.27578],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "25790",
+          "codiINE": "25165",
+          "what3words": "///pretty.needed.chill"
+        },
+        "251850": {
+          "nom": "Ribera d'Urgellet",
+          "coordenades": [42.312, 1.383],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "La Purificació (Adrall)"
+          },
+          "codiPostal": "25711, 25713, 25714, 25795, 25796, 25797",
+          "codiINE": "25185",
+          "what3words": null
+        },
+        "252038": {
+          "nom": "Seu d'Urgell, la",
+          "coordenades": [42.358, 1.456],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Catedral de Santa María d’Urgell, Sant Ot"
+          },
+          "codiPostal": "25700",
+          "codiINE": "25203",
+          "what3words": null
+        },
+        "252398": {
+          "nom": "Valls de Valira, les",
+          "coordenades": [42.376, 1.452],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni (Anserall), Sant Andreu (Arcavell), Santa Eugènia (Argolell), Sant Martí (Ars), Sant Martí (Bescaran), Sant Romà (Civís), Sant Pere (Os de Civís)"
+          },
+          "codiPostal": "25719, 25788, 25798, 25799",
+          "codiINE": "25239",
+          "what3words": null
+        },
+        "259062": {
+          "nom": "Valls d'Aguilar, les",
+          "coordenades": [42.295833, 1.343056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "25714, 25795",
+          "codiINE": "25906",
+          "what3words": null
+        },
+        "259084": {
+          "nom": "Fígols i Alinyà",
+          "coordenades": [42.205, 1.341944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Víctor"
+          },
+          "codiPostal": null,
+          "codiINE": "25908",
+          "what3words": null
+        },
+        "259097": {
+          "nom": "Vansa i Fórnols, la",
+          "coordenades": [42.233172, 1.484499],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Martí"
+          },
+          "codiPostal": "25716",
+          "codiINE": "25909",
+          "what3words": null
+        },
+        "259101": {
+          "nom": "Josa i Tuixén",
+          "coordenades": [42.232778, 1.568333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Tuixén / Sant Esteve"
+          },
+          "codiPostal": "25717",
+          "codiINE": "25910",
+          "what3words": null
+        }
+      }
+    },
+    "15": {"nom": "Cerdanya", "municipis": {
+        "170062": {
+          "nom": "Alp",
+          "coordenades": [42.375278, 1.888611],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "17538",
+          "codiINE": "17004",
+          "what3words": null
+        },
+        "170242": {
+          "nom": "Bolvir",
+          "coordenades": [42.416667, 1.883333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Cecília"
+          },
+          "codiPostal": null,
+          "codiINE": null,
+          "what3words": null
+        },
+        "170617": {
+          "nom": "Das",
+          "coordenades": null,
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Llorenç"
+          },
+          "codiPostal": "25720",
+          "codiINE": null,
+          "what3words": null
+        },
+        "170694": {
+          "nom": "Fontanals de Cerdanya",
+          "coordenades": [42.386667, 1.901667],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Eulàlia de Mèrida (Estoll), Sant Esteve (Les Pereres)"
+          },
+          "codiPostal": "17538",
+          "codiINE": "170694",
+          "what3words": null
+        },
+        "170789": {
+          "nom": "Ger",
+          "coordenades": [42.410828, 1.844242],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Coloma"
+          },
+          "codiPostal": null,
+          "codiINE": null,
+          "what3words": null
+        },
+        "170828": {
+          "nom": "Guils de Cerdanya",
+          "coordenades": [42.450556, 1.879722],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "17528",
+          "codiINE": null,
+          "what3words": null
+        },
+        "170849": {
+          "nom": "Isòvol",
+          "coordenades": [42.399444, 1.839167],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Miquel"
+          },
+          "codiPostal": "17539",
+          "codiINE": null,
+          "what3words": "///commented.full.volcano"
+        },
+        "170947": {
+          "nom": "Llívia",
+          "coordenades": [42.464778, 1.981944],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Mare de Déu dels Àngels"
+          },
+          "codiPostal": "17527",
+          "codiINE": "17094",
+          "what3words": null
+        },
+        "170998": {
+          "nom": "Meranges",
+          "coordenades": [42.44518, 1.78777],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "17539",
+          "codiINE": "17099",
+          "what3words": "///spines.invents.mermaids"
+        },
+        "171411": {
+          "nom": "Puigcerdà",
+          "coordenades": [42.431667, 1.928333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Maria"
+          },
+          "codiPostal": "17520",
+          "codiINE": null,
+          "what3words": null
+        },
+        "172060": {
+          "nom": "Urús",
+          "coordenades": [42.3525, 1.853333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Climent"
+          },
+          "codiPostal": null,
+          "codiINE": "172060",
+          "what3words": null
+        },
+        "250518": {
+          "nom": "Bellver de Cerdanya",
+          "coordenades": null,
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Santa Eugènia"
+          },
+          "codiPostal": "25720",
+          "codiINE": "25051",
+          "what3words": null
+        },
+        "251272": {
+          "nom": "Lles de Cerdanya",
+          "coordenades": [42.392222, 1.688056],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Pere"
+          },
+          "codiPostal": "25726",
+          "codiINE": "25127",
+          "what3words": null
+        },
+        "251399": {
+          "nom": "Montellà i Martinet",
+          "coordenades": [42.3625, 1.696389],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "25724, 25725",
+          "codiINE": "25139",
+          "what3words": "///register.martini.pylons"
+        },
+        "251752": {
+          "nom": "Prats i Sansor",
+          "coordenades": [42.368056, 1.840556],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Serni"
+          },
+          "codiPostal": "25720",
+          "codiINE": "25175",
+          "what3words": null
+        },
+        "251790": {
+          "nom": "Prullans",
+          "coordenades": [42.383333, 1.733333],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Esteve"
+          },
+          "codiPostal": "25727",
+          "codiINE": "25179",
+          "what3words": null
+        },
+        "259139": {
+          "nom": "Riu de Cerdanya",
+          "coordenades": [42.3475, 1.8275],
+          "estatPoblacio": "poblat",
+          "afiliacioReligiosa": {
+            "bisbat": "Urgell",
+            "parroquia": "Sant Joan Baptista"
+          },
+          "codiPostal": "25721",
+          "codiINE": "25913",
+          "what3words": null
+        }
+      }
+    },
+    "18": {"nom": "Garrigues", "municipis": {
+        "250061": {
+            "nom": "l'Albagés",
+            "coordenades": [41.450556, 0.740278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25006",
+            "what3words": null
+        },
+        "250096": {
+            "nom": "l'Albi",
+            "coordenades": [41.425, 0.938611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Santa María"
+            },
+            "codiPostal": "25450",
+            "codiINE": "25009",
+            "what3words": null
+        },
+        "250292": {
+            "nom": "Arbeca",
+            "coordenades": [41.543611, 0.926111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Sant Jaume Apòstol"
+            },
+            "codiPostal": "25140",
+            "codiINE": "25029",
+            "what3words": null
+        },
+        "250560": {
+            "nom": "Bovera",
+            "coordenades": [41.328333, 0.64],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Josep"
+            },
+            "codiPostal": null,
+            "codiINE": "25056",
+            "what3words": null
+        },
+        "250582": {
+            "nom": "Les Borges Blanques",
+            "coordenades": [41.549722, 0.887778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25058",
+            "what3words": null
+        },
+        "250674": {
+            "nom": "Castelldans",
+            "coordenades": [41.500278, 0.766944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25067",
+            "what3words": null
+        },
+        "250735": {
+            "nom": "Cervià de les Garrigues",
+            "coordenades": [41.424444, 0.86],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": null,
+            "codiINE": "25073",
+            "what3words": null
+        },
+        "250766": {
+            "nom": "El Cogul",
+            "coordenades": [41.466944, 0.689722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25076",
+            "what3words": null
+        },
+        "250812": {
+            "nom": "l'Espluga Calba",
+            "coordenades": [41.516667, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Immaculada Concepció"
+            },
+            "codiPostal": null,
+            "codiINE": "25081",
+            "what3words": null
+        },
+        "250925": {
+            "nom": "La Floresta",
+            "coordenades": [41.4480577, 2.0756405],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": null,
+            "codiINE": "25092",
+            "what3words": null
+        },
+        "250978": {
+            "nom": "Fulleda",
+            "coordenades": [41.465, 1.025278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Santa María"
+            },
+            "codiPostal": "25411",
+            "codiINE": "25097",
+            "what3words": null
+        },
+        "251018": {
+            "nom": "La Granadella",
+            "coordenades": [41.333333, 0.683333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": null,
+            "codiINE": "25101",
+            "what3words": null
+        },
+        "251057": {
+            "nom": "Granyena de les Garrigues",
+            "coordenades": [41.435, 0.650556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25105",
+            "what3words": null
+        },
+        "251180": {
+            "nom": "Juncosa",
+            "coordenades": [41.370833, 0.775278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25118",
+            "what3words": null
+        },
+        "251193": {
+            "nom": "Juneda",
+            "coordenades": [41.55, 0.825],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25119",
+            "what3words": null
+        },
+        "251538": {
+            "nom": "Els Omellons",
+            "coordenades": [41.503611, 0.961389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": null,
+            "codiINE": "25153",
+            "what3words": null
+        },
+        "251692": {
+            "nom": "La Pobla de Cérvoles",
+            "coordenades": [41.35, 0.9],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Mare de Déu de la Jonquera"
+            },
+            "codiPostal": null,
+            "codiINE": "25169",
+            "what3words": null
+        },
+        "251706": {
+            "nom": "Bellaguarda",
+            "coordenades": [41.339444, 0.736944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Jaume Apòstol"
+            },
+            "codiPostal": "25163",
+            "codiINE": "25170",
+            "what3words": null
+        },
+        "251804": {
+            "nom": "Puiggròs",
+            "coordenades": [41.583333, 0.833333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Pere Apòstol"
+            },
+            "codiPostal": null,
+            "codiINE": "25180",
+            "what3words": null
+        },
+        "252069": {
+            "nom": "El Soleràs",
+            "coordenades": [41.415278, 0.682778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Santa Maria Assumpta"
+            },
+            "codiPostal": null,
+            "codiINE": "25206",
+            "what3words": null
+        },
+        "252189": {
+            "nom": "Tarrés",
+            "coordenades": [41.408056, 0.933333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Santa Maria Assumpta"
+            },
+            "codiPostal": null,
+            "codiINE": "25218",
+            "what3words": null
+        },
+        "252249": {
+            "nom": "Els Torms",
+            "coordenades": [41.395833, 0.721389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25224",
+            "what3words": null
+        },
+        "252537": {
+            "nom": "El Vilosell",
+            "coordenades": [41.383889, 0.946667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25253",
+            "what3words": null
+        },
+        "252555": {
+            "nom": "Vinaixa",
+            "coordenades": [41.383333, 0.883333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Arquebisbat de Tarragona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25255",
+            "what3words": null
+        }
+      }
+    },
+    "23": {"nom": "Noguera", "municipis": {
+        "250024": {
+            "nom": "Àger",
+            "coordenades": [41.999722, 0.762778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Vicenç"
+            },
+            "codiPostal": "25691",
+            "codiINE": "25002",
+            "what3words": null
+        },
+        "250083": {
+            "nom": "Albesa",
+            "coordenades": [41.753889, 0.661667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": "25135",
+            "codiINE": "25008",
+            "what3words": null
+        },
+        "250156": {
+            "nom": "Algerri",
+            "coordenades": [41.8175, 0.639444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Purificación de la Virgen María"
+            },
+            "codiPostal": "25130",
+            "codiINE": "25015",
+            "what3words": null
+        },
+        "250220": {
+            "nom": "Alòs de Balaguer",
+            "coordenades": [41.913611, 0.962222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Feliu"
+            },
+            "codiPostal": null,
+            "codiINE": "25022",
+            "what3words": null
+        },
+        "250349": {
+            "nom": "Artesa de Segre",
+            "coordenades": [41.897222, 1.048889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25034",
+            "what3words": null
+        },
+        "250352": {
+            "nom": "La Sentiu de Sió",
+            "coordenades": [41.783333, 0.95],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25035",
+            "what3words": null
+        },
+        "250371": {
+            "nom": "Les Avellanes i Santa Linya",
+            "coordenades": [41.883333, 0.866667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25037",
+            "what3words": null
+        },
+        "250404": {
+            "nom": "Balaguer",
+            "coordenades": [41.790278, 0.805556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": "25600",
+            "codiINE": "25040",
+            "what3words": null
+        },
+        "250426": {
+            "nom": "La Baronia de Rialb",
+            "coordenades": [41.934, 1.197],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": null,
+            "codiINE": "25042",
+            "what3words": null
+        },
+        "250479": {
+            "nom": "Bellcaire d'Urgell",
+            "coordenades": [41.759167, 0.905],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25047",
+            "what3words": null
+        },
+        "250498": {
+            "nom": "Bellmunt d'Urgell",
+            "coordenades": [41.770278, 0.953333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Josép"
+            },
+            "codiPostal": null,
+            "codiINE": "25049",
+            "what3words": null
+        },
+        "250609": {
+            "nom": "Cabanabona",
+            "coordenades": [41.8525, 1.216111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25060",
+            "what3words": null
+        },
+        "250621": {
+            "nom": "Camarasa",
+            "coordenades": [41.9, 0.876667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25062",
+            "what3words": null
+        },
+        "250693": {
+            "nom": "Castelló de Farfanya",
+            "coordenades": [41.821111, 0.729167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25069",
+            "what3words": null
+        },
+        "250791": {
+            "nom": "Cubells",
+            "coordenades": [41.853611, 0.959722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25079",
+            "what3words": null
+        },
+        "250946": {
+            "nom": "Foradada",
+            "coordenades": [41.8768861, 1.0129973],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Josép"
+            },
+            "codiPostal": "25737",
+            "codiINE": "25094",
+            "what3words": null
+        },
+        "251121": {
+            "nom": "Ivars de Noguera",
+            "coordenades": [41.851944, 0.587778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25112",
+            "what3words": null
+        },
+        "251348": {
+            "nom": "Menàrguens",
+            "coordenades": [41.75, 0.75],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25134",
+            "what3words": null
+        },
+        "251386": {
+            "nom": "Montgai",
+            "coordenades": [41.766667, 0.933333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25138",
+            "what3words": null
+        },
+        "251500": {
+            "nom": "Oliola",
+            "coordenades": [41.890556, 1.171389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Tirs"
+            },
+            "codiPostal": null,
+            "codiINE": "25150",
+            "what3words": null
+        },
+        "251569": {
+            "nom": "Os de Balaguer",
+            "coordenades": [41.870833, 0.749722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25156",
+            "what3words": null
+        },
+        "251641": {
+            "nom": "Penelles",
+            "coordenades": [41.733333, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25164",
+            "what3words": null
+        },
+        "251728": {
+            "nom": "Ponts",
+            "coordenades": [41.890556, 1.206944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25172",
+            "what3words": null
+        },
+        "251771": {
+            "nom": "Preixens",
+            "coordenades": [41.75, 1.033333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25177",
+            "what3words": null
+        },
+        "252206": {
+            "nom": "Térmens",
+            "coordenades": [41.724722, 0.771944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25220",
+            "what3words": null
+        },
+        "252228": {
+            "nom": "Tiurana",
+            "coordenades": [41.972222, 1.233333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25222",
+            "what3words": null
+        },
+        "252311": {
+            "nom": "Torrelameu",
+            "coordenades": [41.729722, 0.655],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25231",
+            "what3words": null
+        },
+        "252402": {
+            "nom": "Vallfogona de Balaguer",
+            "coordenades": [41.716667, 0.816667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25240",
+            "what3words": null
+        },
+        "252496": {
+            "nom": "Vilanova de l'Aguda",
+            "coordenades": [41.933333, 1.233333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25249",
+            "what3words": null
+        },
+        "252509": {
+            "nom": "Vilanova de Meià",
+            "coordenades": [41.908056, 1.018889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25250",
+            "what3words": null
+        }
+      }
+    },
+    "25": {"nom": "Pallars Jussà", "municipis": {
+        "250019": {
+            "nom": "Abella de la Conca",
+            "coordenades": [42.163056, 1.092778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Esteve"
+            },
+            "codiPostal": null,
+            "codiINE": "25001",
+            "what3words": null
+        },
+        "250984": {
+            "nom": "Gavet de la Conca",
+            "coordenades": [42.125, 0.921667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25098",
+            "what3words": null
+        },
+        "251155": {
+            "nom": "Isona i Conca Dellà",
+            "coordenades": [42.119722, 1.048056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25115",
+            "what3words": null
+        },
+        "251288": {
+            "nom": "Llimiana",
+            "coordenades": [42.15, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25128",
+            "what3words": null
+        },
+        "251615": {
+            "nom": "Conca de Dalt",
+            "coordenades": [42.233333, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": null,
+            "codiINE": "25161",
+            "what3words": null
+        },
+        "251713": {
+            "nom": "La Pobla de Segur",
+            "coordenades": [42.233333, 0.966667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Mare de Déu de Ribera"
+            },
+            "codiPostal": null,
+            "codiINE": "25171",
+            "what3words": null
+        },
+        "251902": {
+            "nom": "Salàs de Pallars",
+            "coordenades": [42.183333, 0.916667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25190",
+            "what3words": null
+        },
+        "251961": {
+            "nom": "Sant Esteve de la Sarga",
+            "coordenades": [42.066667, 0.75],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Esteve"
+            },
+            "codiPostal": null,
+            "codiINE": "25196",
+            "what3words": null
+        },
+        "252017": {
+            "nom": "Sarroca de Bellera",
+            "coordenades": [42.308333, 0.766667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Feliu"
+            },
+            "codiPostal": null,
+            "codiINE": "25201",
+            "what3words": null
+        },
+        "252022": {
+            "nom": "Senterada",
+            "coordenades": [42.283333, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Mare de Déu de Gràcia"
+            },
+            "codiPostal": null,
+            "codiINE": "25202",
+            "what3words": null
+        },
+        "252154": {
+            "nom": "Talarn",
+            "coordenades": [42.183333, 0.908333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": null,
+            "codiINE": "25215",
+            "what3words": null
+        },
+        "252271": {
+            "nom": "La Torre de Cabdella",
+            "coordenades": [42.416667, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": null,
+            "codiINE": "25227",
+            "what3words": null
+        },
+        "252347": {
+            "nom": "Tremp",
+            "coordenades": [42.166667, 0.883333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Mare de Déu de Valldeflors"
+            },
+            "codiPostal": null,
+            "codiINE": "25234",
+            "what3words": null
+        },
+        "259046": {
+            "nom": "Castell de Mur",
+            "coordenades": [42.094167, 0.878333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25904",
+            "what3words": null
+        }
+      }
+    },
+    "26": {"nom": "Pallars Sobirà", "municipis": {
+        "250175": {
+            "nom": "Alins",
+            "coordenades": [42.550556, 1.319722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Vicenç"
+            },
+            "codiPostal": null,
+            "codiINE": "25017",
+            "what3words": null
+        },
+        "250241": {
+            "nom": "Alt Àneu",
+            "coordenades": [42.635278, 1.111111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Andreu"
+            },
+            "codiPostal": null,
+            "codiINE": "25024",
+            "what3words": null
+        },
+        "250390": {
+            "nom": "Baix Pallars",
+            "coordenades": [42.325556, 1.065556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25039",
+            "what3words": null
+        },
+        "250827": {
+            "nom": "Espot",
+            "coordenades": [42.633333, 1.083333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Leocàdia"
+            },
+            "codiPostal": null,
+            "codiINE": "25082",
+            "what3words": null
+        },
+        "250864": {
+            "nom": "Esterri d'Àneu",
+            "coordenades": [42.616667, 1.083333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Vicenç"
+            },
+            "codiPostal": null,
+            "codiINE": "25086",
+            "what3words": null
+        },
+        "250870": {
+            "nom": "Esterri de Cardós",
+            "coordenades": [42.533333, 1.166667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pau"
+            },
+            "codiPostal": null,
+            "codiINE": "25087",
+            "what3words": null
+        },
+        "250899": {
+            "nom": "Farrera",
+            "coordenades": [42.483333, 1.133333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Eulàlia de Mèrida"
+            },
+            "codiPostal": null,
+            "codiINE": "25089",
+            "what3words": null
+        },
+        "251235": {
+            "nom": "Lladorre",
+            "coordenades": [42.633333, 1.2],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Martí"
+            },
+            "codiPostal": null,
+            "codiINE": "25123",
+            "what3words": null
+        },
+        "251266": {
+            "nom": "Llavorsí",
+            "coordenades": [42.433333, 1.183333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Anna"
+            },
+            "codiPostal": null,
+            "codiINE": "25126",
+            "what3words": null
+        },
+        "251832": {
+            "nom": "Rialp",
+            "coordenades": [42.416667, 1.133333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Mare de Déu de Valldeflors"
+            },
+            "codiPostal": null,
+            "codiINE": "25183",
+            "what3words": null
+        },
+        "252081": {
+            "nom": "Soriguera",
+            "coordenades": [42.366667, 1.133333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25208",
+            "what3words": null
+        },
+        "252094": {
+            "nom": "Sort",
+            "coordenades": [42.4, 1.133333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Feliu"
+            },
+            "codiPostal": null,
+            "codiINE": "25209",
+            "what3words": null
+        },
+        "252213": {
+            "nom": "Tírvia",
+            "coordenades": [42.533333, 1.216667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Feliu"
+            },
+            "codiPostal": null,
+            "codiINE": "25221",
+            "what3words": null
+        },
+        "259010": {
+            "nom": "Vall de Cardós",
+            "coordenades": [42.55, 1.25],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25901",
+            "what3words": null
+        },
+        "259031": {
+            "nom": "LA Guingueta d'Àneu",
+            "coordenades": [42.55, 1.083333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25903",
+            "what3words": null
+        }
+        
+      }
+    },
+    "27": {"nom": "Pla d'Urgell", "municipis": {
+        "250411": {
+            "nom": "Barbens",
+            "coordenades": [41.679722, 1.018056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25041",
+            "what3words": null
+        },
+        "250485": {
+            "nom": "Bell-lloc d'Urgell",
+            "coordenades": [41.630833, 0.778889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Feliu"
+            },
+            "codiPostal": null,
+            "codiINE": "25048",
+            "what3words": null
+        },
+        "250523": {
+            "nom": "Bellvís",
+            "coordenades": [41.6743299, 0.8186873],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25052",
+            "what3words": null
+        },
+        "250680": {
+            "nom": "Castellnou de Seana",
+            "coordenades": [41.633333, 0.983333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25068",
+            "what3words": null
+        },
+        "250931": {
+            "nom": "Fondarella",
+            "coordenades": [41.633333, 0.85],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25093",
+            "what3words": null
+        },
+        "250997": {
+            "nom": "Golmés",
+            "coordenades": [41.65, 0.883333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25099",
+            "what3words": null
+        },
+        "251137": {
+            "nom": "Ivars d'Urgell",
+            "coordenades": [41.7, 0.966667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Andreu"
+            },
+            "codiPostal": null,
+            "codiINE": "25113",
+            "what3words": null
+        },
+        "251229": {
+            "nom": "Linyola",
+            "coordenades": [41.733333, 0.85],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25122",
+            "what3words": null
+        },
+        "251351": {
+            "nom": "Miralcamp",
+            "coordenades": [41.633333, 0.833333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Miquel"
+            },
+            "codiPostal": null,
+            "codiINE": "25135",
+            "what3words": null
+        },
+        "251370": {
+            "nom": "Mollerussa",
+            "coordenades": [41.633333, 0.883333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Jaume Apòstol"
+            },
+            "codiPostal": null,
+            "codiINE": "25137",
+            "what3words": null
+        },
+        "251581": {
+            "nom": "El Palau d'Anglesola",
+            "coordenades": [41.683333, 0.9],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25158",
+            "what3words": null
+        },
+        "251689": {
+            "nom": "El Poal",
+            "coordenades": [41.716667, 0.916667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25168",
+            "what3words": null
+        },
+        "252056": {
+            "nom": "Sidamon",
+            "coordenades": [41.633333, 0.8],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Bartomeu"
+            },
+            "codiPostal": null,
+            "codiINE": "25205",
+            "what3words": null
+        },
+        "252304": {
+            "nom": "Torregrossa",
+            "coordenades": [41.583333, 0.783333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Pere Apòstol"
+            },
+            "codiPostal": null,
+            "codiINE": "25230",
+            "what3words": null
+        },
+        "252483": {
+            "nom": "Vilanova de Bellpuig",
+            "coordenades": [41.633333, 0.933333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25248",
+            "what3words": null
+        },
+        "252521": {
+            "nom": "Vila-sana",
+            "coordenades": [41.683333, 0.933333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Lleida",
+                "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": null,
+            "codiINE": "25252",
+            "what3words": null
+        }
+      }
+    },
+    "32": {"nom": "Segarra", "municipis": {
+        "250729": {
+            "nom": "Cervera",
+            "coordenades": [41.666667, 1.283333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25072",
+            "what3words": null
+        },
+        "250851": {
+            "nom": "Estaràs",
+            "coordenades": [41.716667, 1.3],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": null,
+            "codiINE": "25085",
+            "what3words": null
+        },
+        "251039": {
+            "nom": "Granyanella",
+            "coordenades": [41.666667, 1.25],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": null,
+            "codiINE": "25103",
+            "what3words": null
+        },
+        "251044": {
+            "nom": "Granyena de Segarra",
+            "coordenades": [41.616667, 1.216667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25104",
+            "what3words": null
+        },
+        "251109": {
+            "nom": "Guissona",
+            "coordenades": [41.8, 1.283333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Santa Maria"
+            },
+            "codiPostal": null,
+            "codiINE": "25110",
+            "what3words": null
+        },
+        "251142": {
+            "nom": "Ivorra",
+            "coordenades": [41.816667, 1.333333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25114",
+            "what3words": null
+        },
+        "251327": {
+            "nom": "Massoteres",
+            "coordenades": [41.833333, 1.283333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25132",
+            "what3words": null
+        },
+        "251410": {
+            "nom": "Montoliu de Segarra",
+            "coordenades": [41.65, 1.2],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25141",
+            "what3words": null
+        },
+        "251431": {
+            "nom": "Montornès de Segarra",
+            "coordenades": [41.65, 1.166667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Joan Baptista"
+            },
+            "codiPostal": null,
+            "codiINE": "25143",
+            "what3words": null
+        },
+        "251522": {
+            "nom": "Les Oluges",
+            "coordenades": [41.7, 1.25],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25152",
+            "what3words": null
+        },
+        "251919": {
+            "nom": "Sanaüja",
+            "coordenades": [41.85, 1.283333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": null,
+            "codiINE": "25191",
+            "what3words": null
+        },
+        "251924": {
+            "nom": "Sant Guim de Freixenet",
+            "coordenades": [41.683333, 1.4],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Jaume"
+            },
+            "codiPostal": null,
+            "codiINE": "25192",
+            "what3words": null
+        },
+        "251945": {
+            "nom": "Sant Ramon",
+            "coordenades": [41.75, 1.3],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Ramon Nonat"
+            },
+            "codiPostal": null,
+            "codiINE": "25194",
+            "what3words": null
+        },
+        "251977": {
+            "nom": "Sant Guim de la Plana",
+            "coordenades": [41.716667, 1.35],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Guim"
+            },
+            "codiPostal": null,
+            "codiINE": "25197",
+            "what3words": null
+        },
+        "252167": {
+            "nom": "Talavera",
+            "coordenades": [41.583333, 1.3],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25216",
+            "what3words": null
+        },
+        "252192": {
+            "nom": "Tarroja de Segarra",
+            "coordenades": [41.733333, 1.25],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25219",
+            "what3words": null
+        },
+        "259059": {
+            "nom": "Ribera d'Ondara",
+            "coordenades": [41.65, 1.35],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat de Solsona",
+                "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25905",
+            "what3words": null
+        },
+        "259078": {
+            "nom": "Torrefeta i Florejacs",
+            "coordenades": [41.783333, 1.2],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Amanç"
+            },
+            "codiPostal": null,
+            "codiINE": "25907",
+            "what3words": null
+        },
+        "259118": {
+            "nom": "Els Plans de Sió",
+            "coordenades": [41.733333, 1.15],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Bisbat d'Urgell",
+                "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25911",
+            "what3words": null
+        }
+      }
+    },
+    "33": {"nom": "Segrià", "municipis": {
+        "250045": {
+            "nom": "Els Alamús",
+            "coordenades": [41.614, 0.740],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Martín, obispo"
+            },
+            "codiPostal": "25221",
+            "codiINE": "25004",
+            "what3words": "///salsa.salsa.salsa"
+        },
+        "250077": {
+            "nom": "Albatàrrec",
+            "coordenades": [41.575, 0.606],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Transfiguración del Señor"
+            },
+            "codiPostal": "25171",
+            "codiINE": "25007",
+            "what3words": "///manicured.albatross.vipers"
+        },
+        "250100": {
+            "nom": "Alcanó",
+            "coordenades": [41.482778, 0.618889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Pedro Apóstol"
+            },
+            "codiPostal": "25162",
+            "codiINE": "25010",
+            "what3words": "///pretty.needed.chill"
+        },
+        "250117": {
+            "nom": "Alcarràs",
+            "coordenades": [41.563831, 0.524069],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": "25180",
+            "codiINE": "25011",
+            "what3words": null
+        },
+        "250122": {
+            "nom": "Alcoletge",
+            "coordenades": [41.647636, 0.694722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Miquel Arcàngel"
+            },
+            "codiPostal": "25660",
+            "codiINE": "25012",
+            "what3words": null
+        },
+        "250138": {
+            "nom": "Alfarràs",
+            "coordenades": [41.832778, 0.572222],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Pedro, apóstol"
+            },
+            "codiPostal": "25120",
+            "codiINE": "25013",
+            "what3words": null
+        },
+        "250143": {
+            "nom": "Alfés",
+            "coordenades": [41.5225, 0.621389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": null,
+            "codiINE": "25014",
+            "what3words": null
+        },
+        "250169": {
+            "nom": "Alguaire",
+            "coordenades": [41.738611, 0.585556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Saturnino, obispo"
+            },
+            "codiPostal": "25125",
+            "codiINE": "25016",
+            "what3words": null
+        },
+        "250194": {
+            "nom": "Almacelles",
+            "coordenades": [41.733333, 0.440278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Nuestra Señora de la Merced"
+            },
+            "codiPostal": "25100",
+            "codiINE": "25019",
+            "what3words": null
+        },
+        "250208": {
+            "nom": "Almatret",
+            "coordenades": [41.305556, 0.422778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Miguel, arcángel"
+            },
+            "codiPostal": "25187",
+            "codiINE": "25020",
+            "what3words": null
+        },
+        "250215": {
+            "nom": "Almenar",
+            "coordenades": [41.6796, 0.449],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": "25126",
+            "codiINE": "25021",
+            "what3words": null
+        },
+        "250236": {
+            "nom": "Alpicat",
+            "coordenades": [41.668056, 0.556111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Bartolomé, apóstol"
+            },
+            "codiPostal": "25110",
+            "codiINE": "25023",
+            "what3words": null
+        },
+        "250334": {
+            "nom": "Artesa de Lleida",
+            "coordenades": [41.553054, 0.7033745],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Miguel, arcángel"
+            },
+            "codiPostal": "25150",
+            "codiINE": "25033",
+            "what3words": null
+        },
+        "250365": {
+            "nom": "Aspa",
+            "coordenades": [41.5, 0.666667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": null,
+            "codiINE": "25036",
+            "what3words": null
+        },
+        "250387": {
+            "nom": "Aitona",
+            "coordenades": [41.494444, 0.459444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Antolín, mártir"
+            },
+            "codiPostal": "25182",
+            "codiINE": "25038",
+            "what3words": null
+        },
+        "250539": {
+            "nom": "Benavent de Segrià",
+            "coordenades": [41.695833, 0.633056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Juan Bautista"
+            },
+            "codiPostal": "25132",
+            "codiINE": "25053",
+            "what3words": null
+        },
+        "250788": {
+            "nom": "Corbins",
+            "coordenades": [41.6901038, 0.6927257],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Jaume Apòstol"
+            },
+            "codiPostal": "25137",
+            "codiINE": "25078",
+            "what3words": null
+        },
+        "251023": {
+            "nom": "La Granja d'Escarp",
+            "coordenades": [41.420833, 0.353611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Jaime, apóstol"
+            },
+            "codiPostal": "25185",
+            "codiINE": "25102",
+            "what3words": null
+        },
+        "251207": {
+            "nom": "Lleida",
+            "coordenades": [41.617592, 0.620015],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Multiple"
+            },
+            "codiPostal": "25001-25008, 25196, 25198, 25199",
+            "codiINE": "25120",
+            "what3words": null
+        },
+        "251253": {
+            "nom": "Llardecans",
+            "coordenades": [41.376111, 0.550833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": "25186",
+            "codiINE": "25125",
+            "what3words": null
+        },
+        "251312": {
+            "nom": "Massalcoreig",
+            "coordenades": [41.461111, 0.360278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Bartolomé, apóstol"
+            },
+            "codiPostal": "25184",
+            "codiINE": "25131",
+            "what3words": null
+        },
+        "251333": {
+            "nom": "Maials",
+            "coordenades": [41.363889, 0.505278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Assumpció de la Mare de Déu"
+            },
+            "codiPostal": "25179",
+            "codiINE": "25133",
+            "what3words": null
+        },
+        "251425": {
+            "nom": "Montoliu de Lleida",
+            "coordenades": [41.561389, 0.590833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Natividad de Nuestra Señora"
+            },
+            "codiPostal": "25172",
+            "codiINE": "25142",
+            "what3words": null
+        },
+        "251749": {
+            "nom": "La Portella",
+            "coordenades": [41.741111, 0.641667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": "25134",
+            "codiINE": "25174",
+            "what3words": null
+        },
+        "251826": {
+            "nom": "Puigverd de Lleida",
+            "coordenades": [41.54424, 0.73134],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Bartomeu"
+            },
+            "codiPostal": "25153",
+            "codiINE": "25182",
+            "what3words": null
+        },
+        "251898": {
+            "nom": "Rosselló",
+            "coordenades": [41.695833, 0.596111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Pere"
+            },
+            "codiPostal": "25124",
+            "codiINE": "25189",
+            "what3words": null
+        },
+        "252000": {
+            "nom": "Sarroca de Lleida",
+            "coordenades": [41.460833, 0.562778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": null,
+            "codiINE": "25200",
+            "what3words": null
+        },
+        "252043": {
+            "nom": "Seròs",
+            "coordenades": [41.461667, 0.411944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": "25183",
+            "codiINE": "25204",
+            "what3words": null
+        },
+        "252108": {
+            "nom": "Soses",
+            "coordenades": [41.535, 0.487778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Lorenzo, mártir"
+            },
+            "codiPostal": "25181",
+            "codiINE": "25210",
+            "what3words": null
+        },
+        "252115": {
+            "nom": "Sudanell",
+            "coordenades": [41.558333, 0.568056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "San Pedro, apóstol"
+            },
+            "codiPostal": "25173",
+            "codiINE": "25211",
+            "what3words": null
+        },
+        "252120": {
+            "nom": "Sunyer",
+            "coordenades": [41.524722, 0.593611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Nativitat de la Mare de Déu"
+            },
+            "codiPostal": "25174",
+            "codiINE": "25212",
+            "what3words": "///summer.trace.locate"
+        },
+        "252265": {
+            "nom": "Torrebesses",
+            "coordenades": [41.427719, 0.593892],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Salvador"
+            },
+            "codiPostal": null,
+            "codiINE": "25226",
+            "what3words": null
+        },
+        "252287": {
+            "nom": "Torrefarrera",
+            "coordenades": [41.675, 0.608056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Exaltación de la Santa Cruz"
+            },
+            "codiPostal": "25123",
+            "codiINE": "25228",
+            "what3words": null
+        },
+        "252326": {
+            "nom": "Torres de Segre",
+            "coordenades": [41.535381, 0.513211],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": "25170",
+            "codiINE": "25232",
+            "what3words": null
+        },
+        "252332": {
+            "nom": "Torre-serona",
+            "coordenades": [41.674167, 0.631944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": null,
+            "codiINE": "25233",
+            "what3words": "///reservan.rosa.torre"
+        },
+        "252516": {
+            "nom": "Vilanova de Segrià",
+            "coordenades": [41.713889, 0.619722],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Lleida",
+            "parroquia": "Sant Sebastià, màrtir"
+            },
+            "codiPostal": "25133",
+            "codiINE": "25251",
+            "what3words": null
+        },
+        "252542": {
+            "nom": "Vilanova de la Barca",
+            "coordenades": [41.691111, 0.728611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Asunción de Nuestra Señora"
+            },
+            "codiPostal": "25690",
+            "codiINE": "25254",
+            "what3words": null
+        },
+        "259123": {
+            "nom": "Gimenells i el Pla de la Font",
+            "coordenades": [41.65, 0.383333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": null
+            },
+            "codiPostal": "25112",
+            "codiINE": "25912",
+            "what3words": null
+        }
+      }
+    },
+    "35": {"nom": "Solsonès", "municipis": {
+        "250557": {
+            "nom": "Biosca",
+            "coordenades": [41.843611, 1.359167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Solsona",
+            "parroquia": "Sant Pere"
+            },
+            "codiPostal": null,
+            "codiINE": "25055",
+            "what3words": null
+        },
+        "250642": {
+            "nom": "Castellar de la Ribera",
+            "coordenades": [42.0235, 1.4165],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Pere de Castellar"
+            },
+            "codiPostal": "25064",
+            "codiINE": "25064",
+            "what3words": null
+        },
+        "250753": {
+            "nom": "Clariana de Cardener",
+            "coordenades": [41.934722, 1.630833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Serni de Clariana"
+            },
+            "codiPostal": null,
+            "codiINE": "25075",
+            "what3words": "///card.many.care"
+        },
+        "251116": {
+            "nom": "Guixers",
+            "coordenades": [42.133889, 1.667778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Martí de Guixers"
+            },
+            "codiPostal": null,
+            "codiINE": "25111",
+            "what3words": "///start.guises.driven"
+        },
+        "251240": {
+            "nom": "Lladurs",
+            "coordenades": [42.044722, 1.508611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Santa Maria de Lladurs"
+            },
+            "codiPostal": "25283",
+            "codiINE": "25124",
+            "what3words": null
+        },
+        "251291": {
+            "nom": "Llobera",
+            "coordenades": [41.952778, 1.473889],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Pere de Llobera"
+            },
+            "codiPostal": "25281",
+            "codiINE": "25129",
+            "what3words": null
+        },
+        "251364": {
+            "nom": "La Molsosa",
+            "coordenades": [41.787222, 1.545],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Santa Maria de la Molsosa"
+            },
+            "codiPostal": null,
+            "codiINE": "25136",
+            "what3words": null
+        },
+        "251462": {
+            "nom": "Navès",
+            "coordenades": [41.991667, 1.635],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Santa Margarida"
+            },
+            "codiPostal": "25286",
+            "codiINE": "25146",
+            "what3words": null
+        },
+        "251484": {
+            "nom": "Odèn",
+            "coordenades": [42.132813, 1.392568],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Julià"
+            },
+            "codiPostal": "25283",
+            "codiINE": "25148",
+            "what3words": null
+        },
+        "251517": {
+            "nom": "Olius",
+            "coordenades": [41.977778, 1.555],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Esteve d'Olius"
+            },
+            "codiPostal": "25286",
+            "codiINE": "25151",
+            "what3words": null
+        },
+        "251636": {
+            "nom": "La Coma i la Pedra",
+            "coordenades": [42.177778, 1.590833],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Quirze i Santa Julita de la Coma"
+            },
+            "codiPostal": "25284",
+            "codiINE": "25163",
+            "what3words": null
+        },
+        "251667": {
+            "nom": "Pinell de Solsonès",
+            "coordenades": [41.95, 1.418333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Miquel de Pinell"
+            },
+            "codiPostal": "25286",
+            "codiINE": "25166",
+            "what3words": null
+        },
+        "251673": {
+            "nom": "Pinós",
+            "coordenades": [null, null],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Vicenç de Pinós"
+            },
+            "codiPostal": "25287",
+            "codiINE": "25167",
+            "what3words": null
+        },
+        "251863": {
+            "nom": "Riner",
+            "coordenades": [41.941389, 1.563611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat de Solsona",
+            "parroquia": "Sant Cristòfol de Freixinet"
+            },
+            "codiPostal": null,
+            "codiINE": "25186",
+            "what3words": null
+        },
+        "251930": {
+            "nom": "Sant Llorenç de Morunys",
+            "coordenades": [42.137222, 1.59],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Sant Llorenç de Morunys"
+            },
+            "codiPostal": "25282",
+            "codiINE": "25193",
+            "what3words": null
+        },
+        "252075": {
+            "nom": "Solsona",
+            "coordenades": [41.979722, 1.513056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": "Parròquia de Solsona (Catedral)"
+            },
+            "codiPostal": "25280",
+            "codiINE": "25207",
+            "what3words": null
+        },
+        "252234": {
+            "nom": "Torà",
+            "coordenades": [41.813056, 1.402778],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Bisbat de Solsona",
+            "parroquia": null
+            },
+            "codiPostal": "25750, 25751",
+            "codiINE": "25223",
+            "what3words": null
+        }
+      }
+    },
+    "38": {"nom": "Urgell", "municipis": {
+        "250030": {
+            "nom": "Agramunt",
+            "coordenades": [41.786111, 1.096111],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diòcesi d'Urgell",
+            "parroquia": "Santa Maria d'Agramunt"
+            },
+            "codiPostal": "25310",
+            "codiINE": "25003",
+            "what3words": null
+        },
+        "250273": {
+            "nom": "Anglesola",
+            "coordenades": [41.65719139999999, 1.0837613],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Sant Pau de Narbona d'Anglesola"
+            },
+            "codiPostal": null,
+            "codiINE": "25027",
+            "what3words": null
+        },
+        "250463": {
+            "nom": "Belianes",
+            "coordenades": [41.5625, 1.018056],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Sant Jaume"
+            },
+            "codiPostal": "25266",
+            "codiINE": "25046",
+            "what3words": null
+        },
+        "250501": {
+            "nom": "Bellpuig",
+            "coordenades": [41.626667, 1.013333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Sant Nicolau"
+            },
+            "codiPostal": "25250",
+            "codiINE": "25050",
+            "what3words": null
+        },
+        "250707": {
+            "nom": "Castellserà",
+            "coordenades": [41.748333, 0.989167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "Diócesis de Lleida",
+            "parroquia": "Santa Magdalena"
+            },
+            "codiPostal": "25334",
+            "codiINE": "25070",
+            "what3words": null
+        },
+        "250740": {
+            "nom": "Ciutadilla",
+            "coordenades": [41.562778, 1.141389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Sant Miquel"
+            },
+            "codiPostal": "25341",
+            "codiINE": "25074",
+            "what3words": null
+        },
+        "250962": {
+            "nom": "La Fuliola",
+            "coordenades": [41.716667, 1.016667],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Santa Llúcia"
+            },
+            "codiPostal": "25332",
+            "codiINE": "25096",
+            "what3words": null
+        },
+        "251095": {
+            "nom": "Guimerà",
+            "coordenades": [41.564444, 1.185278],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Santa Maria"
+            },
+            "codiPostal": "25341",
+            "codiINE": "25109",
+            "what3words": null
+        },
+        "251305": {
+            "nom": "Maldà",
+            "coordenades": [41.552778, 1.039444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Sant Pere"
+            },
+            "codiPostal": "25266",
+            "codiINE": "25130",
+            "what3words": null
+        },
+        "251459": {
+            "nom": "Nalec",
+            "coordenades": [41.561667, 1.116389],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": "25341",
+            "codiINE": "25145",
+            "what3words": null
+        },
+        "251543": {
+            "nom": "Els Omells de na Gaia",
+            "coordenades": [41.502222, 1.076944],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Santa Maria"
+            },
+            "codiPostal": "25268",
+            "codiINE": "25154",
+            "what3words": null
+        },
+        "251575": {
+            "nom": "Ossó de Sió",
+            "coordenades": [41.755, 1.159167],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": "25318",
+            "codiINE": "25157",
+            "what3words": null
+        },
+        "251765": {
+            "nom": "Preixana",
+            "coordenades": [null, null],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": null,
+            "codiINE": "25176",
+            "what3words": null
+        },
+        "251811": {
+            "nom": "Puigverd d'Agramunt",
+            "coordenades": [41.779722, 1.123333],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": "25318",
+            "codiINE": "25181",
+            "what3words": null
+        },
+        "252173": {
+            "nom": "Tàrrega",
+            "coordenades": [41.646389, 1.139444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": "25300, 25350, 25351, 25352, 25353, 25354, 25360",
+            "codiINE": "25217",
+            "what3words": null
+        },
+        "252252": {
+            "nom": "Tornabous",
+            "coordenades": [41.703056, 1.055556],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": "25331",
+            "codiINE": "25225",
+            "what3words": null
+        },
+        "252385": {
+            "nom": "Vallbona de les Monges",
+            "coordenades": [41.525, 1.088611],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": "Santa Maria de Vallbona (Monastery)"
+            },
+            "codiPostal": null,
+            "codiINE": "25238",
+            "what3words": null
+        },
+        "252424": {
+            "nom": "Verdú",
+            "coordenades": [41.612778, 1.144444],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+            "bisbat": "bisbat Urgell",
+            "parroquia": null
+            },
+            "codiPostal": null,
+            "codiINE": "25242",
+            "what3words": null
+        },
+        "252445": {
+            "nom": "Vilagrassa",
+            "coordenades": [41.64871942074822, 1.1051288797476138],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "bisbat Urgell",
+                "parroquia": null
+            },
+            "codiPostal": "25330",
+            "codiINE": "25244",
+            "what3words": null
+        },
+        "259025": {
+            "nom": "Sant Martí de Riucorb",
+            "coordenades": [41.5601294952181, 1.0546639321368212],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "bisbat Urgell",
+                "parroquia": null
+            },
+            "codiPostal": "25344",
+            "codiINE": "25902",
+            "what3words": null
+        }
+      }
+    },
+    "39": {"nom": "Val d'aran", "municipis": {
+        "250254": {
+            "nom": "Naut Aran",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Andreu de Salardú"
+            },
+            "codiPostal": "25598",
+            "codiINE": "25025",
+            "what3words": null
+        },
+        "250313": {
+            "nom": "Arres",
+            "coordenades": [42.555477944724025, -0.8270846460959823],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Joan i Sant Pere d'Arres"
+            },
+            "codiPostal": "25551",
+            "codiINE": "25031",
+            "what3words": "postres.espaiosos.repetides"
+        },
+        "250450": {
+            "nom": "Bausen",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Pere de Bausen"
+            },
+            "codiPostal": "25549",
+            "codiINE": null,
+            "what3words": null
+        },
+        "250576": {
+            "nom": "Es Bòrdes",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Santa Maria d'Es Bòrdes"
+            },
+            "codiPostal": "25551",
+            "codiINE": null,
+            "what3words": null
+        },
+        "250595": {
+            "nom": "Bossòst",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "La Purificació de Bossòst"
+            },
+            "codiPostal": "25550",
+            "codiINE": null,
+            "what3words": null
+        },
+        "250637": {
+            "nom": "Canejan",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Serni de Canejan"
+            },
+            "codiPostal": "25548",
+            "codiINE": null,
+            "what3words": null
+        },
+        "251214": {
+            "nom": "Les",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Joan Baptista de Les"
+            },
+            "codiPostal": "25540",
+            "codiINE": null,
+            "what3words": null
+        },
+        "252430": {
+            "nom": "Vielha e Mijaran",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "Sant Miquel de Vielha"
+            },
+            "codiPostal": "25530",
+            "codiINE": null,
+            "what3words": null
+        },
+        "252477": {
+            "nom": "Vilamòs",
+            "coordenades": [],
+            "estatPoblacio": "poblat",
+            "afiliacioReligiosa": {
+                "bisbat": "Urgell",
+                "parroquia": "L'Assumpció de Vilamòs"
+            },
+            "codiPostal": "25551",
+            "codiINE": null,
+            "what3words": null
+        }
+      }
+    }
+  }
+}

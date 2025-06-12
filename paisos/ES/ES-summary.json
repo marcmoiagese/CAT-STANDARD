@@ -1,0 +1,23 @@
+{
+  "tipus": "resum",
+  "comunitatsAutonomes": {
+    "AN": {
+      "nom": "Andalusia",
+      "codiISO": "ES-AN",
+      "numProvincies": 8,
+      "arxiuDetall": "comunitats_autonomes/ES-AN-summary.json"
+    },
+    "CT": {
+      "nom": "Catalunya",
+      "codiISO": "ES-CT",
+      "numProvincies": 4,
+      "arxiuDetall": "comunitats_autonomes/ES-CT-summary.json"
+    }
+  },
+  "ciutatsAutonomes": {
+    "CE": {
+      "nom": "Ceuta",
+      "arxiu": "ciutats_autonomes/ceuta.json"
+    }
+  }
+}

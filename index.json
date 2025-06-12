@@ -1,0 +1,22 @@
+{
+  "versio": "1.0",
+  "ultimaActualitzacio": "2023-11-16",
+  "esquema": {
+    "pais": ["name", "ISO_3166-1", "dataPath", "subdivisionTypes"],
+    "assentament": ["nom", "codi", "populationStatus", "religiousAffiliation"]
+  },
+  "pais": {
+    "ES": {
+      "nom": "Espanya",
+      "ISO_3166-1": { "alpha-2": "ES", "alpha-3": "ESP", "numeric": "724" },
+      "dadesArxiu": "paisos/ES/ES-summary.json",
+      "tiposDeSubdivisio": ["comunitat_autonoma", "ciutat_autonoma", "provincia"]
+    },
+    "FR": {
+      "nom": "França",
+      "ISO_3166-1": { "alpha-2": "FR", "alpha-3": "FRA", "numeric": "724" },
+      "dadesArxiu": "paisos/FR/",
+      "tiposDeSubdivisio": ["regio", "collectivitat_ultramar", "departament", "districte"]
+    }
+  }
+}
