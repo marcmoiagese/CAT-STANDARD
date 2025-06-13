@@ -10,7 +10,90 @@
           "afiliacioReligiosa": {"bisbat": "Sant Feliu de Llobregat"},
           "codiPostal": "08793",
           "codiINE": "08013",
-          "what3words": "eclipsis.feix.agraïts"
+          "what3words": "eclipsis.feix.agraïts",
+          "nuclis": {
+                "0801370001700": {
+                  "nom": "L'Arboçar",
+                  "coordenades": [41.33279963724082, 1.7644393313536826],
+                  "estatPoblacio": "poblat",
+                  "what3words": "catifa.ondulats.enfortida",
+                  "tipo": "barri",
+                  "codiIDESCAT": "0801370001700",
+                  "codiINE": "08013000100"
+                },
+                "0801370002200": {
+                  "nom": "Avinyó Nou",
+                  "coordenades": [41.360815870698886, 1.7767074662105957],
+                  "estatPoblacio": "poblat",
+                  "what3words": "científics.saló.informats",
+                  "tipo": null,
+                  "codiIDESCAT": "0801370002200",
+                  "codiINE": "08013000200"
+                },
+                "0801370010800": {
+                  "nom": "Can Mitjans",
+                  "coordenades": [41.34344272627511, 1.8133582543266258],
+                  "estatPoblacio": "poblat",
+                  "what3words": "banys.estàtues.fotocopiat",
+                  "tipo": "Urbanització",
+                  "codiIDESCAT": "0801370010800",
+                  "codiINE": "08013001000"
+                },
+                "0801370003800": {
+                  "nom": "Cantallops",
+                  "coordenades": [41.36692978710525, 1.8002071709304845],
+                  "estatPoblacio": "poblat",
+                  "what3words": "mesurada.banyada.rebots",
+                  "tipo": "Llogarret",
+                  "codiIDESCAT": "0801370003800",
+                  "codiINE": null
+                },
+                "0801370007500": {
+                  "nom": "Clariana",
+                  "coordenades": [41.36321523830063, 1.7841544157881557],
+                  "estatPoblacio": "poblat",
+                  "what3words": "escalopa.espaioses.impacient",
+                  "tipo": "barri",
+                  "codiIDESCAT": "0801370007500",
+                  "codiINE": "08013000700"
+                },
+                "0801370008100": {
+                  "nom": "Collblanc",
+                  "coordenades": [41.36488336178499, 1.790633603775091],
+                  "estatPoblacio": "poblat",
+                  "what3words": "garatges.rems.alenada",
+                  "tipo": "barri",
+                  "codiIDESCAT": "0801370008100",
+                  "codiINE": null
+                },
+                "0801370009400": {
+                  "nom": "La Garrofa",
+                  "coordenades": [41.38975754059458, 1.7420504585755634],
+                  "estatPoblacio": "poblat",
+                  "what3words": "piulades.espai.poblant",
+                  "tipo": "barri",
+                  "codiIDESCAT": "0801370009400",
+                  "codiINE": null
+                },
+                "0801370004300": {
+                  "nom": "Les Gunyoles",
+                  "coordenades": [41.35220273581026, 1.7811959733317002],
+                  "estatPoblacio": "poblat",
+                  "what3words": "pometes.rebombori.imaginats",
+                  "tipo": "Llogarret",
+                  "codiIDESCAT": "0801370004300",
+                  "codiINE": "08013000400"
+                },
+                "0801370005600": {
+                  "nom": "Sant Sebastià dels Gorgs",
+                  "coordenades": [41.3806753385177, 1.7662881131254884],
+                  "estatPoblacio": "poblat",
+                  "what3words": "enfortits.equilibrat.bomber",
+                  "tipo": "Llogarret",
+                  "codiIDESCAT": "0801370005600",
+                  "codiINE": "08013000500"
+                }
+            }
         },
         "080272": {
           "nom": "Les Cabanyes",

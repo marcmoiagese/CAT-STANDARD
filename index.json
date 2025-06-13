@@ -1,9 +1,21 @@
 {
   "versio": "1.0",
-  "ultimaActualitzacio": "2023-11-16",
+  "ultimaActualitzacio": "13-06-2025",
   "esquema": {
     "pais": ["name", "ISO_3166-1", "dataPath", "subdivisionTypes"],
-    "assentament": ["nom", "codi", "populationStatus", "religiousAffiliation"]
+    "assentament": ["nom", "codi", "populationStatus", "religiousAffiliation"],
+    "nucli": ["id", "nom", "coordenades", "estatPoblacio", "what3words", "tipo", "codiIDESCAT", "codiINE"],
+    "bisbat": ["nom", "tipus", "seu", "provincies", "arxiuRelacio"]
+  },
+  "indexos": {
+    "ES": {
+      "arquebisbats": "indexos/ES-arquebisbats.json",
+      "noms-pobles": "indexos/ES-noms-pobles.json"
+    },
+    "FR": {
+      "diocesis": "indexos/FR-diocesis.json",
+      "noms-communes": "indexos/FR-noms-communes.json"
+    }
   },
   "pais": {
     "ES": {

@@ -1,10 +1,11 @@
 {
-  "ultimaActualitzacio": "2023-11-15",
+  "ultimaActualitzacio": "13-06-2025",
   "bisbats": {
     "Barcelona": {
       "tipus": "arquebisbat",
       "municipis": ["08019", "08001", "08291"],
-      "provincies": ["08"]
+      "provincies": ["08"],
+      "arxiuRelacio": "paisos/ES/comunitats_autonomes/ES-CT-detall/08-barcelona.json"
     },
     "Tarragona": {
       "tipus": "arquebisbat",

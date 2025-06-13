@@ -1571,7 +1571,15 @@
             },
             "codiPostal": null,
             "codiINE": "25113",
-            "what3words": null
+            "what3words": null,
+            "nuclis": [
+                {
+                "nom": "Vallverd",
+                "coordenades": [41.692, 0.955],
+                "estatPoblacio": "poblat",
+                "what3words": "///village.river.bridge"
+                }
+            ]
         },
         "251229": {
             "nom": "Linyola",
